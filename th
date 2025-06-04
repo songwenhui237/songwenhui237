@@ -45,3 +45,5 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNTV.th" tvg-name="GBN TV" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="th",GBN TV
 http://us.gbnus.com/live/dhamma_high/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMuslim.th" tvg-name="TV Muslim" tvg-logo="http://tvmuslim.org/wp-content/uploads/2022/12/ferg.png" group-title="th",TV Muslim
+https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
