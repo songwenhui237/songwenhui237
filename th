@@ -98,3 +98,5 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Thaichaiyo.th" tvg-name="Thaichaiyo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Thaichaiyo_2012.png" group-title="th",Thaichaoyo
 https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
+#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png" group-title="th", Cool Channel
+https://live.cool-channel.com/cool/live-transmux.m3u8
