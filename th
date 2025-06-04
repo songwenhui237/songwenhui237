@@ -66,7 +66,7 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="CH8.th" tvg-name="CH 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/20/Ch_8_2016.svg" group-title="th",CH 8
 https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
-#EXTINF:-1 tvg-id="BoomerangCartoon.th" tvg-name="Boomerang Cartoon" tvg-logo="https://tiebapic.baidu.com/forum/w%3D720%3Bq%3D60%3Bg%3D0/sign=0138a270be1986184147ed867ad65f4e/46a845a98226cffcac3498a3ff014a90f703eaf7.jpg?tbpicau=2025-06-16-05_6650bc48b736c551f74c32c5500ac71c" group-title="th",Boomerang Cartoon
+#EXTINF:-1 tvg-id="BoomerangCartoon.th" tvg-name="Boomerang Cartoon" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/BoomThailand2025.png" group-title="th",Boomerang Cartoon
 https://lb1-live-mv.v2h-cdn.com/hls/ffbd/boomanime/boomanime.m3u8
 #EXTINF:-1 tvg-id="Mono29.th tvg-name="Mono 29" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/MONO29.svg" group-title="th",Mono29
 https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
