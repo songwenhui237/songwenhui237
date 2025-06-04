@@ -28,3 +28,5 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
 #EXTINF:-1 tvg-id="MVTV75.th" tvg-name="MVTV 75" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="th",MVTV 75
 https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
+#EXTINF:-1 tvg-id="13SiamThai.th" tvg-name="13 Siam Thai" tvg-logo="https://13livetv.com/asset/logo-512.png" group-title="th",13 Siam Thai
+https://live.x2.co.th/live/13livetv-th.m3u8
