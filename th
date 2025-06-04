@@ -100,3 +100,5 @@ http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
 #EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://cool-channel.com/wp-content/uploads/2022/11/Logo-Final-03-10-59.png" group-title="th", Cool Channel
 https://live.cool-channel.com/cool/live-transmux.m3u8
+#EXTINF:-1 tvg-id="ThaiNews.th" tvg-name="Thai News" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="th",Thai News
+https://live.thaitvstream.com/play/thainews/index.m3u8
