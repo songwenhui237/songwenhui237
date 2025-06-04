@@ -104,5 +104,7 @@ https://live.cool-channel.com/cool/live-transmux.m3u8
 https://live.thaitvstream.com/play/thainews/index.m3u8
 #EXTINF:-1 tvg-id="MounchonTV.th" tvg-name="Mounchon TV" tvg-logo="https://thaitvstream.com/streaming/mounchontv/mounchontv.png" group-title="th",Mounchon TV
 https://live2.thaitvstream.com/play/mounchontv/index.m3u8
-#EXTINF:-1 tvg-id=SiamNews.th" tvg-name="Siam News" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="th",Siam News
+#EXTINF:-1 tvg-id="SiamNews.th" tvg-name="Siam News" tvg-logo="https://thaitvstream.com/streaming/siamnewstv/siamnewstv.png" group-title="th",Siam News
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
+#EXTINF:-1 tvg-id="MediaNews.th" tvg-name="Media News" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title=th",Media News
+https://live1.thaitvstream.com/play/medianews/index.m3u8
