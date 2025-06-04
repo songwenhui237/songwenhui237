@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CTV8" tvg-name="CTV8" tvg-logo="https://cdn5.cdn-telegram.org/file/PAvsHDv8-0zsXGWpjhmq5V32qv6L3nEJgUN1qMA6br5MI18N93vhDde5QCigyDVXRoW2Hvq9P5kZ4rxc7LD3UXRrdhoX3JvfroJKPRg1gvIjUs1z4Qr2dDSsrH3nTMh6vIv5LSP6aGZbnkuvv7Kf6MZcpKnYlflxT5BDAGXNeL9S68-DcNoHOvUQGTt4vtLKCjuBdANRJlvBsuSWZpym8IAoSPLkpF1vM5lnytvT8NTIC15ye_q28YYMvwNnnJpkrQjppNU5hTntGzI5fvEpe-SaSsyjCtuv57VjSw7fJ8kHe0aJDZ7sVwIG_DffNP_r9wF645Md5mJd1ruSQhi40w.jpg" group-title="kh",CTV8
+#EXTINF:-1 tvg-id="CTV8" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="kh",CTV8
 http://43.252.18.195:5080/live/streams/ctv8.m3u8
