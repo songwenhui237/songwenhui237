@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="News1.th",News 1
+#EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo=https://news1live.com/images/news1-logo.png group-title="th",News 1 
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT.th",NBT (576p)
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
