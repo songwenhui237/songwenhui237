@@ -14,7 +14,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://www.thaitv5hd.com/web/img/logo.svg" group-title="th",TV5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="th",Boomerang
+#EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/BoomThailand2025.png" group-title="th",Boomerang
 https://live-us1.thaimomo.com/live-as/chboomerang-2/playlist.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="TSports7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png" group-title="th",TSports7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
