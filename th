@@ -87,3 +87,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
 #EXTINF:-1 tvg-id="Amarin34.th" tvg-name="Amarin 34" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg" group-title="th",Amarin 34
 https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+#EXTINF:-1 tvg-id="BBTV7HD.th" tvg-name="BBTV7 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png" group-title="th",BBTV7 HD
+https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
+http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
