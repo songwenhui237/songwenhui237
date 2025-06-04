@@ -84,3 +84,4 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="Channel3HD.th" tvg-name="Channel 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8f/CH3TH_2020.svg" group-title="th",Channel 3 HD
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
+#EXTINF:-1 tvg-id="Amarin34.th" tvg-name="Amarin 34" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg" group-title="th", Amarin 34
