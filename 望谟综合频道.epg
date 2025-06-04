@@ -1,28 +1,28 @@
 
 <!--
-* @描述:
-* @版本:
-* @作者:yrj
-* @日期:2024-05-30 09:11:50
-* @最后的编辑者: yrj
-* @LastEditTime:2024-08-05 09:17:19
+ * @Description: 
+ * @version: 
+ * @Author: yrj
+ * @Date: 2024-05-30 09:11:50
+ * @LastEditors: yrj
+ * @LastEditTime: 2024-08-05 09:17:19
 -->
-<!文档类型超文本标记语言 >
-< 超文本标记语言语言="恩">"恩">
+<!DOCTYPE html>
+<html lang="en">
 
-< 头 >
-<链接版本="样式表"href="./assets/uni.ec7436c8.css ">
+<head>
+  <link rel="stylesheet" href="./assets/uni.ec7436c8.css">
 
-<元字符集=“UTF八号" />
-<元名称="视窗"
-内容=宽度=设备宽度，用户可扩展=否，初始比例=1.0，最大比例=1.0，最小比例=1.0 />
-<链接版本="图标" href= "./资产/图标-BR8odCsu.图标资源文件 ">
-<标题>温暖望谟</title >
-<!-预加载-链接-->
-<!-应用程序上下文-->
-<脚本类型="模块"交叉原点src= "./资产/指数-B7zwX1vN.射流研究… " > </script >
-<链接版本="样式表" crossorigin href= "./资产/指数-g-9B依尔塞努西多项婚姻调查表.钢性铸铁 ">
-</head >
+  <meta charset="UTF-8" />
+  <meta name="viewport"
+    content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0" />
+  <link rel="icon" href="./assets/icon-BR8odCsu.ico">
+  <title>温暖望谟</title>
+  <!--preload-links-->
+  <!--app-context-->
+  <script type="module" crossorigin src="./assets/index-B7zwX1vN.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-g-9BSmMi.css">
+</head>
 
 <body>
   <div id="app"><!--app-html--></div>
