@@ -32,3 +32,4 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
 https://live.x2.co.th/live/13livetv-th.m3u8
 #EXTINF:-1 tvg-id="MVMallPlus.th" tvg-name="MVMall Plus" tvg-logo="https://media-mvtv.imgix.net/channel/32_y_B1QfWmDNsgnKI7xCzkrYeTt4LR8EGqy6.png" group-title="th",MVMall Plus
 https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
+#EXTINF:-1 tvg-id="MVMallBest.th" tvg-name="MVMall Best" tvg-logo="https://media-mvtv.imgix.net/channel/89_y_VANZnYQrbU09LjOkcRhqyP2su7T84Six.jpg" group-title="th",MVMall Best
