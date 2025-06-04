@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="News1.th",News 1
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
-#EXTINF:-1 tvg-id="NBT.th",NBT
+#EXTINF:-1 tvg-id="NBT.th",NBT (1024p)
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 #EXTINF:-1 tvg-id="NBT.th",NBT (720p)
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
