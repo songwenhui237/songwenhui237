@@ -34,3 +34,6 @@ https://live.x2.co.th/live/13livetv-th.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fded/mvmallplus/mvmallplus.m3u8
 #EXTINF:-1 tvg-id="MVMallBest.th" tvg-name="MVMall Best" tvg-logo="https://media-mvtv.imgix.net/channel/89_y_VANZnYQrbU09LjOkcRhqyP2su7T84Six.jpg" group-title="th",MVMall Best
 https://lb1-live-mv.v2h-cdn.com/hls/ffee/mvmall_best/mvmall_best.m3u8
+#EXTINF:-1 tvg-id="TNN16.th" tvg-name="TNN 16" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" group-title="th",TNN 16
+TNN16,https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
+TNN16,https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
