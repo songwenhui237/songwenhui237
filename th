@@ -67,3 +67,6 @@ http://150.95.66.20:1935/live/livestream/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 #EXTINF:-1 tvg-id="BoomerangCartoon.th" tvg-name="Boomerang Cartoon" tvg-logo="https://www.lyngsat.com/logo/tv/bb/boomerang-cartoon-th.png" group-title="th",Boomerang Cartoon
+#EXTINF:-1 tvg-id="Mono29.th tvg-name="Mono 29" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a4/MONO29.svg" group-title="th",Mono29
+https://live-us1.thaimomo.com/live-as/chmono29-2/playlist.m3u8
+https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
