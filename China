@@ -1,4 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="望谟综合频道.china" tvg-name="望谟综合频道" tvg-logo="
-h5.wnwmapp.cn_12c4fcb261c488998d683f75267376f0582f5ed55a7039bba8642b0a445af67f.jpg" group-title="China",望谟综合频道
+#EXTINF:-1 tvg-id="望谟综合频道.china" tvg-name="望谟综合频道" tvg-logo="h5.wnwmapp.cn_12c4fcb261c488998d683f75267376f0582f5ed55a7039bba8642b0a445af67f.jpg" group-title="China",望谟综合频道
 http://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044a68632460c53cffb09.m3u8
