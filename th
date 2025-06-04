@@ -108,3 +108,5 @@ https://live2.thaitvstream.com/play/mounchontv/index.m3u8
 https://live1.thaitvstream.com/play/siamnewstv/index.m3u8
 #EXTINF:-1 tvg-id="MediaNews.th" tvg-name="Media News" tvg-logo="https://thaitvstream.com/streaming/medianews/medianews.png" group-title="th",Media News
 https://live1.thaitvstream.com/play/medianews/index.m3u8
+#EXTINF:-1 tvg-id="Chiangrai.th" tvg-name="Chiangrai" tvg-logo="https://thaitvstream.com/streaming/chiangrai/chiangrai.png" group-title="th",Chiangrai
+https://live.thaitvstream.com/play/chiangrai/index.m3u8
