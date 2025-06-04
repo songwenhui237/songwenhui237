@@ -16,3 +16,5 @@ https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-id="Boomerang.th" tvg-name="Boomerang" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="th",Boomerang
 https://live-us1.thaimomo.com/live-as/chboomerang-2/playlist.m3u8
+#EXTINF:-1 tvg-id="TSports7" tvg-name="T Sports 7" tvg-logo="https://www.zcooby.com/wp-content/uploads/2022/11/239906863_121663263535734_4437072911436696365_n.jpg" group-title="th",T Sports 7
+https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
