@@ -41,7 +41,7 @@ There are several versions of playlists that differ in the way they are grouped.
 Main playlist
 This playlist includes all known channels available in this repository.
 
-https://iptv-org.github.io/iptv/index.m3u
+https://github.com/songwenhui237/iptv/index.m3u
 Grouped by category
 Playlists in which channels are grouped by category. A list of all supported categories with descriptions can be found here.
 
