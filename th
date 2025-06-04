@@ -25,4 +25,4 @@ http://49.0.87.24:1936/HDAttv/Attv/playlist.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="th",TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 #EXTINF:-1 tvg-id="EsanTV.th" tvg-name="Esan TV" tvg-logo="https://media-mvtv.imgix.net/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png" group-title="th",Esan TV
-https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8 
+https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
