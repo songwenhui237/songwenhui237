@@ -5,5 +5,5 @@ http://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044
 http://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
 #EXTINF:-1 tvg-id="七星关电视台.china" tvg-name="七星关电视台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/48540923dd54564e9258338b1b8c8b82d158ccbfe17c?x-bce-process=image/resize,m_lfit,h_700,limit_1/quality,Q_80" group-title="china",七星关电视台
 https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
-#EXTINF:-1 tvg-id="威远新闻综合.china" tvg-name="威远新闻综合" tvg-logo="https://wy-img.thecover.cn/03b95307-453c-43db-ab33-ccabd3e379d2.jpeg" group-title="china",威远新闻综合
+#EXTINF:-1 tvg-id="威远新闻综合.china" tvg-name="威远新闻综合" tvg-logo="https://android-artworks.25pp.com/fs08/2019/11/08/4/110_bce9725ac1426c21e55d8d6bacd81a37_con_130x130.png" group-title="china",威远新闻综合
 https://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
