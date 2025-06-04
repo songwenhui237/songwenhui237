@@ -94,3 +94,6 @@ http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
 #EXTINF:-1 tvg-id="PPTV36.th" tvg-name="PPTV 36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg" group-title="th",PPTV 36
 https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
+#EXTINF:-1 tvg-id="Cable37" tvg-name="Cable 37" tvg-logo="https://www.cabletv.co.th/wp-content/uploads/2023/01/Artboard-3.png" group-title="th",Cabel 37
+http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
+
