@@ -119,5 +119,5 @@ rtsp://103.113.47.82:554/lantungsd.sdp
 https://live-us1.thaimomo.com/live-as/chlantung-2/playlist.m3u8
 #EXTINF:-1 tvg-id="PeopleTV.th" tvg-name="People TV" tvg-logo="https://static.thaicom.io/chbig/big_40_20221222073303.png" group-title="th",People TV
 rtsp://103.113.47.82:554/peopletvsd.sdp
-#EXTINF:-1 tvg-id="NATTV.th" tvg-name="NATTV" tvg-logo="http://www.nattv.com/images/top.jpg" group-title="th",NATTV
+#EXTINF:-1 tvg-id="NATTV.th" tvg-name="NATTV" tvg-logo="http://nattv.com/images/lg2.gif" group-title="th",NATTV
 https://livefta.malimarcdn.com/ftaedge00/nat.sdp/chunklist.m3u8
