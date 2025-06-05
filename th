@@ -171,3 +171,5 @@ https://cdn-live.dltv.ac.th/dltv02.m3u8
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 #EXTINF:-1 tvg-id="UMMTV.th" tvg-name="UMM TV" tvg-logo="https://tvtolive.com/wp-content/uploads/UMM-TV-tvtolive.com_.jpg" group-title="th",UMM TV
 http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="DopaChannel.th" tvg-name="Dopa Channel" tvg-logo="http://202.129.206.26:8081/public/images/dopa_logo.jpg" group-title="th",Dopa Channel
+http://dopachannel.truegse.com/live/dopatv03.m3u8
