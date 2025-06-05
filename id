@@ -11,3 +11,5 @@ https://e.siar.us/live/sampit-tv.m3u8
 https://e.siar.us/live/dtvi.m3u8
 #EXTINF:-1 tvg-id="TawafTV.id" tvg-name="Tawaf TV" tvg-logo="https://tawaf.tv/wp-content/uploads/2025/02/cropped-cropped-LOGO-MULTICOLOR-Transparant.png" group-title="id",Tawaf TV
 https://tvstreamcast.com/tawaftv.m3u8
+#EXTINF:-1 tvg-id="KawanuaTV.id" tvg-name="Kawanua TV" tvg-logo="https://kawanua.tv/images/1024/10414790/logoKTV2022_Putih.png" group-title="id",Kawanua TV 
+https://63b2dc7196c38.streamlock.net/KAWANUATV/_definst_/myStream/playlist.m3u8
