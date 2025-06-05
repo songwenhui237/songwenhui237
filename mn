@@ -3,3 +3,5 @@
 https://live.mnb.mn/hls/mnb.stream.m3u8
 #EXTINF:-1 tvg-id="MNB2.mn" tvg-name="MNB 2" tvg-logo="https://www.mnb.mn/images/mini/mnews.png" group-title="mn",MNB 2
 https://live.mnb.mn/hls/mn2.stream.m3u8
+#EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" tvg-logo="https://www.mnb.mn/images/6.jpg" group-title="mn",MNB Sport
+https://live.mnb.mn/hls/mnb_sport.stream.m3u8
