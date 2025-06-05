@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg" group-title="id",Rajawali TV
+https://live.rtv.co.id/hls/rtv.m3u8
