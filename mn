@@ -25,3 +25,5 @@ https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
 https://cdn2.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
 #EXTINF:-1 tvg-id="C1.mn" tvg-name="C1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/C1_Logo_%282006-%29.png" group-title="mn",C1
 https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
+#EXTINF:-1 tvg-id="TV5HD.mn" tvg-name="TV5 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/TV5_Mongolia_2012.png" group-title="mn",TV5 HD
+https://cdn2.skygo.mn/live/disk1/TV5HD/HLS-FTA/TV5HD.m3u8
