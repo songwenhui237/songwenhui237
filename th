@@ -131,3 +131,5 @@ http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 #EXTINF:-1 tvg-id="SBBTV.th" tvg-name="SBB TV" tvg-logo="https://image.makewebcdn.com/makeweb/c_c_409x273/JIfKTrKkI/DefaultData/sbbtv_inter.jpg" group-title="th",SBB TV
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
+#EXTINF:-1 tvg-id="WhiteChannel.th" tvg-name="White Channel" tvg-logo="https://satch.tv/sat2022/wp-content/uploads/channel/th-white-channel-thailand.gif" group-title="th",White Channel
+http://symcf-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
