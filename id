@@ -25,3 +25,5 @@ https://61146e7ab7a66.streamlock.net:8089/tes/1/playlist.m3u8
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 #EXTINF:-1 tvg-id="DhohoTV.id" tvg-name="Dhoho TV" tvg-logo="https://dhohotv.com/wp-content/uploads/2023/11/logo.png" group-title="id",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="FicomChannel.id" tvg-name="Ficom Channel" tvg-logo="https://barelangnet.id/assets/images/logo/ficom.png" group-title="id",Ficom Channel
+https://v3.siar.us/ficomchannel/live/playlist.m3u8
