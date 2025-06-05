@@ -5,3 +5,5 @@ https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
 https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
 #EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-name="Antena 3 CNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Antena_3_2005.svg" group-title="ro", Antena 3 CNN
 https://live3vox.antenaplay.ro/a3free/a3free.m3u8
+#EXTINF:-1 tvg-id="AntenaMonden.ro" tvg-name="Antena Monden" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png" group-title="ro", Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
