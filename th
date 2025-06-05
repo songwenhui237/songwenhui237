@@ -141,3 +141,5 @@ https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
 https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
 #EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="http://www.r-channel.net/assets/dist/img/vec-logo.png" group-title="th",R Channel
 http://180.180.243.239/streams/3/hls
+#EXTINF:-1 tvg-id="RamaChannel.th" tvg-name="Rama Channel" tvg-logo="https://www.rama.mahidol.ac.th/ramachannel/wp-content/uploads/2023/03/logo-rama-topA.png" group-title="th",Rama Channel
+https://ramach.ddns.net/live/ramalive/index.m3u8
