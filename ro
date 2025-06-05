@@ -11,3 +11,5 @@ https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 https://atomic.streamnet.ro/atomictv.m3u8
 #EXTINF:-1 tvg-id="AtomicAcademy.ro" tvg-name="Atomic Academy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Atomic_Academy.gif" group-title="ro", Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Comedy_Play.png" group-title="ro",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
