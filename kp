@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id=KoreaCentralTV.kp tvg-name="Korea Central TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korean_Central_Television_2005.svg" group-title="kp",Korea Central TV 
+https://tv.nknews.org/tvhls/stream.m3u8
