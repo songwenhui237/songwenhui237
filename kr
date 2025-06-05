@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="KoreaCentralTV.kr" tvg-name="Korea Central TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korean_Central_Television_2005.svg" group-title="kr",Korea Central TV 
+https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF:-1 tvg-id="GoodTV.kr" tvg-name="Good TV" tvg-logo="https://m.goodtv.co.kr/img/logo.png" group-title="kr",Good TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="ABNTV.kr" tvg-name="ABN TV" tvg-logo="https://www.abn.co.kr/resources/images/logo.png" group-title="kr",ABN TV
+https://vod2.abn.co.kr/IPHONE/abn.m3u8
+#EXTINF:-1 tvg-id="CJOnStyle.kr" tvg-name="CJ On Style" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CJ_ONSTYLE_2021.png" group-title="kr",CJ On Style
+https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
+#EXTINF:-1 tvg-id="GongyoungShoping.kr" tvg-name="Gongyoung Shoping" tvg-logo="https://tvtolive.com/wp-content/uploads/Gongyoung-Home-Shopping-tvtolive.com_.jpg" group-title="kr",Gongyoung Shoping
+https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-name="GS My Shop" tvg-logo="https://tvtolive.com/wp-content/uploads/GS-My-Shop-tvtolive.com_.jpg" group-title="kr",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-name="Gugbang TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/KFN.png" group-title="kr",Gugbang TV
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS1.kr" tvg-name="KBS 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/KBS_1_logo.svg" group-title="kr",KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBSDrama.kr" tvg-name="KBS Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg" group-title="kr",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
+#EXTINF:-1 tvg-id="KBSJoy.kr" tvg-name="KBS Joy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/KBSJoy.svg" group-title="kr",KBS Joy
+http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSStory.kr" tvg-name="KBS Story" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/KBS_Story_logo_%282021-present%29.svg" group-title="kr",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBSLife.kr" tvg-name="KBS Life" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/KBS_Life_logo_%282021-present%29.svg" group-title="kr",KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
+#EXTINF:-1 tvg-id="KBSKids,kr" tvg-name="KBS Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/KBS_kids.svg.png" group-title="kr",KBS Kids
+http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBSWorld.kr" tvg-name="KBS World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg" group-title="kr",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
+#EXTINF:-1 tvg-id="KoreaTV.kr" tvg-name="Korea TV" tvg-logo="https://m.ktv.go.kr/resources/images/common/ktv_logo_gnb.png" group-title="kr", Korea TV
+https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="LotteHomeShopping.kr" tvg-name="Lotte Home Shopping" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Lotte_Homeshopping_%282018%29.svg" group-title="kr",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
+#EXTINF:-1 tvg-id="OUNTV.kr" tvg-name="OUN TV" tvg-logo="https://oun.knou.ac.kr/OUN/images/m_logo.png" group-title="kr",OUN TV
+https://live.knou.ac.kr/knou1/live1/playlist.m3u8
+#EXTINF:-1 tvg-id="TBSSeoul.kr" tvg-name="TBS Seoul" tvg-logo="http://m.tbs.seoul.kr/common/images/default/logo.png" group-title="kr",TBS Seoul
+https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
