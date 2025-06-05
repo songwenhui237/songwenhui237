@@ -21,3 +21,5 @@ https://video.detik.com/transtv/smil:transtv.smil/chunklist_w2114898498_b744100_
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w577694934_b744100_sleng.m3u8
 #EXTINF:-1 tvg-id="IAMChannel.id" tvg-name="I AM Channel" tvg-logo="https://iamchannel.org/images/I-AM-Channel.png" group-title="id",I Am Channel
 https://61146e7ab7a66.streamlock.net:8089/tes/1/playlist.m3u8
+#EXTINF:-1 tvg-id="DhammaTV.id" tvg-name="Dhamma TV" tvg-logo="https://dhammaweb.tv/wp-content/uploads/2018/08/cropped-dhammatv-3.png" group-title="id",Dhamma TV 
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
