@@ -43,3 +43,5 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
 #EXTINF:-1 tvg-id="MQTV.id" tvg-name="MQTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/MQTV_%282005%29.png" group-title="id",MQTV
 https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id="IzaahTV.id" tvg-name="Izaah TV" tvg-logo="https://izzah.tv/wp-content/uploads/2023/03/logo_izzah.png" group-title="id", Izaah TV
+https://streaming.radiosalamjambi.com/izzahtv.m3u8
