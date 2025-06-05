@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1
+#EXTINF:-1 tvg-id="WATCTV57.us" tvg-name="WATC TV 57" tvg-logo="https://watc.tv/wp-content/uploads/2023/10/cropped-57-new-logo-wht-bg-blk-text--1536x511.png" group-title="us",WATC TV 57
+https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
