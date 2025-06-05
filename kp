@@ -7,5 +7,5 @@ http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="CJOnStyle.kp" tvg-name="CJ On Style" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CJ_ONSTYLE_2021.png" group-title="kp",CJ On Style
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-id="GongyoungShoping.kp" tvg-name=Gongyoung Shoping" tvg-logo="https://tvtolive.com/wp-content/uploads/Gongyoung-Home-Shopping-tvtolive.com_.jpg" group-title="kp", Gongyoung Shoping
+#EXTINF:-1 tvg-id="GongyoungShoping.kp" tvg-name="Gongyoung Shoping" tvg-logo="https://tvtolive.com/wp-content/uploads/Gongyoung-Home-Shopping-tvtolive.com_.jpg" group-title="kp", Gongyoung Shoping
 https://etv.publichs.com/live5.stream/playlist.m3u8
