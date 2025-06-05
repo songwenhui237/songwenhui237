@@ -159,5 +159,7 @@ http://103.120.113.107:80/Saradee/index.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 #EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg" group-title="th",NBT World
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
-#EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-name="True Premier Football HD1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png" group-title="th"True Premier Football HD1
+#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png" group-title="th"True Premier Football 1
 https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-id="TruePremierFootbal2.th" tvg-name="True Premier Football 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/True_Premier_Football_2.png" group-title="th"True Premier Football 2
+https://219.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
