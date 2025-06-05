@@ -149,3 +149,5 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 #EXTINF:-1 tvg-id="ThaibaanTV.th" tvg-name="Thaibaan TV" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" grop-title="th",Thaibaan TV
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+#EXTINF:-1 tvg-id="NBT11South.th" tvg-name="NBT 11 South" tvg-logo="https://nbtsuratthani.prd.go.th/cms/s297/u884/Layer_1_copy.png" group-title="th",NBT 11 South
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
