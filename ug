@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="
+#EXTINF:-1 tvg-id="ACWUGTV.ug" tvg-name="ACW UG TV" tvg-logo="https://live.acwugtv.com/logo" group-title="ug",ACW UG TV
+https://live.acwugtv.com/hls/stream.m3u8
