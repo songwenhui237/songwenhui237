@@ -9,3 +9,5 @@ https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
 https://fort.co-works.org/memfs/87017643-274a-4bc0-a786-7767a0d159c2.m3u8
 #EXTINF:-1 tvg-id="SaltTV.ug" tvg-name="Salt TV" tvg-logo="https://saltmedia.ug/images/Salt%20Logos/Salt-Media-Logo-Blue.png" group-title="ug",Salt TV
 https://live.salttelevision.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="GalaxyTV.ug" tvg-name="Galaxy TV" tvg-logo="https://galaxytv.ug/assets/img/logo-long-white.png" group-title="ug",Galaxy TV
+https://stream-200573.castr.net/6463248048d6cd3e143655b2/live_43351ad0f3b411ed81c78fcc31887c54/rewind-3600.m3u8
