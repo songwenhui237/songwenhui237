@@ -11,7 +11,7 @@ https://live.mnb.mn/hls/mnb_world.stream.m3u8
 https://live.mnb.mn/hls/mnb_family.stream.m3u8
 #EXTINF:-1 tvg-id="NTVHD.mn" tvg-name="NTV HD" tvg-logo="https://ntv.mn/images/logo.png" group-title="mn",NTV HD
 https://cdn2.skygo.mn/live/disk1/NTVHD/HLS-FTA/NTVHD.m3u8
-#EXTINF:-1 tvg-id="TV8HD.mn" tvg-name="TV8 HD" tvg-logo="https://static.zuragt.mn/uploads/channels/tv8-mongol.jpg" group-title="mn",TV8 HD
+#EXTINF:-1 tvg-id="TV8HD.mn" tvg-name="TV8 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8e/TV8_MN_2022.svg" group-title="mn",TV8 HD
 https://cdn2.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 #EXTINF:-1 tvg-id="TV25.mn" tvg-name="TV25" tvg-logo="https://www.tv25.mn/images/logo2.png" group-title="mn",TV25
 https://cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8
