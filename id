@@ -47,3 +47,5 @@ https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
 https://streaming.radiosalamjambi.com/izzahtv.m3u8
 #EXTINF:-1 tvg-id="Beritasatu.id" tvg-name="Beritasatu" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/BeritaSatu.svg" group-title="id",Beritasatu
 https://beritasatu.secureswiftcontent.com/han/beritasatu/bsatu10008/srtoutput/manifest.m3u8
+#EXTINF:-1 tvg-id="DAAITV.id" tvg-name="DAAI TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/fc/DAAI_TV.svg" group-title="id",DAAI TV
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS_HD.m3u8
