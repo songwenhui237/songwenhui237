@@ -33,3 +33,5 @@ https://e.siar.us/live/deikidstv.m3u8
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 #EXTINF:-1 tvg-id="InspiraTV.id" tvg-name="Inspira TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png" group-title="id",Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" tvg-logo="https://tvtolive.com/wp-content/uploads/KSTV-Kilisuci-Televisi-tvtolive.com_.jpg" group-title="id",Kilisuci TV 
+https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
