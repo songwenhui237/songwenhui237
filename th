@@ -173,3 +173,5 @@ https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-south
 http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th" tvg-name="Dopa Channel" tvg-logo="http://202.129.206.26:8081/public/images/dopa_logo.jpg" group-title="th",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 tvg-id="LuangPoTaddqiwo.th" tvg-name="Luang Po Taddqiwo" tvg-logo="https://assets.teleon.tv/180_webp/reverend-father-thattachivo-th.webp" group-title="th",Luang Po Taddqiwo 
+https://live.zoom072.com/ch6/ch6.m3u8
