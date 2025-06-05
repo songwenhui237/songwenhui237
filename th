@@ -157,3 +157,5 @@ http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
 http://103.120.113.107:80/Saradee/index.m3u8
 #EXTINF:-1 tvg-id="ThaiBaan83.th" tvg-name="Thai Baan 83" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" grop-title="th",Thai Baan 83
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg" group-title="th",NBT World
+https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
