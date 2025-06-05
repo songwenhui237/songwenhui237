@@ -35,3 +35,5 @@ https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="KilisuciTV.id" tvg-name="Kilisuci TV" tvg-logo="https://tvtolive.com/wp-content/uploads/KSTV-Kilisuci-Televisi-tvtolive.com_.jpg" group-title="id",Kilisuci TV 
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
+#EXTINF:-1 tvg-id="MaduTV.id" tvg-name="Madu TV" tvg-logo="https://madu.tv/wp-content/uploads/2023/05/madu-tv-logo.png" group-title="id",Madu TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
