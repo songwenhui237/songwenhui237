@@ -7,7 +7,7 @@ http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
 https://vod2.abn.co.kr/IPHONE/abn.m3u8
 #EXTINF:-1 tvg-id="CJOnStyle.kp" tvg-name="CJ On Style" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/CJ_ONSTYLE_2021.png" group-title="kp",CJ On Style
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-#EXTINF:-1 tvg-id="GongyoungShoping.kp" tvg-name="Gongyoung Shoping" tvg-logo="https://tvtolive.com/wp-content/uploads/Gongyoung-Home-Shopping-tvtolive.com_.jpg" group-title="kp", Gongyoung Shoping
+#EXTINF:-1 tvg-id="GongyoungShoping.kp" tvg-name="Gongyoung Shoping" tvg-logo="https://tvtolive.com/wp-content/uploads/Gongyoung-Home-Shopping-tvtolive.com_.jpg" group-title="kp",Gongyoung Shoping
 https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GSMyShop.kp" tvg-name="GS My Shop" tvg-logo="https://tvtolive.com/wp-content/uploads/GS-My-Shop-tvtolive.com_.jpg" group-title="kp",GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
@@ -15,3 +15,5 @@ https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="KBS1.kp" tvg-name="KBS 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/KBS_1_logo.svg" group-title="kp",KBS 1
 http://mytv.dothome.co.kr/ch/public/1.php
+#EXTINF:-1 tvg-id="KBSDrama.kp tvg-name="KBS Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg" group-title="kp",KBS Drama
+http://mytv.dothome.co.kr/ch/catv/2.php
