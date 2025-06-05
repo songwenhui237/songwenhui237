@@ -37,3 +37,5 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 #EXTINF:-1 tvg-id="MaduTV.id" tvg-name="Madu TV" tvg-logo="https://madu.tv/wp-content/uploads/2023/05/madu-tv-logo.png" group-title="id",Madu TV
 https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png" group-title="id",Magna Channel
+https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
