@@ -37,3 +37,5 @@ https://live.knou.ac.kr/knou1/live1/playlist.m3u8
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="WShopping.kr" tvg-name="W Shopping" tvg-logo="https://tvtolive.com/wp-content/uploads/W-Shopping-TV-tvtolive.com_.jpg" group-title="kr",W Shopping
 https://liveout.catenoid.net/live-05-wshopping/wshopping_1500k/playlist.m3u8
+#EXTINF:-1 tvg-id="NHTV.kr" tvg-name="NHTV" tvg-logo="http://www.nhtv.co.kr/resources/images/logo_header.png" group-title="kr",NHTV
+http://nonghyup.flive.skcdn.com/nonghyup/_definst_/nhlive/playlist.m3u8
