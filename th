@@ -153,3 +153,5 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
 #EXTINF:-1 tvg-id="NBTCentral.th" tvg-name="NBT Central" tvg-logo="https://www.nbtcentral.com/static/nbtlogpsm.png" group-title="th",NBT Central
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w2115520531_b3128000.m3u8
+#EXTINF:-1 tvg-id="KasetChumchon.th" tvg-name="Kaset Chumchon" tvg-logo="https://www.lyngsat.com/logo/tv/kk/kaset-chumchon-th.png" group-title="th",Kaset Chumchon
+http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
