@@ -27,3 +27,5 @@ https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="FicomChannel.id" tvg-name="Ficom Channel" tvg-logo="https://barelangnet.id/assets/images/logo/ficom.png" group-title="id",Ficom Channel
 https://v3.siar.us/ficomchannel/live/playlist.m3u8
+#EXTINF:-1 tvg-id="DeiKidsTV.id" tvg-name="Dei Kids TV" tvg-logo="https://dareliman.or.id/wp-content/uploads/2023/06/logo-deikidstv-300x255.png" group-title="id",Dei Kids TV
+https://e.siar.us/live/deikidstv.m3u8
