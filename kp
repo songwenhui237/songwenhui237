@@ -25,3 +25,5 @@ http://mytv.dothome.co.kr/ch/catv/4.php
 http://mytv.dothome.co.kr/ch/catv/5.php
 #EXTINF:-1 tvg-id="KBSKids,kp" tvg-name="KBS Kids" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a9/KBS_kids.svg.png" group-title="kp",KBS Kids
 http://mytv.dothome.co.kr/ch/catv/6.php
+#EXTINF:-1 tvg-id="KBSWorld.kp" tvg-name="KBS World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/KBS_World_2009.svg" group-title="kp",KBS World
+http://mytv.dothome.co.kr/ch/catv/7.php
