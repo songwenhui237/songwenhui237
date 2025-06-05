@@ -17,7 +17,7 @@ http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 http://mytv.dothome.co.kr/ch/public/1.php
 #EXTINF:-1 tvg-id="KBSDrama.kp tvg-name="KBS Drama" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b6/KBS_%EB%93%9C%EB%9D%BC%EB%A7%88_logo_%282006-present%29.svg" group-title="kp",KBS Drama
 http://mytv.dothome.co.kr/ch/catv/2.php
-#EXTINF:-1 tvg-id="KBSJoy.kp" tvg-name="KBS Joy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/KBSJoy.svg" group-title,="kp,KBS Joy
+#EXTINF:-1 tvg-id="KBSJoy.kp" tvg-name="KBS Joy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/KBSJoy.svg" group-title,="kp",KBS Joy
 http://mytv.dothome.co.kr/ch/catv/3.php
 #EXTINF:-1 tvg-id="KBSStory.kp" tvg-name="KBS Story" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/KBS_Story_logo_%282021-present%29.svg" group-title="kp",KBS Story
 http://mytv.dothome.co.kr/ch/catv/4.php
