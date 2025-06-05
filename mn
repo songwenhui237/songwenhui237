@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MNB.mn" tvg-name="MNB" tvg-logo="https://www.mnb.mn/images/mini/tv.png" group-title="mn",MNB
 https://live.mnb.mn/hls/mnb.stream.m3u8
+#EXTINF:-1 tvg-id="MNB2.mn" tvg-name="MNB 2" tvg-logo="https://www.mnb.mn/images/mini/mnews.png" group-title="mn",MNB 2
+https://live.mnb.mn/hls/mn2.stream.m3u8
