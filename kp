@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id=KoreaCentralTV.kp tvg-name="Korea Central TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/Korean_Central_Television_2005.svg" group-title="kp",Korea Central TV 
 https://tv.nknews.org/tvhls/stream.m3u8
+#EXTINF-1 tvg-id="GoodTV.kp" tvg-name="Good TV" tvg-logo="https://m.goodtv.co.kr/img/logo.png" group-title="kp",Good TV
+http://mobliestream.c3tv.com:1935/live/goodtv.sdp/playlist.m3u8
