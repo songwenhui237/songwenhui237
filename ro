@@ -1,2 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=
+#EXTINF:-1 tvg-id="AgroTVRomania.ro tvg-name="Agro TV Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Agro_TV_logo_Romania.svg" group-
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
