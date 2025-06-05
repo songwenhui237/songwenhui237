@@ -21,3 +21,5 @@ https://cdn3.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8
 https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
 #EXTINF:-1 tvg-id="SBN.mn" tvg-name="SBN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/SBN_Mongolia.svg" group-title="mn",SBN
 https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
+#EXTINF:-1 tvg-id="CentralTV.mn" tvg-name="Central TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Central_2021.jpg" group-title="mn",Central TV
+https://cdn2.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
