@@ -165,3 +165,5 @@ https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 https://219.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png" group-title="th",DLTV1
 https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w846148712_b3128000_slth.m3u8
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV2" tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png" group-title="th",DLTV2
+https://cdn-live.dltv.ac.th/dltv02.m3u8
