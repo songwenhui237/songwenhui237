@@ -23,3 +23,5 @@ https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
 https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
 #EXTINF:-1 tvg-id="CentralTV.mn" tvg-name="Central TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5b/Central_2021.jpg" group-title="mn",Central TV
 https://cdn2.skygo.mn/live/disk1/Ekh_Oron/HLS-FTA/Ekh_Oron.m3u8
+#EXTINF:-1 tvg-id="C1.mn" tvg-name="C1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9d/C1_Logo_%282006-%29.png" group-title="mn",C1
+https://cdn2.skygo.mn/live/disk1/C1/HLS-FTA/C1.m3u8
