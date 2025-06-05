@@ -137,3 +137,5 @@ https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-id="YateemTV.th" tvg-name="Yateem TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png" group-title="tv",Yateem TV
 https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
+#EXTINF:-1 tvg-id="NewTM" tvg-name="New TM" tvg-logo="http://www.newtm.tv/assets/img/Logo%20TMTV.png" group-title="tv",New TM
+https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
