@@ -13,3 +13,5 @@ https://atomic.streamnet.ro/atomictv.m3u8
 https://atomic.streamnet.ro/academia.m3u8
 #EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-name="Comedy Play" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/Comedy_Play.png" group-title="ro",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+#EXTINF:-1 tvg-id="CredoTV.ro" tvg-name="Credo TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/Credo_TV_symbol.png" group-title="ro",Credo TV
+http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
