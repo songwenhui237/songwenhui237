@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="ACWUGTV.ug" tvg-name="ACW UG TV" tvg-logo="https://live.acwugtv.com/logo" group-title="ug",ACW UG TV
 https://live.acwugtv.com/hls/stream.m3u8
+#EXTINF:-1 tvg-id="Bukedde1.ug" tvg-name="Bukedde 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Bukedde_TV_Logo.jpg" group-title="ug",Bukedde 1
+https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
