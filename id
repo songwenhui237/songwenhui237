@@ -39,3 +39,5 @@ https://5bf7b725107e5.streamlock.net/kstv/kstv/playlist.m3u8
 https://re1.siar.us/madutv/hd720/playlist.m3u8
 #EXTINF:-1 tvg-id="MagnaChannel.id" tvg-name="Magna Channel" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/83/MagnaChannel.png" group-title="id",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="MGSTV.id" tvg-name="MGSTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b1/MGSTV_%282015%29.png" group-title="id",MGSTV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
