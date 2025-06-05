@@ -3,5 +3,5 @@
 https://live.rtv.co.id/hls/rtv.m3u8
 #EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Efarina_tv_2011.png" group-title="id",Efarina TV 
 https://live.efarinatv.net/hls/stream.m3u8
-#EXTINF:-1 tvg-id="DMTVMalang.id" tvg-name="DMTV Malang" tvg-logo="https://sattracker.kartian.my.id/wp-content/uploads/2020/08/images-3-1.jpeg" group-title="id",DMTV Malang
+#EXTINF:-1 tvg-id="DMTVMalang.id" tvg-name="DMTV Malang" tvg-logo="https://dmtvmalang.com/wp-content/uploads/2024/10/IMG-20240417-WA0002.jpg" group-title="id",DMTV Malang
 https://e.siar.us/live/dmtv.m3u8
