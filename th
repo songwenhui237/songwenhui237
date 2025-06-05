@@ -147,3 +147,5 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="MVGoSport.th" tvg-name="MV Go Sport" tvg-logo="https://media-mvtv.imgix.net/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png" group-title="th",MV Go Sport
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
+#EXTINF:-1 tvg-id="ThaibaanTV.th" tvg-name="Thaibaan TV" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" grop-title="th",Thaibaan TV
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
