@@ -29,3 +29,5 @@ http://mytv.dothome.co.kr/ch/catv/6.php
 http://mytv.dothome.co.kr/ch/catv/7.php
 #EXTINF:-1 tvg-id="KoreaTV.kp" tvg-name="Korea TV" tvg-logo="https://m.ktv.go.kr/resources/images/common/ktv_logo_gnb.png" group-title="kp", Korea TV
 https://hlive.ktv.go.kr/live/klive_h.stream/playlist.m3u8
+EXTINF:-1 tvg-id="LotteHomeShopping" tvg-name="Lotte Home Shopping" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Lotte_Homeshopping_%282018%29.svg" group-title="kp",Lotte Home Shopping
+https://pchlslivesw.lotteimall.com/live/livestream/lotteimalllive_mp4.m3u8
