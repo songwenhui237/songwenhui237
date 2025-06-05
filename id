@@ -31,3 +31,5 @@ https://v3.siar.us/ficomchannel/live/playlist.m3u8
 https://e.siar.us/live/deikidstv.m3u8
 #EXTINF:-1 tvg-id="GarudaTV.id" tvg-name="Garuda TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/97/Logo_GarudaTV_Merah_Putih_Silver_Merah.svg" group-title="id",Garuda TV
 https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTINF:-1 tvg-id="InspiraTV.id" tvg-name="Inspira TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/43/Inspira_Logo_%282021%29.png" group-title="id",Inspira TV
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
