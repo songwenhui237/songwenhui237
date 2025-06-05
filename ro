@@ -17,3 +17,5 @@ https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
 http://cdn.credonet.tv:1935/ctv/livecredo/playlist.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro" tvg-name="Hello Taste" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/HelloTaste_stacked.png" group-title="ro",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-name="Kanal D" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/75/Kanal_D_Romania.svg" group-title="ro",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
