@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="Rajawali TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f1/Rajawali_Televisi_logo.svg" group-title="id",Rajawali TV
 https://live.rtv.co.id/hls/rtv.m3u8
-#EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Efarina_tv_2011.png" group-tile="id",Efarina TV 
+#EXTINF:-1 tvg-id="EfarinaTV.id" tvg-name="Efarina TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/Efarina_tv_2011.png" group-title="id",Efarina TV 
 https://live.efarinatv.net/hls/stream.m3u8
