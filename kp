@@ -11,5 +11,7 @@ https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 https://etv.publichs.com/live5.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="GSMyShop.kp" tvg-name="GS My Shop" tvg-logo="https://tvtolive.com/wp-content/uploads/GS-My-Shop-tvtolive.com_.jpg" group-title="kp",GS My Shop
 https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GugbangTV.kp" tvg-name="Gugbang TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/KFN.png" group-title="kp", Gugbang TV
+#EXTINF:-1 tvg-id="GugbangTV.kp" tvg-name="Gugbang TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f2/KFN.png" group-title="kp",Gugbang TV
 http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="KBS1.kp" tvg-name="KBS 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d5/KBS_1_logo.svg" group-title="kp",KBS 1
+http://mytv.dothome.co.kr/ch/public/1.php
