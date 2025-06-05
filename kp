@@ -19,3 +19,7 @@ http://mytv.dothome.co.kr/ch/public/1.php
 http://mytv.dothome.co.kr/ch/catv/2.php
 #EXTINF:-1 tvg-id="KBSJoy.kp" tvg-name="KBS Joy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/KBSJoy.svg" group-title,="kp,KBS Joy
 http://mytv.dothome.co.kr/ch/catv/3.php
+#EXTINF:-1 tvg-id="KBSStory.kp" tvg-name="KBS Story" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/64/KBS_Story_logo_%282021-present%29.svg" group-title="kp",KBS Story
+http://mytv.dothome.co.kr/ch/catv/4.php
+#EXTINF:-1 tvg-id="KBSLife.kp" tvg-name="KBS Life" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ae/KBS_Life_logo_%282021-present%29.svg" group-title="kp",KBS Life
+http://mytv.dothome.co.kr/ch/catv/5.php
