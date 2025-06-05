@@ -9,3 +9,5 @@ https://vod2.abn.co.kr/IPHONE/abn.m3u8
 https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 #EXTINF:-1 tvg-id="GongyoungShoping.kp" tvg-name="Gongyoung Shoping" tvg-logo="https://tvtolive.com/wp-content/uploads/Gongyoung-Home-Shopping-tvtolive.com_.jpg" group-title="kp", Gongyoung Shoping
 https://etv.publichs.com/live5.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GSMyShop.kp" tvg-name="GS My Shop" tvg-logo="https://tvtolive.com/wp-content/uploads/GS-My-Shop-tvtolive.com_.jpg" group-title="kp",GS My Shop
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
