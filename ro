@@ -9,3 +9,5 @@ https://live3vox.antenaplay.ro/a3free/a3free.m3u8
 https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
 #EXTINF:-1 tvg-id="AtomicTV.ro" tvg-name="Atomic TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Atomic_TV.svg" group-title="ro",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
+#EXTINF:-1 tvg-id="AtomicAcademy.ro" tvg-name="Atomic Academy" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/df/Atomic_Academy.gif" group-title="ro", Atomic Academy
+https://atomic.streamnet.ro/academia.m3u8
