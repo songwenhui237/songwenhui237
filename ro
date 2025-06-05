@@ -1,4 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="AgroTVRomania.ro tvg-name="Agro TV Romania" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/84/Agro_TV_logo_Romania.svg" group-title="ro",Agro TV Romania
 https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
-
+#EXTINF:-1 tvg-id=AlfaOmegaTV.ro tvg-name="Alfa Omega TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e3/Aotv_logo_svg.svg" group-title="ro",Alfa Omega TV
+https://aom-live.maghost.ro/aomTV/streams/OOztu5o9Fx6dh9mD1711027803849.m3u8
