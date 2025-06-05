@@ -3,3 +3,5 @@
 https://live.acwugtv.com/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Bukedde1.ug" tvg-name="Bukedde 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Bukedde_TV_Logo.jpg" group-title="ug",Bukedde 1
 https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8
+#EXTINF:-1 tvg-id="WanluoTV.ug" tvg-name="Wanluo TV" tvg-logo="https://www.visiongroup.co.ug/wp-content/uploads/2022/12/wanluo-product-371x347.jpg" group-title="ug",Wanluo TV
+https://stream.hydeinnovations.com/luotv-flussonic/index.m3u8
