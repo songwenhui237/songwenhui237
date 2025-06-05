@@ -133,5 +133,5 @@ http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
 #EXTINF:-1 tvg-id="WhiteChannel.th" tvg-name="White Channel" tvg-logo="https://satch.tv/sat2022/wp-content/uploads/channel/th-white-channel-thailand.gif" group-title="th",White Channel
 https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="ZabbTV" tvg-name="Zabb TV" tvg-logo="http://zabbtv.com/images/img.jpg" group-title="tv",Zabb TV
+#EXTINF:-1 tvg-id="ZabbTV" tvg-name="Zabb TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Zabb-TV-tvtolive.com_.jpg" group-title="tv",Zabb TV
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
