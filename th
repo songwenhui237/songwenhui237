@@ -147,8 +147,6 @@ https://ramach.ddns.net/live/ramalive/index.m3u8
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="MVGoSport.th" tvg-name="MV Go Sport" tvg-logo="https://media-mvtv.imgix.net/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png" group-title="th",MV Go Sport
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
-#EXTINF:-1 tvg-id="ThaiBaanTV.th" tvg-name="Thai Baan TV" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" grop-title="th",Thai Baan TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
 #EXTINF:-1 tvg-id="NBT11South.th" tvg-name="NBT 11 South" tvg-logo="https://nbtsuratthani.prd.go.th/cms/s297/u884/Layer_1_copy.png" group-title="th",NBT 11 South
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
 #EXTINF:-1 tvg-id="NBTCentral.th" tvg-name="NBT Central" tvg-logo="https://www.nbtcentral.com/static/nbtlogpsm.png" group-title="th",NBT Central
@@ -157,3 +155,5 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunk
 http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="PSISaradee.th" tvg-name="PSI Saradee" tvg-logo="http://apiservice.psisat.com:80/uploaded/tv/logo/94a539a581859229e0fe1b9aa8a90fe5.jpg" group-title="th",PSI Saradee
 http://103.120.113.107:80/Saradee/index.m3u8
+#EXTINF:-1 tvg-id="ThaiBaan83.th" tvg-name="Thai Baan 83" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" grop-title="th",Thai Baan 83
+https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
