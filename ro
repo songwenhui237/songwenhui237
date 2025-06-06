@@ -29,3 +29,5 @@ https://netstreaming.eu/hd1.m3u8
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="https://intermediatv.ro/wp-content/uploads/2023/01/televiziunea-intermedia-logo-1.png" group-title="ro",Intermedia TV
 http://83.103.150.208:8080/stream/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="MisaTV.ro" tvg-name="Misa TV" tvg-logo="https://misatv.ro/wp-content/uploads/2018/09/MTV-Logo-Cropped2.png" group-title="ro",Misa TV
+https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
