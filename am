@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="1TVArmenia.am" tvg-name="1TV Armenia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Armenian_Public_Television_2021.svg" group-title="am",1TV Armenia
+https://amtv.tulixcdn.com/amtv2/am2abr/index.m3u8
