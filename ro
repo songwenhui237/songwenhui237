@@ -49,3 +49,5 @@ http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
 http://78.96.33.89:8080/
 #EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-name="TV Plus Suceava" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b4/TV_Plus_Regional.png" group-title="ro",TV Plus Suceava
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
+#EXTINF:-1 tvg-id="MoinestiTV.ro" tvg-name="Moinesti TV" tvg-logo="https://moinestifm.ro/images/moinesti_tv.png" group-title="ro",Moinesti TV
+https://flus.moinestifm.ro/ro.moinesti/index.m3u8
