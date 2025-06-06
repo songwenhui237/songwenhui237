@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="AL24.dz" tvg-name="AL24" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c1/AL24_News_Logo.svg" group-title="dz",AL24
+https://cdn.live.easybroadcast.io/abr_corp/66_al24_u4yga6h/playlist.m3u8
