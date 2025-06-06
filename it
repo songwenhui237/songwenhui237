@@ -1,1 +1,3 @@
-
+#EXTM3U
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://www.italianfishingtv.it/wp-content/uploads/2025/02/immagine.png" group-title="it",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
