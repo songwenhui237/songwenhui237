@@ -37,3 +37,5 @@ http://89.38.8.130:39443
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
 #EXTINF:-1 tvg-id="PloiestiTV.ro" tvg-name="Ploiesti TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/RepublikaNewsTVPloie%C8%99ti.svg" group-title="ro", Ploiesti TV
 https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
+#EXTINF:-1 tvg-id="PalenqueTV.ro" tvg-name="Palenque TV" tvg-logo="https://redpalenque.com/wp-content/uploads/2020/11/logo140.png" group-title="ro",Palenque TV 
+https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
