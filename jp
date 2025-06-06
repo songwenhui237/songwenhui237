@@ -9,3 +9,5 @@ https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGN
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="https://www.shopch.jp/com/images/common/head_logo.gif" group-title="jp",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
+#EXTINF:-1 tvg-id="NippinTV.jp" tvg-name="Nippon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg" group-title="jp",Nippon TV
+https://ntv4.mov3.co/hls/ntv.m3u8
