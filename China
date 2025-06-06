@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="望谟综合频道.china" tvg-name="望谟综合频道" tvg-logo="https://thumbnail0.baidupcs.com/thumbnail/d068e37c9p4268cf6e9f7571e09b0812?fid=1908971605-250528-891498130283302&time=1749232800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-WQ79Zhg%2FnNRxpuKg3DgNhDP6l6M%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=185157049078552520&dp-callid=0&file_type=0&size=c360_u270&quality=100&vuk=-&ft=video" group-title="china",望谟综合频道
+#EXTINF:-1 tvg-id="望谟综合频道.china" tvg-name="望谟综合频道" tvg-logo="手机存储/Pictures/1749234665145.png" group-title="china",望谟综合频道
 http://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044a68632460c53cffb09.m3u8
 #EXTINF:-1 tvg-id="石阡综合频道.china" tvg-name="石阡综合频道" tvg-logo="https://file.todcy.cn/visit/cms4/pro/154/2024/09/18/4b0752b6dc407b5466ba646363ded87737c242e48aec13738ef7b1e4b7ed58f0.png" group-title="china",石阡综合频道
 http://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
