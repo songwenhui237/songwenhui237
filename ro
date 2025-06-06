@@ -53,3 +53,5 @@ http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 https://flus.moinestifm.ro/ro.moinesti/index.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Realitatea_Sportiva_2021.png" group-title="ro",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
+#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Realitatea_Plus_%282020-present%29.png" group-title="ro",Realitatea Plus
+https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
