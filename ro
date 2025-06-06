@@ -35,3 +35,5 @@ https://vidl.misatv.ro:5050/MSTV/romanian_720p_baseline/playlist.m3u8
 http://89.38.8.130:39443
 #EXTINF:-1 tvg-id="LightChannel.ro" tvg-name="Light Channel" tvg-logo="https://www.lightchanneltv.ro/wp-content/uploads/2022/10/Blue-Black-Font3.png" group-title="ro",Light Channel
 http://streamer1.streamhost.org:1935/salive/GMIlcbgM/playlist.m3u8
+#EXTINF:-1 tvg-id="PloiestiTV.ro" tvg-name="Ploiesti TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/RepublikaNewsTVPloie%C8%99ti.svg" group-title="ro", Ploiesti TV
+https://v1.mediastreaming.ro/stream/hls/ploiestitv.m3u8
