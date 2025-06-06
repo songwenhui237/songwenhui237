@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="",
+#EXTINF:-1 tvg-id="RTB1.bn" tvg-name="RTB 1" tvg-logo="https://rtb-images.glueapi.io/300x0/live/rtb1.png" group-title="bn",RTB 1 
+https://d1211whpimeups.cloudfront.net/smil:rtb1/playlist.m3u8
