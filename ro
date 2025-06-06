@@ -43,3 +43,5 @@ https://tv.bitstreaming.net:3234/live/palenquetvlive.m3u8
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="SmartTV.ro" tvg-name="Smart TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/47/Smart_TV_logo.svg" group-title="ro",Smart TV
 https://stream-aleph.m.ro/Aleph/ngrp:Smartv.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleMBotosani" tvg-name="Tele M Botosani" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/73/Tele_M_Boto%C8%99ani.png" group-title="ro",Tele M Botosani
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
