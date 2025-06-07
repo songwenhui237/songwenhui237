@@ -7,5 +7,5 @@ https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
 https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 #EXTINF:-1 tvg-id="La7Italia.it" tvg-name="La 7 Italia" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/02/LA7_-_Logo_2011.svg" group-title="it",La 7 Italia
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
-#EXTINF;-1 tvg-id="InterTV.it" tvg-name="Inter TV"tvg-logo="https://www.inter.it/favicon/apple-touch-startup-image-2160x1620.png" group-title="it",Inter TV 
+#EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV"tvg-logo="https://www.inter.it/favicon/apple-touch-startup-image-2160x1620.png" group-title="it",Inter TV 
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
