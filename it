@@ -31,3 +31,5 @@ https://a928c0678d284da5b383f29ecc5dfeec.msvdn.net/live/S57315730/8kTBWibNteJA/p
 https://64b16f23efbee.streamlock.net/skylinetv/skylinetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ef/Boing_-_Logo_2020.svg/revision/latest/scale-to-width-down/160?cb=20220524141115" group-title="it",Boing
 https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6284318116001/playlist.m3u8
+#EXTINF:-1 tvg-id="CalabriaTV.it" tvg-name="Calabria TV" tvg-logo="https://www.tvdream.net/img/calabria-tv.png" group-title="it",Calabria TV
+https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
