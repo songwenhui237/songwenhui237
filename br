@@ -11,3 +11,5 @@ https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuarapari.br" tvg-name="TV Guarapari" tvg-logo="https://tvguarapari.com/wp-content/uploads/2024/08/logoguara.png" group-title="br",TV Guarapari
 https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8
+#EXTINF:-1 tvg-id="TVCrio.br" tvg-name="TV Crio" tvg-logo="https://www.tvcomunitaria.rio/storage/138/config/A9OMPwktZ8kmBDrZeMtlfAmnqJXDJjW1llKlOeDl.png" group-title="br",TV Crio
+https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
