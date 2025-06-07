@@ -15,3 +15,5 @@ https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8
 https://video05.logicahost.com.br/comunitariario/comunitariario/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalTVRio.br" tvg-name="Canal TV Rio" tvg-logo="https://static.wixstatic.com/media/2f99d1_c72c8d287cf540c3990233164d55389b~mv2.png" group-title="br",Canal TV Rio
 https://stmv1.srvstm.com/canal5110/canal5110/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeCapitalTV.br" tvg-name="Rede Capital TV" tvg-logo="https://redecapitaltv.com.br/wp-content/uploads/2022/08/logo-removebg-preview-2.png" group-title="br",Rede Capital TV
+https://video01.kshost.com.br/gente8322/gente8322/playlist.m3u8
