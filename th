@@ -1,6 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="th",News 1 
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
+http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://thainews.prd.go.th/images/logo-sm.png" group-title="th",NBT
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
@@ -161,7 +162,7 @@ http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
 http://103.120.113.107:80/Saradee/index.m3u8
 #EXTINF:-1 tvg-id="ThaiBaan83.th" tvg-name="Thai Baan 83" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" group-title="th",Thai Baan 83
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg" group-title="th",NBT World
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg/revision/latest/scale-to-width-down/250?cb=20250101095350" group-title="th",NBT World
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-name="True Premier Football HD 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png/revision/latest/scale-to-width-down/1609?cb=20240416003052&path-prefix=vi" group-title="th",True Premier Football HD 1
 https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
@@ -181,7 +182,5 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 https://live.zoom072.com/ch6/ch6.m3u8
 #EXTINF:-1 tvg-id="MVMallDD.th" tvg-nane="MVMall DD" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg" group-title="th",MVMall DD
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-#EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="th",News 1
-http://news1.live14.com/stream/news1.m3u8
 #EXTINF:-1 tvg-id="AnurakTV.th" tvg-name="Anurak TV" tvg-logo="https://muslimthai.com/wp-content/uploads/2023/07/6-1.png" group-title="th",Anurak TV
 https://vdo.plathong.net/anuraktv/anuraktv/playlist.m3u8
