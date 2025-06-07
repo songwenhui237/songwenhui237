@@ -12,7 +12,7 @@ https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 tvg-id=ALTV4.th" tvg-name="ALTV 4" tvg-logo="https://www.altv.tv/images/assets/logo/altv4-logo.png" group-title="th",ALTV 4
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://www.thaitv5hd.com/web/img/logo.svg" group-title="th",TV5 HD
+#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wp-white.png" group-title="th",TV5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 #EXTINF:-1 tvg-id="Boom.th" tvg-name="Boom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/BoomThailand2025.png" group-title="th",Boom
