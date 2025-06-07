@@ -182,5 +182,5 @@ http://dopachannel.truegse.com/live/dopatv03.m3u8
 https://live.zoom072.com/ch6/ch6.m3u8
 #EXTINF:-1 tvg-id="MVMallDD.th" tvg-nane="MVMall DD" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg" group-title="th",MVMall DD
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
-#EXTINF:-1 tvg-id="AnurakTV.th" tvg-name="Anurak TV" tvg-logo="https://www.lyngsat.com/logo/tv/aa/anurak-tv-th.png" group-title="th",Anurak TV
+#EXTINF:-1 tvg-id="AnurakTV.th" tvg-name="Anurak TV" tvg-logo="https://muslimthai.com/wp-content/uploads/2023/07/6-1.png" group-title="th",Anurak TV
 https://vdo.plathong.net/anuraktv/anuraktv/playlist.m3u8
