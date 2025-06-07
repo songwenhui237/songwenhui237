@@ -3,3 +3,5 @@
 https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 #EXTINF:-1 tvg-id="GreaterloveNetwork.us" tvg-name="Greaterlove Network" tvg-logo="https://greaterlove.tv/wp-content/uploads/2024/11/GLTV-Logo-10-1536x369.png" group-title="us",Greaterlove Network
 https://rpn.bozztv.com/dvrfl03/itv04060/index.m3u8
+#EXTINF:-1 tvg-id="ChannelSTV.us" tvg-name="Channel S TV" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png" group-title="us",Channel S TV
+https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
