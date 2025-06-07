@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CTV8.kh" tvg-name="CTV8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/53/CTV8HD.png" group-title="kh",CTV8
 http://43.252.18.195:5080/live/streams/ctv8.m3u8
+#EXTINF:-1 tvg-id="CTV9HD.kh" tvg-name="CTV9 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest/scale-to-width-down/200?cb=20191208065712" group-title="kh",CTV9 HD
+https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
 #EXTINF:-1 tvg-id="MSJTV.kh" tvg-name="MSJ TV" tvg-logo="https://www.msjtv.asia/uploads/favicon.png" group-title="kh",MSJ TV
 https://live-ali7.tv360.metfone.com.kh/live/myStream/chunklist_w1934839445.m3u8
 #EXTINF:-1 tvg-id="HangMeasGo.kh" tvg-name="Hang Meas Go" tvg-logo="https://thumbnail0.baidupcs.com/thumbnail/92a7a7e73r7f63f9ba03b6b401f3aaad?fid=1908971605-250528-965785426599645&time=1749232800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-4TjbimHCAu3pCVwfFR4hYqMWIH4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=184709091688145561&dp-callid=0&file_type=0&size=c360_u270&quality=100&vuk=-&ft=video" group-title="kh",Hang Meas Go
