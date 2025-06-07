@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TVUniao.br" tvg-name="TV Uniao" tvg-logo="https://static.wixstatic.com/media/2c40e8_ecc584de8a7c4f789804a11509be59a7~mv2_d_3840_2160_s_2.png/v1/fill/w_2500,h_1406,al_c/2c40e8_ecc584de8a7c4f789804a11509be59a7~mv2_d_3840_2160_s_2.png" group-title="br",TV Uniao 
 https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="Rede Super" tvg-logo="https://www.redesuper.com.br/wp-content/uploads/sites/29/2023/09/logotipo.png" group-title="br",Rede Super
+https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
