@@ -50,7 +50,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="GBNTV.th" tvg-name="GBN TV" tvg-logo="https://gbnus.com/logo/logo_gbnus_new.png" group-title="th",GBN TV
 https://us.gbnus.com/live/dhamma_high/playlist.m3u8
-#EXTINF:-1 tvg-id="TVMuslim.th" tvg-name="TV Muslim" tvg-logo="https://muslimthai.com/wp-content/uploads/2023/07/2-1.png" group-title="th",TV Muslim
+#EXTINF:-1 tvg-id="TVMuslim.th" tvg-name="TV Muslim" tvg-logo="http://tvmuslim.org/wp-content/uploads/2022/12/ferg.png" group-title="th",TV Muslim
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 tvg-id="NationTV.th" tvg-name="Nation TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/63/Nation_TV_22_%282020_NATION_Text_Logo%29.png" group-title="th",Nation TV
 https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
