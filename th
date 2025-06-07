@@ -54,7 +54,7 @@ https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/chNation-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
 https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
-#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint 23" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Workpoint_Ch23.svg" group-title="th",Workpoint 23
+#EXTINF:-1 tvg-id="Workpoint23.th" tvg-name="Workpoint 23" tvg-logo="https://www.workpointtv.com/wp-content/themes/wptv/assets/logo-wp-white.png" group-title="th",Workpoint 23
 https://live-us1.thaimomo.com/live-as/chworkpointt-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
 #EXTINF:-1 tvg-id="True4U.th" tvg-name="True 4U" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/True4U4.png" group-title="th",True 4U
