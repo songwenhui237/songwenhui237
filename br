@@ -21,3 +21,5 @@ https://video01.kshost.com.br/gente8322/gente8322/playlist.m3u8
 https://stmv6.voxtvhd.com.br/espaciofabrik/espaciofabrik/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPampa.br" tvg-name="TV Pampa" tvg-logo="https://www.redepampa.com.br/wp-content/uploads/2021/11/LOGO-TV-PAMPA-PNG.png" group-title="br",TV Pampa
 https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeTVS.br" tvg-name="Rede TVS" tvg-logo="https://spaceks.net/sites/redetvs.com.br/images/logo/logo_365510885.png" group-title="br",Rede TVS
+https://video01.kshost.com.br/rede1250/rede1250/playlist.m3u8
