@@ -35,5 +35,5 @@ https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="TerceiroAnjoTV.br" tvg-name="Terceiro Anjo TV" tvg-logo="https://www.terceiroanjo.com/_next/image/?url=%2Fimages%2Flogo-2.png&w=256&q=95" group-title="br",Terceiro Anjo TV 
 https://streamer.terceiroanjo.com/salive/GMI3anjom/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://static.wikia.nocookie.net/tvpediabrasil/images/5/55/Sbtintrj.jpg/revision/latest/thumbnail/width/360/height/360?cb=20210824005922&path-prefix=pt-br" group-title="br",SBT Interior
+#EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://sbtinterior.com/img/logo-pb.png" group-title="br",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
