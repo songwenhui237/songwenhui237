@@ -51,3 +51,5 @@ https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeGospelTV.br" tvg-name="Rede Gospel TV" tvg-logo="https://static.wixstatic.com/media/d978d9_ab8c62943e8a40f8be84c98d65cf217c~mv2.png" group-title="br",Rede Gospel TV
 https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:-1 tvg-id="TVMundial.br" tvg-name="TV Mundial" tvg-logo="https://d5pgibznjcs0s.cloudfront.net/484221c2-94f8-44f6-bdfa-b4710e60a6de/images/logo_middle-medium.png" group-title="br",TV Mundial
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
