@@ -15,7 +15,7 @@ https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlis
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="it",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple122/v4/b6/71/b6/b671b649-8e27-0278-883d-a1c7bf4c74bb/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png" group-title="it",Rete Biella TV
+#EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" tvg-logo="https://play-lh.googleusercontent.com/VbFSMk-yCf9lxplU3GTzFpP6BVIieWck_O03h2DFy2WiFxUePp-nhPHSV_Bm9JOSpg" group-title="it",Rete Biella TV
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="Cafe TV 24" tvg-logo="https://www.cafetv24.it/wp-content/uploads/2021/05/logo-cafe-trasmissione_ARROTONDATO1.png" group-title="it",Cafe TV 24
 https://srvx1.selftv.video/cafe/smil:live/playlist.m3u8
