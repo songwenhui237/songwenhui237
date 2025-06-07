@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://www.italianfishingtv.it/wp-content/uploads/2025/02/immagine.png" group-title="it",Italian Fishing TV
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="it",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCampiFlegrei.it" tvg-name="TV Campi Flegrei" tvg-logo="https://www.tvcampiflegrei.it/wp-content/uploads/2023/06/logo-campi-flegrei-1.png" group-title="it",TV Campi Flegrei
 https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
