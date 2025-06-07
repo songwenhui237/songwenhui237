@@ -39,3 +39,5 @@ https://streamer.terceiroanjo.com/salive/GMI3anjom/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 #EXTINF:-1 tvg-id="EncontroDasAguas.br" tvg-name="Encontro Das Aguas" tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/09/TV-Encontro-das-Aguas.jpg" group-title="br",Encontro Das Aguas
 https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
+#EXTINF:-1 tvg-id="ComBrasil.br" tvg-name="Com Brasil" tvg-logo="https://combrasiltv.com.br/wp-content/uploads/2022/07/Logo-COMBR.png" group-title="br",Com Brasil
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8
