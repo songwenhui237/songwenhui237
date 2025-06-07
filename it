@@ -41,3 +41,5 @@ https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb
 https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="BariNews111.it" tvg-name="Bari News 111" tvg-logo="https://www.barinews111.it/wp-content/uploads/2024/09/logo-1.png" group-title="it",Bari News 111
 https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
+#EXTINF:-1 tvg-id="ItaliaCableTV.it" tvg-name="Italia Cable TV" tvg-logo="https://play-lh.googleusercontent.com/Y2SYQkCmqZwVQzi7h0Cm3XRUr3mBXfNE3koOujKdtAZVeri4b9WgaSVyA4oqTbHNiA" group-title="it",Italia Cable TV 
+https://rst.saiuzwebnetwork.it:8081/italiacable/index.m3u8
