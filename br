@@ -63,3 +63,5 @@ https://srv1.zcast.com.br/bdctv/bdctv/playlist.m3u8
 https://stmv1.rpmcloud.com.br/tvpiauishop/tvpiauishop/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalGov.br" tvg-name="Canal Gov" tvg-logo="https://canalgov.ebc.com.br/++plone++ebc.canalgov/canal_gov-logo.png" group-title="br",Canal Gov
 https://canalgov-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="TVTemplo.br" tvg-name="TV Templo" tvg-logo="https://www.univervideo.com/public/images/tv/logo-tvtemplo.svg" group-title="br",TV Templo
+https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
