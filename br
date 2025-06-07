@@ -65,3 +65,5 @@ https://stmv1.rpmcloud.com.br/tvpiauishop/tvpiauishop/playlist.m3u8
 https://canalgov-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="TVTemplo.br" tvg-name="TV Templo" tvg-logo="https://www.univervideo.com/public/images/tv/logo-tvtemplo.svg" group-title="br",TV Templo
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="br",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8
