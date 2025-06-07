@@ -44,7 +44,7 @@ https://live-us1.thaimomo.com/live-as/chtnn24-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
 #EXTINF:-1 tvg-id="GoodIdeaTV.th" tvg-name="Good Idea TV" tvg-logo="http://www.goodideatv.net/images/gtvlogo-02.png" group-title="th",Good Idea TV
 http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/JKN18_Logo_2021.png" group-title="th",JKN 18
+#EXTINF:-1 tvg-id="JKN18.th" tvg-name="JKN 18" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/JKN18_Logo_2021.png" group-title="th",JKN 18
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-id="StouChannel.th" tvg-name="Stou Channel" tvg-logo="https://media.stou.ac.th/watch/img/stou_channel.jpg" group-title="th",Stou Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
