@@ -67,3 +67,5 @@ https://canalgov-stream.ebc.com.br/index.m3u8
 https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="TVBrasil.br" tvg-name="TV Brasil" tvg-logo="https://tvbrasil.ebc.com.br/sites/default/themes/tvbrasil/img/logo_tvbrasil.png" group-title="br",TV Brasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
+#EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="https://static.wixstatic.com/media/59f0cf_3a23fd5aed114502a491340dd35edd0e~mv2.png" group-title="br",RIT TV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
