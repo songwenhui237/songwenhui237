@@ -53,3 +53,5 @@ https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr
 https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleOne16.it" tvg-name="Tele One 16" tvg-logo="https://www.tvdream.net/img/teleone-cover.jpg" group-title="it",Tele One 16
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
+#EXTINF:-1 tvg-id="GoldTVNetwork.it" tvg-name="Gold TV Network" tvg-logo="https://www.canclan.com/wp-content/uploads/2015/05/LOGOGOLDTV-800-600-copia.png" group-title="it",Gold TV Network
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
