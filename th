@@ -48,7 +48,7 @@ http://stream1.ai-net.net:1935/gtv1/_definst_/smil:gtv.smil/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
 #EXTINF:-1 tvg-id="StouChannel.th" tvg-name="Stou Channel" tvg-logo="https://media.stou.ac.th/watch/img/stou_channel.jpg" group-title="th",Stou Channel
 https://stream1.stou.ac.th/live/stou_720p/playlist.m3u8
-#EXTINF:-1 tvg-id="GBNTV.th" tvg-name="GBN TV" tvg-logo="https://gbnus.com/GBN%20Content/new%20backgruound/logo-GBN-small1.png" group-title="th",GBN TV
+#EXTINF:-1 tvg-id="GBNTV.th" tvg-name="GBN TV" tvg-logo="https://gbnus.com/logo/logo_gbnus_new.png" group-title="th",GBN TV
 http://broadcastusa.gbn.center/live/channal1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TVMuslim.th" tvg-name="TV Muslim" tvg-logo="https://muslimthai.com/wp-content/uploads/2023/07/2-1.png" group-title="th",TV Muslim
 https://vdo.plathong.net/tvmuslim/tvmuslim/playlist.m3u8
