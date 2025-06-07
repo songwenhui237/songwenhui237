@@ -148,7 +148,7 @@ https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
 http://180.180.243.239/streams/3/hls
 #EXTINF:-1 tvg-id="RamaChannel.th" tvg-name="Rama Channel" tvg-logo="https://www.rama.mahidol.ac.th/ramachannel/wp-content/uploads/2023/03/logo-rama-topA.png" group-title="th",Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
-#EXTINF:-1 tvg-id="Suwannabhumi.th" tvg-name="Suwannabhumi" tv-logo="https://tvtolive.com/wp-content/uploads/Suwannabhumi-TV-tvtolive.com_.jpg" group-title="th",Suwannabhumi
+#EXTINF:-1 tvg-id="Suwannabhumi.th" tvg-name="Suwannabhumi" tvg-logo="https://tvtolive.com/wp-content/uploads/Suwannabhumi-TV-tvtolive.com_.jpg" group-title="th",Suwannabhumi
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="MVGoSport.th" tvg-name="MV Go Sport" tvg-logo="https://media-mvtv.imgix.net/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png" group-title="th",MV Go Sport
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
