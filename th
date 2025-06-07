@@ -68,7 +68,7 @@ https://live-us1.thaimomo.com/live-as/chgmmchannel-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
 #EXTINF:-1 tvg-id="ETVThai.th" tvg-name="ETV Thai" tvg-logo="http://etvthai.tv/images_new/logo.png" group-title="th",ETV Thai
 http://150.95.66.20:1935/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="CH8.th" tvg-name="CH 8" tvg-logo="https://www.thaich8.com/assets/images/ch8-log-23092019.png" group-title="th",CH 8
+#EXTINF:-1 tvg-id="CH8.th" tvg-name="CH 8" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/27/Channel82024.svg/revision/latest/scale-to-width-down/221?cb=20241231172210" group-title="th",CH 8
 https://live-us1.thaimomo.com/live-as/cheight-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
 #EXTINF:-1 tvg-id="BoomerangCartoon.th" tvg-name="Boomerang Cartoon" tvg-logo="https://thumbnail0.baidupcs.com/thumbnail/a6bc0ddaelcf21d69b13eb857305e8d6?fid=1908971605-250528-329480363203151&time=1749236400&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-YYtvCxxcX1iOgesnO8RwWnIH%2F0c%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=185510822711428799&dp-callid=0&file_type=0&size=c360_u270&quality=100&vuk=-&ft=video" group-title="th",Boomerang Cartoon
