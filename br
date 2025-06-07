@@ -37,3 +37,5 @@ https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
 https://streamer.terceiroanjo.com/salive/GMI3anjom/playlist.m3u8
 #EXTINF:-1 tvg-id="SBTInterior.br" tvg-name="SBT Interior" tvg-logo="https://sbtinterior.com/img/logo-pb.png" group-title="br",SBT Interior
 https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
+#EXTINF:-1 tvg-id="EncontroDasAguas.br" tvg-name="Encontro Das Aguas" tvg-logo="https://amazonasatual.com.br/wp-content/uploads/2019/09/TV-Encontro-das-Aguas.jpg" group-title="br",Encontro Das Aguas
+https://stmv7.samcast.com.br/sistemaencontrodasaguas/sistemaencontrodasaguas/playlist.m3u8
