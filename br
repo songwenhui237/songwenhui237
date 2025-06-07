@@ -33,3 +33,5 @@ https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
 #EXTINF:-1 tvg-id="NovotempoTV.br" tvg-name="Novotempo TV" tvg-logo="https://files.adventistas.org/noticias/pt/2015/07/30192608/TV-NOVO-TEMPO-copy-Copia.png" group-title="br",Novotempo TV
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="TerceiroAnjoTV.br" tvg-name="Terceiro Anjo TV" tvg-logo="https://www.terceiroanjo.com/_next/image/?url=%2Fimages%2Flogo-2.png&w=256&q=95" group-title="br",Terceiro Anjo TV 
+https://streamer.terceiroanjo.com/salive/GMI3anjom/playlist.m3u8
