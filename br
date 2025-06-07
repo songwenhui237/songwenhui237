@@ -3,3 +3,5 @@
 https://video09.logicahost.com.br/tvuniao/tvuniao/playlist.m3u8
 #EXTINF:-1 tvg-id="RedeSuper.br" tvg-name="Rede Super" tvg-logo="https://www.redesuper.com.br/wp-content/uploads/sites/29/2023/09/logotipo.png" group-title="br",Rede Super
 https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
+#EXTINF:-1 tvg-id="TVFuturo.br" tvg-name="TV Futuro" tvg-logo="https://www.tvfuturo.com.br/wp-content/uploads/sites/60/2023/07/logo-portal-7.png" group-title="br",TV Futuro
+https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
