@@ -3,3 +3,5 @@
 http://43.252.18.195:5080/live/streams/ctv8.m3u8
 #EXTINF:-1 tvg-id="HangMeasGo.kh" tvg-name="Hang Meas Go" tvg-logo="https://thumbnail0.baidupcs.com/thumbnail/92a7a7e73r7f63f9ba03b6b401f3aaad?fid=1908971605-250528-965785426599645&time=1749232800&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-4TjbimHCAu3pCVwfFR4hYqMWIH4%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=184709091688145561&dp-callid=0&file_type=0&size=c360_u270&quality=100&vuk=-&ft=video" group-title="kh",Hang Meas Go
 http://clive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-id="Hang Meas Cine" tvg-name="Hang Meas Cine" tvg-logo="https://thumbnail0.baidupcs.com/thumbnail/120337c1dte551db2146c75dfe729a72?fid=1908971605-250528-382620854093081&time=1749265200&rt=sh&sign=FDTAER-DCb740ccc5511e5e8fedcff06b081203-lc4Qav2wov4Kat9zEac0ecbW2zU%3D&expires=8h&chkv=0&chkbd=0&chkpc=&dp-logid=193851903983117562&dp-callid=0&file_type=0&size=c360_u270&quality=100&vuk=-&ft=video" group-title="kh",Hang Meas Cine
+http://clive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w1412807550_b1800000_sleng.m3u8
