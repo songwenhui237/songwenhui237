@@ -31,3 +31,5 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.
 https://video01.logicahost.com.br/assembleiarn/assembleiarn/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalSIC.br" tvg-name="Canal SIC" tvg-logo="https://images.impresa.pt/sic/2021-04-07-logo-sic.png-45b11c81-1" group-title="br",Canal SIC
 https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8
+#EXTINF:-1 tvg-id="NovotempoTV.br" tvg-name="Novotempo TV" tvg-logo="https://files.adventistas.org/noticias/pt/2015/07/30192608/TV-NOVO-TEMPO-copy-Copia.png" group-title="br",Novotempo TV
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
