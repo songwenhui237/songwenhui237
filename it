@@ -37,3 +37,5 @@ https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
 #EXTINF:-1 tvg-id="PlusTV.it" tvg-name="Plus TV" tvg-logo="https://plustv.it/wp-content/uploads/2024/05/PlusTV_White_canale-e1729174232864.png" group-title="it",Plus TV 
 https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="DolomitiLifeTV.it" tvg-name="Dolomiti Life TV" tvg-logo="https://www.tvdream.net/img/dolomiti-life-tv.png" group-title="it",Dolomiti Life TV 
+https://stream.mariatvcdn.com/teledolomiti/a66b8b8ac2baee06f136e87b9805774d.sdp/playlist.m3u8
