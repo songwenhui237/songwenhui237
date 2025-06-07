@@ -25,3 +25,5 @@ https://video04.logicahost.com.br/tvpampa/tvpampa/playlist.m3u8
 https://video01.kshost.com.br/rede1250/rede1250/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalBacanTeVeo.br" tvg-name="Canal Bacan Te Veo" tvg-logo="https://xtrematv.com/wp-content/uploads/2024/03/32-Bacan-Te-Veo.jpg" group-title="br",Canal Bacan Te Veo
 https://stmv6.voxtvhd.com.br/vacantveo2/vacantveo2/playlist.m3u8
+#EXTINF:-1 tvg-id="CancaoNovaTV.br" tvg-name="Cancao Nova TV" tvg-logo="https://static.cancaonova.com/images/marca.png" group-title="br",Cancao Nova TV
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
