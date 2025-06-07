@@ -5,7 +5,7 @@ https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg" group-title="th",Thai PBS
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://image.pngaaa.com/305/82305-middle.png" group-title="th",Thai PBS
 https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
