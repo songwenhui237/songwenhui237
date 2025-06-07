@@ -45,3 +45,5 @@ https://stream.ets-sistemi.it:19360/barinews111/barinews111.m3u8
 https://rst.saiuzwebnetwork.it:8081/italiacable/index.m3u8
 #EXTINF:-1 tvg-id="RetesoleTV.it" tvg-name="Retesole TV" tvg-logo="https://www.retesole.it/wp-content/uploads/2023/09/Logo-2-BIS-WHITE-TRASPARENTE.png" group-title="it",Retesole TV
 https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
+#EXTINF:-1 tvg-id="PrimaFreeTV.it" tvg-name="Prima Free TV" tvg-logo="https://www.tvdream.net/img/primafree.png" group-title="it",Prima Free TV
+https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
