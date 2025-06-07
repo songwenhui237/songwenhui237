@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ForYouTV.cm" tvg-name="For You TV" tvg-logo="https://foryoumedia-africa.com/assets/img/header/foryou-media-afrique-logo.png" group-title="cm",For You TV
+https://stream.az-multimedia.net:3793/live/foryoutvlive.m3u8
