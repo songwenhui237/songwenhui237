@@ -49,3 +49,5 @@ https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8
 https://58c8a6b3c74e2.streamlock.net:1936/tvci/tvci/playlist.m3u8
 #EXTINF:-1 tvg-id="TVPantanal.br" tvg-name="TV Pantanal" tvg-logo="http://www.tvpantanalcba.com.br/imagens/logopng.png" group-title="br",TV Pantanal
 https://5a2b083e9f360.streamlock.net/tvpantanal/tvpantanal.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="RedeGospelTV.br" tvg-name="Rede Gospel TV" tvg-logo="https://static.wixstatic.com/media/d978d9_ab8c62943e8a40f8be84c98d65cf217c~mv2.png" group-title="br",Rede Gospel TV
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
