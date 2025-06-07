@@ -89,14 +89,14 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
 #EXTINF:-1 tvg-id="Channel3HD.th" tvg-name="Channel 3 HD" tvg-logo="https://mthai.com/app/uploads/2021/01/tv-ch3HD-logo.png" group-title="th",Channel 3 HD
 https://live-us1.thaimomo.com/live-as/ch3hd-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-#EXTINF:-1 tvg-id="Amarin34.th" tvg-name="Amarin 34" tvg-logo="https://www.amarintv.com/assets/images/global/logo_amarintv34HD_white.svg" group-title="th",Amarin 34
+#EXTINF:-1 tvg-id="Amarin34.th" tvg-name="Amarin 34" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg/revision/latest/scale-to-width-down/250?cb=20180110051919" group-title="th",Amarin 34
 https://live-us1.thaimomo.com/live-as/chamarin-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
 #EXTINF:-1 tvg-id="BBTV7HD.th" tvg-name="BBTV7 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f7/Channel_7_Thailand_3D.png" group-title="th",BBTV7 HD
 https://live-us1.thaimomo.com/live-as/ch7hd-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffac/7hd/7hd.m3u8
 http://streaming-hwc.ch7.com/livech7hd/HD_720p.m3u8
-#EXTINF:-1 tvg-id="PPTV36.th" tvg-name="PPTV 36" tvg-logo="https://www-live.pptvhd36.com/images/logo-pptvhd36-2019.svg?1749119133-cdn" group-title="th",PPTV 36
+#EXTINF:-1 tvg-id="PPTV36.th" tvg-name="PPTV 36" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/PPTV_2019.svg/revision/latest/scale-to-width-down/200?cb=20190815051944" group-title="th",PPTV 36
 https://live-us1.thaimomo.com/live-as/chpptv-3/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 #EXTINF:-1 tvg-id="Cable37.th" tvg-name="Cable 37" tvg-logo="https://www.cabletv.co.th/wp-content/uploads/2023/01/Artboard-3.png" group-title="th",Cabel 37
