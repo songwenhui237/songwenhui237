@@ -35,3 +35,5 @@ https://liveturner.akamaized.net/75a4d1a90e744fa5b9901a1853d2c47f/eu-central-1/6
 https://64b16f23efbee.streamlock.net/calabriatv/calabriatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Rete8.it" tvg-name="Rete 8" tvg-logo="https://www.rete8.it/wp-content/uploads/2023/01/Rete8_logo_header_256x94.png" group-title="it",Rete 8
 https://64b16f23efbee.streamlock.net/rete8/rete8/playlist.m3u8
+#EXTINF:-1 tvg-id="PlusTV.it" tvg-name="Plus TV" tvg-logo="https://plustv.it/wp-content/uploads/2024/05/PlusTV_White_canale-e1729174232864.png" group-title="it",Plus TV 
+https://jr7yvkmwda4v-hls-live.mariatvcdn.it/liveu/9aa7fdc4068e56587206b298b423cb82.sdp/playlist.m3u8
