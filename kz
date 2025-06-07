@@ -1,2 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="
+#EXTINF:-1 tvg-id="24KZ.kz" tvg-name="24KZ" tvg-logo="https://static.wikia.nocookie.net/televizionnofutbolnaya-viki/images/8/83/24KZ.png/revision/latest/scale-to-width-down/150?cb=20240303224217&path-prefix=ru" group-title="kz",24KZ
+https://tvcdn01.oktv.kz/tv/24kz/index.m3u8
