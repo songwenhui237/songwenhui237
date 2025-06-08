@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="NoeTV.cz" tvg-name="Noe TV" tvg-logo="https://wordpress.tvtelo.cz/wp-content/uploads/2023/09/tv-noe.png" group-title="cz",Noe TV
+https://n106.quickmedia.tv/noetv/live/playlist_dvr_timeshift-0-7200.m3u8
