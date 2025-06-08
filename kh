@@ -23,4 +23,5 @@ https://es1-p1-netcdn.metfone.com.kh/netcdn-live-31/LiveApp/streams/AGGMusic.tv3
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 #EXTINF:-1 tvg-id="NTV.kh" tvg-name="NTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj18rqRAvVSICnciXsJPLhKbyIkYZa1qsP2mj3UjgIf_ZDbfjIm6YDbRV3WIY3aTnuZKI6obCS2lWuo6nPZ-7yLFKLq6vDtD7yOMypsLMXU6rqFsQ9iryeRIXZusQe0XkF3alcnWer9Pg5Qys3pSN2PExpBx_veDvFHuy2yYFQcMP41PzVR7wchEyxa=s654" group-title="kh",NTV
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
-
+#EXTINF:-1 tvg-id="ABCCambodia.kh" tvg-name="ABC Cambodia" tvg-logo="https://play-lh.googleusercontent.com/IvenT2cJI-Zd2Rq4YCQilbBjk2byDlnwwPSTm72cKXHcd23y3y7JzYF6IzexmTz0KHA" group-title="kh",ABC Cambodia
+http://217.15.167.95:5080/live/streams/live_2.m3u8
