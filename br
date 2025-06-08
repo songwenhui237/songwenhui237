@@ -109,3 +109,5 @@ https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
 https://stream3.camara.gov.br/tv1/manifest.m3u8
 #EXTINF:-1 tvg-id="TDTMultimedia.br" tvg-name="TDT Multimedia" tvg-logo="https://tdtmultimedia.com/wp-content/uploads/2024/12/cropped-logo-web-300x205-1-120x82-1-1.png" group-title="br",TDT Multimedia
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
+#EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="br",Adesso TV
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
