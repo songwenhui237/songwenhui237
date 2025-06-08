@@ -19,3 +19,5 @@ http://43.252.18.195:5080/live/streams/MYTV062025TVlUVl8wNjIwMjU.m3u8
 http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
 #EXTINF:-1 tvg-id="TopMusic.kh" tvg-name="Top Music" tvg-logo="https://www.freepnglogos.com/uploads/top-music-red-logo-png-0.png" group-title="kh",Top Music
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-31/LiveApp/streams/AGGMusic.tv360.metfone.com.kh.m3u8
+#EXTINF:-1 tvg-id="EACNews.kh" tvg-name="EAC News" tvg-logo="https://eacnews.asia/front/img/E-Arts03-01.png" group-title="kh",EAC News
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
