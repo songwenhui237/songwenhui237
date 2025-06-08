@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CarinosaTV.gt" tvg-name="Carinasa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="gt",Carinosa TV
+https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
