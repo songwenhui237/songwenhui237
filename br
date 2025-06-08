@@ -123,3 +123,5 @@ https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
 #EXTINF:-1 tvg-id="UMATV.br" tvg-name="UMATV" tvg-logo="https://static.wixstatic.com/media/a57ecd_f1ca761b2c424c04a45fa142edea0b7a~mv2.png" group-title="br",UMATV
 https://acesso.ecast.site:3011/live/umatvlive.m3u8
+#EXTINF:-1 tvg-id="AWTV.br" tvg-name="AWTV" tvg-logo="https://awtv.com.br/wp-content/uploads/2025/05/AWTV-STREAMING.webp" group-title="br",AWTV
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
