@@ -3,7 +3,7 @@
 http://43.252.18.195:5080/live/streams/Q1RWOF8wNjIwMjU.m3u8
 #EXTINF:-1 tvg-id="CTV9HD.kh" tvg-name="CTV9 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a5/Tv9cambodiaHDTV.png/revision/latest/scale-to-width-down/200?cb=20191208065712" group-title="kh",CTV9 HD
 https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
-#EXTINF:-1 tvg-id="MSJTV.kh" tvg-name="MSJ TV" tvg-logo="https://www.msjtv.asia/uploads/favicon.png" group-title="kh",MSJ TV
+#EXTINF:-1 tvg-id="MSJTV.kh" tvg-name="MSJ TV" tvg-logo="https://lh3.googleusercontent.com/91RapZUFae7AoFKQIof6Vl4ddjpXwt7wM7cY9nmLK7qd3IxnvzNQMHDPwp7aOgzqo0eavra98Yu75-5mPC2-jn9vGJKfPI3WOCrSAQ" group-title="kh",MSJ TV
 https://live-ali7.tv360.metfone.com.kh/live/myStream/chunklist_w1934839445.m3u8
 #EXTINF:-1 tvg-id="PNN.kh" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="kh",PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
