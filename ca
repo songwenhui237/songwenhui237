@@ -23,3 +23,5 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
 #EXTINF:-1 tvg-id="Cable14Hamilton.ca" tvg-name="Cable 14 Hamilton" tvg-logo="https://www.cable14.com/sites/default/files/cable14-website_logo.png" group-title="ca",Cable 14 Hamilton
 https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="CanadaOneTV.ca" tvg-name="Canada One TV" tvg-logo="http://canadaone.tv/wp-content/uploads/2020/05/cropped-Logo-Canada-One-New-1.png" group-title="ca",Canada One TV
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
