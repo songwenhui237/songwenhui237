@@ -71,3 +71,5 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1 tvg-id="VivaxTV.br" tvg-name="Vivax TV" tvg-logo="https://static.wixstatic.com/media/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png" group-title="br",Vivax TV
 https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+#EXTINF:-1 tvg-id="TeleRabeloInternational.br" tvg-name="Tele Rabelo International" tvg-logo="https://tvrabelo.github.io/ao-vivo/imagem/logo-tvrabelo-geradora-site.png" group-title="br",Tele Rabelo International
+https://video01.logicahost.com.br/televisaorabelo/televisaorabelo/playlist.m3u8
