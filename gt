@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CarinosaTV.gt" tvg-name="Carinasa TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/47ac07aab03b6b374cf69559675aa648.webp" group-title="gt",Carinosa TV
 https://cloud2.streaminglivehd.com:1936/carinosatv/carinosatv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVRadioMayaTGBA.gt" tvg-name="TV Radio Maya TGBA" tvg-logo="https://0a6e80f01c.clvaw-cdnwnd.com/07b2980a5c2c0fb9c4babbf90a196f49/200000091-6380c6380f/LOGO%20RADIO%20MAYA%20NUEVO%20.webp" group-title="gt",TV Radio Maya TGBA
+https://video.misistemareseller.com/tvradiomaya/tvradiomaya/playlist.m3u8
