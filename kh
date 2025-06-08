@@ -13,3 +13,5 @@ http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_
 http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w1412807550_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="CTNTV.kh" tvg-name="CTN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="kh",CTN TV
 http://43.252.18.195:5080/live/streams/CTNTV062025Q1ROVFZfMDYyMDI1.m3u8
+#EXTINF:-1 tvg-id="MyTV.kh" tvg-name="MyTV" tvg-logo="http://mytv.com.kh/wp-content/themes/ctntvcambodia/img/logo.png" group-title="kh",MyTV
+http://43.252.18.195:5080/live/streams/MYTV062025TVlUVl8wNjIwMjU.m3u8
