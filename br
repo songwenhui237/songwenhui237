@@ -81,5 +81,5 @@ https://stmv1.srvif.com/classique/classique/playlist.m3u8
 https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 #EXTINF:-1 tvg-id="GospelMovieTV.br" tvg-name="Gospel Movie TV" tvg-logo="https://ipgotv.net.br/tv/gmovies/imagens/logo_gospelf_site.png" group-title="br",Gospel Movie TV
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
-#EXTINF:-1 tvg-id="MasterShowTV.br" tvg-name="Master Show TV" tvg-logo="http://www.smartlives.com.br/images/mastershowtv.jpg" group-title="br",Master Show TV 
-https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaEraTV.br" tvg-name="Nova Era TV" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7faf25d0fff391c39eb21e2374503e89.webp" group-title="br",Nova Era TV 
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
