@@ -103,3 +103,5 @@ https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
 https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
 #EXTINF:-1 tvg-id="TVAldeia.br" tvg-name="TV Aldeia" tvg-logo="https://pa-str.srvsite.com/arquivos/7282/cabecalho-7282-20211130195118.png" group-title="br",TV Aldeia
 https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAlternativa.br" tvg-name="TV Alternativa" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/c1b16402c98da43a39e97fca49875675.png" group-title="br",TV Alternativa
+https://stmv5.samcast.com.br/wagner7919/wagner7919/playlist.m3u8
