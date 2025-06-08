@@ -3,3 +3,5 @@
 http://live.sanonda.tv/sanonda/index.m3u8
 #EXTINF:-1 tvg-id="ZillarbartaTV.in" tvg-name="Zillarbarta TV" tvg-logo="https://www.zillarbarta.com/barta2019/upload/65182_270937255_675947843566961_348635942835701035_n.jpg" group-title="in",Zillarbarta TV
 https://server.zillarbarta.com/zillarbarta/index.m3u8
+#EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" tvg-logo="https://www.guaranteenews.com/wp-content/uploads/2025/01/LOGO-WITH-TAG-LINE-k.jpg" group-title="in",Guarantee News
+https://guaranteenews.in:8443/live/gnews/index.m3u8
