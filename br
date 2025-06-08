@@ -75,3 +75,5 @@ https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 https://video01.logicahost.com.br/televisaorabelo/televisaorabelo/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalDoInter.br" tvg-name="Canal Do Inter" tvg-logo="https://www.internacional.com.br/img/scinternacional.svg" group-title="br",Canal Do Inter
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
+#EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-name="Classique TV" tvg-logo="https://stmv.net.br/tv/cqtv/imagem/logo_classiqueTV_site.png" group-title="br",Classique TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
