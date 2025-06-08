@@ -17,3 +17,5 @@ http://43.252.18.195:5080/live/streams/CTNTV062025Q1ROVFZfMDYyMDI1.m3u8
 http://43.252.18.195:5080/live/streams/MYTV062025TVlUVl8wNjIwMjU.m3u8
 #EXTINF:-1 tvg-id="CNC.kh" tvg-name="CNC" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/98/CNC.jpg/revision/latest/scale-to-width-down/250?cb=20191209090206" group-title="kh",CNC
 http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
+#EXTINF:-1 tvg-id="TopMusic.kh" tvg-name="Top Music" tvg-logo="https://www.freepnglogos.com/uploads/top-music-red-logo-png-0.png" group-title="kh",Top Music
+https://es1-p1-netcdn.metfone.com.kh/netcdn-live-31/LiveApp/streams/AGGMusic.tv360.metfone.com.kh.m3u8
