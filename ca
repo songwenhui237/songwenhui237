@@ -17,3 +17,5 @@ https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playl
 https://cdn12.henico.net:8443/live/ymediaplus/index.m3u8
 #EXTINF:-1 tvg-id="ChannelY.ca" tvg-name="Channel Y" tvg-logo="https://tvtolive.com/wp-content/uploads/Channel-Y-Plus-TV-tvtolive.com_.jpg" group-title="ca",Channel Y
 https://cdn.live247stream.com/channely/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="5AABTV.ca" tvg-name="5AABTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XQPKdRazL.jpg" group-title="ca",5AABTV 
+http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
