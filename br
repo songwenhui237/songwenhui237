@@ -115,3 +115,5 @@ https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 #EXTINF:-1 tvg-id="AratuOn.br" tvg-name="Aratu On" tvg-logo="https://aratuon.com.br/img/logo-aratu-on.svg" group-title="br",Aratu On
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:-1 tvg-id="BlitsTV.br" tvg-name="Blits TV" tvg-logo="https://blitstv.com.br/wp-content/uploads/2023/08/logotipo-blitstv.png" group-title="br",Blits TV
+https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
