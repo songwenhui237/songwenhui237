@@ -69,3 +69,5 @@ https://664398c.ha.azioncdn.net/primary/tvtemplo_480p.sdp/playlist.m3u8
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1 tvg-id="RITTV.br" tvg-name="RIT TV" tvg-logo="https://static.wixstatic.com/media/59f0cf_3a23fd5aed114502a491340dd35edd0e~mv2.png" group-title="br",RIT TV
 https://acesso.ecast.site:3648/live/ritlive.m3u8
+#EXTINF:-1 tvg-id="VivaxTV.br" tvg-name="Vivax TV" tvg-logo="https://static.wixstatic.com/media/9b4759_2455541c839e4dc6972ff9234d2ef2bf~mv2.png" group-title="br",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
