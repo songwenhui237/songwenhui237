@@ -19,3 +19,5 @@ https://cdn12.henico.net:8443/live/ymediaplus/index.m3u8
 https://cdn.live247stream.com/channely/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="5AABTV.ca" tvg-name="5AABTV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61XQPKdRazL.jpg" group-title="ca",5AABTV 
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
+#EXTINF:-1 tvg-id="ApnaPunjabTV.ca" tvg-name="Apna Punjab TV" tvg-logo="https://th.bing.com/th/id/R.f624c62eec982d7497c49585ef14eedd?rik=9i2Ct4I0Ejp8lw&riu=http%3a%2f%2fwww.apnapunjab.tv%2fimages%2flogo.png&ehk=6n0V3tAw0UgVOXkNoMX7eIEDw14j95scWlhgiyjufFk%3d&risl=&pid=ImgRaw&r=0" group-title="ca",Apna Punjab TV
+https://plus.gigabitcdn.net/live-stream/apna-punjab-H3sE/playlist.m3u8
