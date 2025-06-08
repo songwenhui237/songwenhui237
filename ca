@@ -11,3 +11,5 @@ https://bozztv.com/amazingd/amazingdtv-srt/index.m3u8
 https://hls.savoir.media/live/stream.m3u8
 #EXTINF:-1 tvg-id="ICI.ca" tvg-name="ICI" tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" group-title="ca",ICI
 https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca" tvg-name="Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="ca",Love Nature
+https://aegis-cloudfront-1.tubi.video/dc8bda97-ce9e-4091-b4e8-11254dea4da6/playlist.m3u8
