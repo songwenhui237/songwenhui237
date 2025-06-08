@@ -13,5 +13,5 @@ http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
 http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="ElectrikaTV.cz" tvg-name="Electrika TV" tvg-logo="https://elektrika.tv/elektrika-tv.jpg" group-title="cz",Electrika TV
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" tvg-logo="https://archiv.spolektiv.cz/temp/dynamic/vb/1160/image/pole-bile-kruh-1920x.jpg" group-title="cz",JC1
+#EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" tvg-logo="https://www.folktime.cz/images/contents/flash/136x80-images-contents-loga-logo_televize_jizni_cechy1.jpg" group-title="cz",JC1
 https://stream.jc1.cz/hls/jc1.m3u8
