@@ -6,7 +6,7 @@ https://live-evg6.tv360.metfone.com.kh/CTV9HD.m3u8
 #EXTINF:-1 tvg-id="MSJTV.kh" tvg-name="MSJ TV" tvg-logo="https://www.msjtv.asia/uploads/favicon.png" group-title="kh",MSJ TV
 https://live-ali7.tv360.metfone.com.kh/live/myStream/chunklist_w1934839445.m3u8
 #EXTINF:-1 tvg-id="PNN.kh" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="kh",PNN
-https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8?
+https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
 #EXTINF:-1 tvg-id="HangMeasGo.kh" tvg-name="Hang Meas Go" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="kh",Hang Meas Go
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="Hang Meas Cine" tvg-name="Hang Meas Cine" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="kh",Hang Meas Cine
