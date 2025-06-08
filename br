@@ -127,3 +127,5 @@ https://acesso.ecast.site:3011/live/umatvlive.m3u8
 https://acesso.ecast.site:3070/live/awtvlive.m3u8
 #EXTINF:-1 tvg-id="RBATV.br" tvg-name="RBATV" tvg-logo="https://rbatv.dol.com.br/wp-content/uploads/2017/04/logo-rbatv-152.png" group-title="br",RBATV
 https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSulDeMinas.br" tvg-name="TV Sul De Minas" tvg-logo="https://1.bp.blogspot.com/-o5n9M6el00A/XrQapLN4SHI/AAAAAAAAAIY/E5GGE0scL0YUWPp8CU1B6-9gcFc-2bY6wCLcBGAsYHQ/s1600/Sul%2Bde%2BMinas%2Btv%2BPNG%2B01.png group-title="br",TV Sul De Minas
+https://5cf4a2c2512a2.streamlock.net/tvsuldeminas/tvsuldeminas/playlist.m3u8
