@@ -99,3 +99,5 @@ https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
 https://cr7v.short.gy/ManoTV/TimesBrasil/Whats75991634025/CNBC/Index.m3u8
 #EXTINF:-1 tvg-id="TVA7Plus.br" tvg-name="TV A7 Plus" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/e1b18510-4df8-42f2-8ee9-66dae09686fb-profile_image-300x300.png" group-title="br",TV A7 Plus
 https://srv3.zcast.com.br/wellington7720/wellington7720/playlist.m3u8
+#EXTINF:-1 tvg-id="TVAFolha.br" tvg-name="TV A Folha" tvg-logo="https://jornalafolha.com.br/wp-content/uploads/2024/06/logo-png-bordado111111.webp" group-title="br",TV A Folha
+https://video01.logicahost.com.br/tvafolha/tvafolha/playlist.m3u8
