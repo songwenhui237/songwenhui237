@@ -111,3 +111,5 @@ https://stream3.camara.gov.br/tv1/manifest.m3u8
 https://video01.kshost.com.br:4443/juan6318/juan6318/playlist.m3u8
 #EXTINF:-1 tvg-id="AdessoTV.br" tvg-name="Adesso TV" tvg-logo="https://www.adessotv.com.br/images/layout/logo.png" group-title="br",Adesso TV
 https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8
+#EXTINF:-1 tvg-id="AmazonSat.br" tvg-name="Amazon Sat" tvg-logo="https://www.gruporedeamazonica.com.br/files/amazonsat/AMAZON-SAT-01.png" group-title="br",Amazon Sat
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
