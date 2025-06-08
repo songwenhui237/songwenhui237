@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="SenilosaTV.ar" tvg-name="Senilosa TV" tvg-logo="https://www.senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="ar",Senilosa TV
+https://stmv1.liveplushd.com.br/senillosatv/senillosatv/playlist.m3u8
