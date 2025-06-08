@@ -85,3 +85,5 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 #EXTINF:-1 tvg-id="PlenaTV.br" tvg-name="Plena TV" tvg-logo="https://2.bp.blogspot.com/_Y6exlNHR5WU/TBPHaGyU1uI/AAAAAAAAAfk/VWO5dset2UI/s1600/PlenaTV.jpg" group-title="br",Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
+#EXTINF:-1 tvg-id="NovaTVAgrotour.br" tvg-name="Nova TV Agrotour" tvg-logo="https://spaceks.net/sites/tvagrotour.com.br/images/share/user_1171998315.jpg" group-title="br",Nova TV Agrotour
+https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
