@@ -3,3 +3,5 @@
 https://n106.quickmedia.tv/noetv/live/playlist_dvr_timeshift-0-7200.m3u8
 #EXTINF:-1 tvg-id="CT1.cz" tvg-name="CT1" tvg-logo="http://img.ceskatelevize.cz/press/2312.png" group-title="cz",CT1
 http://88.212.15.19/live/test_ct1_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT2.cz" tvg-name="CT2" tvg-logo="https://www.spustit.cz/logoodct/ct2.png" group-title="cz",CT2
+http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
