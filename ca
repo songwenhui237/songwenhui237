@@ -5,3 +5,5 @@ https://stream2.pivotalelements.com/memfs/2d2e1038-9eb2-44df-a9b9-109de5752f3b_o
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="TSC.ca" tvg-name="TSC" tvg-logo="https://src.tscimg.ca/Content/en_CA/Assets/logos/logo-test-canada//tsc-logo-black-canadian.svg" group-title="ca",TSC
 https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index.m3u8
+#EXTINF:-1 tvg-id="AmazingDiscoveriesTV.ca" tvg-name="Amazing Discoveries TV" tvg-logo="https://image.roku.com/developer_channels/prod/5da3658a31ea9d21cbfabd6e32c5568e7d7fe4d9238d231782d27cb78600e187.png" group-title="ca",Amazing Discoveries TV
+https://bozztv.com/amazingd/amazingdtv-srt/index.m3u8
