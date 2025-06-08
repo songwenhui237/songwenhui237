@@ -91,3 +91,5 @@ https://video01.kshost.com.br/marcelo6682/marcelo6682/playlist.m3u8
 https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 #EXTINF:-1 tvg-id="RedeSPTV.br" tvg-name="Rede SPTV" tvg-logo="https://pa-str.srvsite.com/arquivos/6806/cabecalho-6806-20210603100909.png" group-title="br",Rede SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
+#EXTINF:-1 tvg-id="SertaoTV.br" tvg-name="Sertao TV" tvg-logo="http://sertaotvceara.com.br/wp-content/uploads/2023/06/cropped-Marca-SerTao-TV-1.png" group-title="br",Sertao TV
+http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
