@@ -15,3 +15,5 @@ http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
 https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="JC1.cz" tvg-name="JC1" tvg-logo="https://www.folktime.cz/images/contents/flash/136x80-images-contents-loga-logo_televize_jizni_cechy1.jpg" group-title="cz",JC1
 https://stream.jc1.cz/hls/jc1.m3u8
+#EXTINF:-1 tvg-id="JihoceskaTelevize.cz" tvg-name="Jihoceska Televize" tvg-logo="https://data.jihoceskatelevize.cz/fotky/1459.jpg" group-title="cz", Jihoceska Televize
+https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
