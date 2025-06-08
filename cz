@@ -9,3 +9,5 @@ http://88.212.15.19/live/test_ct2_25p/playlist.m3u8
 http://88.212.15.19/live/ct_art_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="CTSport.cz" tvg-name="CT Sport" tvg-logo="http://img.ceskatelevize.cz/press/2315.png" group-title="cz",CT Sport
 http://88.212.15.19/live/test_ctsport_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="CT24.cz" tvg-name="CT24" tvg-logo="http://img.ceskatelevize.cz/press/2314.png" group-title="cz",CT24
+http://88.212.15.19/live/test_ct24_hevc/playlist.m3u8
