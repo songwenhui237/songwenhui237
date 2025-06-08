@@ -37,3 +37,5 @@ https://cdn.live247stream.com/hyder/tv/playlist.m3u8
 https://fl3.moveonjoy.com/CA_GLOBAL/index.m3u8
 #EXTINF:-1 tvg-id="ProbashiTV.ca" tvg-name="Probashi TV" tvg-logo="http://live.probashinews24.tv/images/logo.png" group-title="ca",Probashi TV
 http://158.69.24.53:8080/probashi_tv/index.m3u8
+#EXTINF:-1 tvg-id="GustoTV.ca" tvg-name="Gusto TV" tvg-logo="https://gustotv.com/wp-content/uploads/2024/07/GustosGreatRecipesLogo_PNG.png" group-title="ca",Gusto TV
+https://amg01077-gusto-gustous-firetv.amagi.tv/playlist.m3u8
