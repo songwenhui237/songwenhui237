@@ -19,3 +19,5 @@ https://stream.jc1.cz/hls/jc1.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/jtv/index.m3u8
 #EXTINF:-1 tvg-id="Minimax.cz" tvg-name="Minimax" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/8/84/Minimax_(2004).svg/revision/latest/scale-to-width-down/200?cb=20171202092202" group-title="cz",Minimax
 http://88.212.15.19/live/test_minimax/playlist.m3u8
+#EXTINF:-1 tvg-id="Mnau.cz" tvg-name="Mnau" tvg-logo="https://gonet.tv/api/loga/v2/mnau.png?v=2" group-title="cz",Mnau
+https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
