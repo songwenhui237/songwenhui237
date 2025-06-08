@@ -117,3 +117,5 @@ https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
 https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 #EXTINF:-1 tvg-id="BlitsTV.br" tvg-name="Blits TV" tvg-logo="https://blitstv.com.br/wp-content/uploads/2023/08/logotipo-blitstv.png" group-title="br",Blits TV
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal38.br" tvg-name="Canal 38" tvg-logo="https://canal38.com.br/wp-content/uploads/2023/10/cropped-logo544x180-completo-300x99-1.png" group-title="br",Canal 38
+https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
