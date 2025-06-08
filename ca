@@ -9,3 +9,5 @@ https://tscstreaming-lh.akamaihd.net/i/TSCLiveStreaming_1@91031/index.m3u8
 https://bozztv.com/amazingd/amazingdtv-srt/index.m3u8
 #EXTINF:-1 tvg-id="CanalSavoir.ca" tvg-name="Canal Savoir" tvg-logo="https://beacon.playback.api.brightcove.com/savoirmedia/uploads/settings/2_e11b729e19a45b1c3f677217c5410c25_images_logo-h100_w100.png" group-title="ca",Canal Savoir
 https://hls.savoir.media/live/stream.m3u8
+#EXTINF:-1 tvg-id="ICI.ca" tvg-name="ICI" tvg-logo="http://icitelevision.ca/wp-content/uploads/2017/10/logoretina.png" group-title="ca",ICI
+https://amdici.akamaized.net/hls/live/873426/ICI-Live-Stream/master.m3u8
