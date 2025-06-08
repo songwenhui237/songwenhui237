@@ -27,3 +27,5 @@ https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8
 http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 #EXTINF:-1 tvg-id="ErfanHalghehTV.ca" tvg-name="Erafan Halgheh TV" tvg-logo="https://images.sftcdn.net/images/t_app-icon-m/p/23597f43-3659-4909-b331-08690f7efcef/1683598973/erfan-halgheh-tv-logo" group-title="ca",Erafan Halgheh TV
 https://hls.erfanhalgheh.live/hls/stream.m3u8
+#EXTINF:-1 tvg-id="FEVATV.ca" tvg-name="FEVATV" tvg-logo="http://ww1.prweb.com/prfiles/2013/10/14/11231265/FEVATV+Logo.png" group-title="ca",FEVATV
+https://d3c1w351ahk83d.cloudfront.net/scheduler/scheduleMaster/416.m3u8
