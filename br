@@ -93,3 +93,5 @@ https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="SertaoTV.br" tvg-name="Sertao TV" tvg-logo="http://sertaotvceara.com.br/wp-content/uploads/2023/06/cropped-Marca-SerTao-TV-1.png" group-title="br",Sertao TV
 http://wz4.dnip.com.br/sertaotv/sertaotv.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="STZTV.br" tvg-name="STZ TV" tvg-logo="https://stztv.org.br/imagens/misc/stz-tv-logotipo-nova.png" group-title="br",STZ TV
+https://cdn.jmvstream.com/w/AVJ-12952/playlist/playlist.m3u8
