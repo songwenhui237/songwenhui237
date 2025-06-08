@@ -21,3 +21,5 @@ http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-31/LiveApp/streams/AGGMusic.tv360.metfone.com.kh.m3u8
 #EXTINF:-1 tvg-id="EACNews.kh" tvg-name="EAC News" tvg-logo="https://eacnews.asia/front/img/E-Arts03-01.png" group-title="kh",EAC News
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
+#EXTINF:-1 tvg-id="NTV.kh" tvg-name="NTV" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEj18rqRAvVSICnciXsJPLhKbyIkYZa1qsP2mj3UjgIf_ZDbfjIm6YDbRV3WIY3aTnuZKI6obCS2lWuo6nPZ-7yLFKLq6vDtD7yOMypsLMXU6rqFsQ9iryeRIXZusQe0XkF3alcnWer9Pg5Qys3pSN2PExpBx_veDvFHuy2yYFQcMP41PzVR7wchEyxa=s654" group-title="kh",NTV
+https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
