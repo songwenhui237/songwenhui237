@@ -119,3 +119,5 @@ https://cdn.live.br1.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
 https://video03.logicahost.com.br/blitstv01/blitstv01/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal38.br" tvg-name="Canal 38" tvg-logo="https://canal38.com.br/wp-content/uploads/2023/10/cropped-logo544x180-completo-300x99-1.png" group-title="br",Canal 38
 https://cdn.jmvstream.com/w/LVW-8503/LVW8503_d0V5oduFlK/playlist.m3u8
+#EXTINF:-1 tvg-id="1001Noites.br" tvg-name="1001 Noites" tvg-logo="http://aovivo.1001noites.com.br/images/logo.png" group-title="br",1001 Noites
+https://cdn.live.br1.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8
