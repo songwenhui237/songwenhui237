@@ -77,3 +77,5 @@ https://video01.logicahost.com.br/televisaorabelo/televisaorabelo/playlist.m3u8
 https://video01.soultv.com.br/internacional/internacional/playlist.m3u8
 #EXTINF:-1 tvg-id="ClassiqueTV.br" tvg-name="Classique TV" tvg-logo="https://stmv.net.br/tv/cqtv/imagem/logo_classiqueTV_site.png" group-title="br",Classique TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
+#EXTINF:-1 tvg-id="ConecTV.br" tvg-name="Conec TV" tvg-logo="https://www.conectv.tv/assets/img/logo_tres_juntos.png" group-title="br",Conec TV
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
