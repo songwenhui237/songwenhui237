@@ -39,3 +39,5 @@ http://clive.malisresidences.com:1935/hmplay/_definst_/smil:hmplay.smil/chunklis
 http://clive.malisresidences.com:1935/hmnow/_definst_/smil:hmnow.smil/chunklist_w604029205_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="HangMeasBoxing.kh" tvg-name="Hang Meas Boxing" tvg-logo="http://file.vithyu.com/tv/new/1744286079.png" group-title="kh",Hang Meas Boxing
 http://clive.malisresidences.com:1935/hmbox/_definst_/smil:hmbox.smil/chunklist_w419787764_b1800000_sleng.m3u8
+#EXTINF:-1 tvg-id="ApsaraTV.kh" tvg-name="Apsara TV"tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/Apsara_TV11_Logo.png/revision/latest?cb=20220212084116" group-title="kh",Apsara TV
+https://live-evg5.tv360.metfone.com.kh/app/stream/playlist.m3u8
