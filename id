@@ -5,7 +5,7 @@ https://live.rtv.co.id/hls/rtv.m3u8
 https://live.efarinatv.net/hls/stream.m3u8
 #EXTINF:-1 tvg-id="DMTVMalang.id" tvg-name="DMTV Malang" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/DMTV-Malang.png" group-title="id",DMTV Malang
 https://e.siar.us/live/dmtv.m3u8
-#EXTINF:-1 tvg-id="SampitTV.id" tvg-name="Sampit TV" tvg-logo="https://sampittv.com/wp-content/uploads/2024/05/IMG_20240412_132033.jpg" group-title="id",Sampit TV
+#EXTINF:-1 tvg-id="SampitTV.id" tvg-name="Sampit TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SampitTV.png" group-title="id",Sampit TV
 https://e.siar.us/live/sampit-tv.m3u8
 #EXTINF:-1 tvg-id="DTVI.id" tvg-name="DTVI" tvg-logo="https://dtv-indonesia.co.id/storage/dtvi/dtvi-logo-2024-tagline-copy-removebg-preview.png" group-title="id",DTVI
 https://e.siar.us/live/dtvi.m3u8
