@@ -19,7 +19,7 @@ http://43.252.18.195:5080/live/streams/CNCTV062025Q05DVFZfMDYyMDI1.m3u8
 https://es1-p1-netcdn.metfone.com.kh/netcdn-live-31/LiveApp/streams/AGGMusic.tv360.metfone.com.kh.m3u8
 #EXTINF:-1 tvg-id="EACNews.kh" tvg-name="EAC News" tvg-logo="https://eacnews.asia/front/img/E-Arts03-01.png" group-title="kh",EAC News
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
-#EXTINF:-1 tvg-id="NTV.kh" tvg-name="NTV" tvg-logo="http://file.vithyu.com/tv/kh/ntv.png" group-title="kh",NTV
+#EXTINF:-1 tvg-id="NTV.kh" tvg-name="NTV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/NTV.png" group-title="kh",NTV
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="ABCCambodia.kh" tvg-name="ABC Cambodia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/ABCCambodia.png" group-title="kh",ABC Cambodia
 http://217.15.167.95:5080/live/streams/live_2.m3u8
