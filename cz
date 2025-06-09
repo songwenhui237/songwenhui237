@@ -47,3 +47,5 @@ http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
 #EXTINF:-1 tvg-id="VychodoceskaTV.cz" tvg-name="Vychodoceska TV" tvg-logo="https://vzpravy.cz/images/layout/header/logo.png" group-title="cz",Vychodoceska TV 
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
+#EXTINF:-1 tvg-id="KyryrTV.cz" tvg-name="Kyryr TV" tvg-logo="https://www.kuryr.in/wp-content/uploads/2022/10/kuryr-logo-pro-web-1024x318.png" group-title="cz",Kyryr TV
+https://stream-18.mazana.tv/kuryrtv.m3u8s
