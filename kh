@@ -9,7 +9,7 @@ https://live-ali7.tv360.metfone.com.kh/live/myStream/chunklist_w1934839445.m3u8
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8
 #EXTINF:-1 tvg-id="HangMeasGo.kh" tvg-name="Hang Meas Go" tvg-logo="http://file.vithyu.com/tv/new/1738668775.png" group-title="kh",Hang Meas Go
 http://abclive.malisresidences.com:1935/hmgo/_definst_/smil:hmgo.smil/chunklist_w1472008636_b1800000_sleng.m3u8
-#EXTINF:-1 tvg-id="Hang Meas Cine" tvg-name="Hang Meas Cine" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e9/HangMeasTV2013.svg/revision/latest/scale-to-width-down/250?cb=20240220162432" group-title="kh",Hang Meas Cine
+#EXTINF:-1 tvg-id="HangMeasCine.kh" tvg-name="Hang Meas Cine" tvg-logo="http://file.vithyu.com/tv/new/1737362272.png" group-title="kh",Hang Meas Cine
 http://abclive.malisresidences.com:1935/hmcine/_definst_/smil:hmcine.smil/chunklist_w1412807550_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="CTNTV.kh" tvg-name="CTN TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/CTN_Logo.png/revision/latest/scale-to-width-down/200?cb=20220212080929" group-title="kh",CTN TV
 http://43.252.18.195:5080/live/streams/CTNTV062025Q1ROVFZfMDYyMDI1.m3u8
