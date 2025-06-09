@@ -7,3 +7,5 @@ https://streaming-cl.sh1ny.space/memfs/0e41fc31-9f44-46d4-8712-0446e2f3dcaa.m3u8
 https://v2.tustreaming.cl/chilechannel/index.m3u8
 #EXTINF:-1 tvg-id="Canal1Chilian.cl" tvg-name="Canal 1 Chilian" tvg-logo="https://images.squarespace-cdn.com/content/v1/670e696722c95f04171e0924/d6a6ffac-91ee-4631-b121-5d2568c129cd/canal+1_.png?format=1500w" group-title="cl",Canal 1 Chilian
 https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal2Quellon.cl" tvg-name="Canal 2 Quellon" tvg-logo="https://s3-mspro.nyc3.cdn.digitaloceanspaces.com/tenant/62ed6e625a88e7000951ac98/mediaLibrary/photo/2e324b2a-7bc2-4eee-bba3-958741c0962e-medium-standard-q100.webp" group-title="cl",Canal 2 Quellon
+https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
