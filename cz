@@ -27,3 +27,5 @@ https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" tvg-logo="http://1gr.cz/fotky/bulvar/16/043/org/JVB62ee6f_ld_na_web_jak_nasnaladite_1375816278.jpg" group-title="cz",Ocko Gold
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
+#EXTINF:-1 tvg-id="OikTV.cz" tvg-name="Oik TV" tvg-logo="https://www.oiktv.cz/wp-content/uploads/2017/04/logo-header.png" group-title="cz",Oik TV
+https://streamer05.low-latency.cz/oiktv/index.m3u8
