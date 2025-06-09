@@ -43,3 +43,5 @@ https://www.rtmplus.cz/mux_zaloha/live/1280_video.m3u8
 https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TVNova.cz" tvg-name="TV Nova" tvg-logo="https://brandlogo.org/wp-content/uploads/2024/08/TV-Nova-Logo-300x300.png" group-title="cz",TV Nova
 http://88.212.15.19/live/nova_avc_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="UTV.cz" tvg-name="UTV" tvg-logo="http://www.zzsuk.cz/wp-content/uploads/2024/09/utv-tmave-modry-ctverec.jpg" group-title="cz",UTV
+https://vysilani.zaktv.cz/broadcast/hls/utv/index.m3u8
