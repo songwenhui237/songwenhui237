@@ -21,5 +21,5 @@ https://live.yilongnews.com/live/ylzhpd.m3u8
 https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 #EXTINF:-1 tvg-id="郫都综合频道.china" tvg-name="郫都综合频道" tvg-logo="http://w.pdrmtzx.com/static/nav/pdtv.png" group-title="china",郫都综合频道
 http://vod.pdrmtzx.com/pd/live.m3u8?auth_key=1749442849-0-0-a49569a72b1545964c5a651eb6a8049c
-#EXTINF:-1 tvg-id="江安电视台.china" tvg-name="江安电视台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/5ab5c9ea15ce36d3d5392f329da32d87e950352a1b2a?x-bce-process=image/resize,m_lfit,h_700,limit_1/quality,Q_80" group-title="china",江安电视台
+#EXTINF:-1 tvg-id="江安电视台.china" tvg-name="江安电视台" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/%E6%B1%9F%E5%AE%89%E7%94%B5%E8%A7%86%E5%8F%B0.png" group-title="china",江安电视台
 https://play.jaxrm.cn/live/10001802.m3u8?auth_key=1763106038-0-0-8f2fc3fca68e64ba2d28df22f9cda424
