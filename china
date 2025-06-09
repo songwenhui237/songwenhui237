@@ -19,3 +19,5 @@ http://pili-live-hls.job-live.magcloud.net/job-live/xdtv.m3u8?sign=16b7b78ca2900
 https://live.yilongnews.com/live/ylzhpd.m3u8
 #EXTINF:-1 tvg-id="罗江综合频道.china" tvg-name="罗江综合频道" tvg-logo="https://pic.qqans.com/up/2018-2/201829922398946.png!100_100" group-title="china",罗江综合频道
 https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
+#EXTINF:-1 tvg-id="郫都综合频道.china" tvg-name="郫都综合频道" tvg-logo="http://w.pdrmtzx.com/static/nav/pdtv.png" group-title="china",郫都综合频道
+http://vod.pdrmtzx.com/pd/live.m3u8?auth_key=1749442849-0-0-a49569a72b1545964c5a651eb6a8049c
