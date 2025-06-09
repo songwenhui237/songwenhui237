@@ -140,7 +140,7 @@ https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u
 https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="ZabbTV.th" tvg-name="Zabb TV" tvg-logo="https://tvtolive.com/wp-content/uploads/Zabb-TV-tvtolive.com_.jpg" group-title="th",Zabb TV
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1 tvg-id="YateemTV.th" tvg-name="Yateem TV" tvg-logo="https://www.tvjaa.com/storage/tv-channels/yateem.png" group-title="th",Yateem TV
+#EXTINF:-1 tvg-id="YateemTV.th" tvg-name="Yateem TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/YateemTV.png" group-title="th",Yateem TV
 https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
 #EXTINF:-1 tvg-id="NewTM" tvg-name="New TM" tvg-logo="http://www.newtm.tv/assets/img/Logo%20TMTV.png" group-title="th",New TM
 https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
