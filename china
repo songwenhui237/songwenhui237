@@ -15,7 +15,7 @@ https://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
 http://175.155.106.72:89/live1/live1.m3u8
 #EXTINF:-1 tvg-id="新都综合频道.china"tvg-name="新都综合频道" tvg-logo="https://appimg.viewxd.cn/pic/20241115/qi_niu_1731659725149_932_858_139.jpg" group-title="china",新都综合频道
 http://pili-live-hls.job-live.magcloud.net/job-live/xdtv.m3u8?sign=16b7b78ca2900a9d9fa087af2340ed8d&t=6911a9e8
-#EXTINF:-1 tvg-id="仪陇综合频道.china" tvg-name="仪陇综合频道" tvg-logo="https://apppic.yilongnews.com/backend/20221007151158_1_Fmh1ilILsl1F0H6P95EpH8XPdT6T.png" group-title="china",仪陇综合频道
+#EXTINF:-1 tvg-id="仪陇综合频道.china" tvg-name="仪陇综合频道" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/%E4%BB%AA%E9%99%87%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" group-title="china",仪陇综合频道
 https://live.yilongnews.com/live/ylzhpd.m3u8
 #EXTINF:-1 tvg-id="罗江综合频道.china" tvg-name="罗江综合频道" tvg-logo="https://pic.qqans.com/up/2018-2/201829922398946.png!100_100" group-title="china",罗江综合频道
 https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
