@@ -27,3 +27,5 @@ https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 http://217.15.167.95:5080/live/streams/live_2.m3u8
 #EXTINF:-1 tvg-id="SastraFilm.kh" tvg-name="Sastra Film" tvg-logo="https://www.workingna.com/_next/image?url=https:%2F%2Fworkingna-files.s3.ap-southeast-1.amazonaws.com%2F1699679806304-blob&w=3840&q=75" group-title="kh",Sastra Film 
 http://43.252.18.195:5080/LiveApp/streams/sastrafilm.m3u8
+#EXTINF:-1 tvg-id="KhmerDub.kh" tvg-name="Khmer Dub" tvg-logo="http://file.vithyu.com/tv/new/1738917130.png" group-title="kh",Khmer Dub
+https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/AGG.tv360.metfone.com.kh.m3u8
