@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="望谟综合频道.china" tvg-name="望谟综合频道" tvg-logo="https://file.todcy.cn/visit/cms4/pro/167/2025/03/29/12c4fcb261c488998d683f75267376f0582f5ed55a7039bba8642b0a445af67f.jpg" group-title="china",望谟综合频道
+#EXTINF:-1 tvg-id="望谟综合频道.china" tvg-name="望谟综合频道" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/%E6%9C%9B%E8%B0%9F%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png.png" group-title="china",望谟综合频道
 http://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044a68632460c53cffb09.m3u8
 #EXTINF:-1 tvg-id="石阡综合频道.china" tvg-name="石阡综合频道" tvg-logo="https://file.todcy.cn/visit/cms4/pro/154/2024/09/18/4b0752b6dc407b5466ba646363ded87737c242e48aec13738ef7b1e4b7ed58f0.png" group-title="china",石阡综合频道
 http://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
