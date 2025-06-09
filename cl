@@ -11,3 +11,5 @@ https://tls-cl.cdnz.cl/canal21tv/live/playlist.m3u8
 https://pantera1-100gb-cl-movistar.dps.live/tvquellon/tvquellon.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal5PuertoMontt.cl" tvg-name="Canal 5 Puerto Montt" tvg-logo="https://canal5.cl/wp/wp-content/uploads/2025/06/canal5-1024x576.png" group-title="cl",Canal 5 Puerto Montt
 https://stmv5.voxtvhd.com.br/canal5/canal5/playlist.m3u8
+#EXTINF:-1 tvg-id="Canal74Antonio" tvg-name="Canal 74 Antonio" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Canal74Antonio.png" group-title="cl",Canal 74 Antonio
+https://eu1.servers10.com:8081/8050/index.m3u8
