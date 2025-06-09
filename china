@@ -11,7 +11,7 @@ https://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
 #EXTINF:-1 tvg-id="南溪电视台.china" tvg-name="南溪电视台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/ac4bd11373f082025aaf9e54d7a9ecedab64034fad04?x-bce-process=image/resize,m_lfit,h_700,limit_1/quality,Q_80" group-title="china",南溪电视台
 https://p2hs.vzan.com/slowlive/371673471833525863/live.m3u8
-#EXTINF:-1 tvg-id="乐至综合频道.china" tvg-name="乐至综合频道" tvg-logo="https://zyobs.zyrb.com.cn/frame2/2025/03/20/dfa81dcc-b9cc-3a07-2f96-6e2d501db179.png" group-title="china",乐至综合频道
+#EXTINF:-1 tvg-id="乐至综合频道.china" tvg-name="乐至综合频道" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/%E4%B9%90%E8%87%B3%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png" group-title="china",乐至综合频道
 http://175.155.106.72:89/live1/live1.m3u8
 #EXTINF:-1 tvg-id="新都综合频道.china"tvg-name="新都综合频道" tvg-logo="https://appimg.viewxd.cn/pic/20241115/qi_niu_1731659725149_932_858_139.jpg" group-title="china",新都综合频道
 http://pili-live-hls.job-live.magcloud.net/job-live/xdtv.m3u8?sign=16b7b78ca2900a9d9fa087af2340ed8d&t=6911a9e8
