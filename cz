@@ -31,3 +31,5 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 https://streamer05.low-latency.cz/oiktv/index.m3u8
 #EXTINF:-1 tvg-id="PlzenTV.cz" tvg-name="Plzen TV" tvg-logo="https://www.plzen.cz/wp-content/brands/plzentv-white.svg" group-title="cz",Plzen TV
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
+#EXTINF:-1 tvg-id="Polar1.cz" tvg-name="Polar 1" tvg-logo="https://polar.cz/img/web/logo.svg" group-title="cz",Polar 1
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
