@@ -33,5 +33,5 @@ https://streamer05.low-latency.cz/oiktv/index.m3u8
 https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
 #EXTINF:-1 tvg-id="Polar1.cz" tvg-name="Polar 1" tvg-logo="https://polar.cz/img/web/logo.svg" group-title="cz",Polar 1
 https://stream.polar.cz/polar/polarlive-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Polar2.cz" tvg-name="Polar 2" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="cz"Polar 2
+#EXTINF:-1 tvg-id="Polar2.cz" tvg-name="Polar 2" tvg-logo="https://i.imgur.com/hCPiMYZ.png" group-title="cz",Polar 2
 https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
