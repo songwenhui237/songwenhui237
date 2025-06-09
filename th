@@ -174,7 +174,7 @@ https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w84614
 https://cdn-live.dltv.ac.th/dltv02.m3u8
 #EXTINF:-1 tvg-id="VipaTV.th" tvg-name="Vipa TV" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="th",Vipa TV
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
-#EXTINF:-1 tvg-id="UMMTV.th" tvg-name="UMM TV" tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/103.png?1749203118" group-title="th",UMM TV
+#EXTINF:-1 tvg-id="UMMTV.th" tvg-name="UMM TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/UMMTV.png" group-title="th",UMM TV
 http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th" tvg-name="Dopa Channel" tvg-logo="http://202.129.206.26:8081/public/images/dopa_logo.jpg" group-title="th",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
