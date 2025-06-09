@@ -25,3 +25,5 @@ https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/eacnews.m3u8
 https://live-evg10.tv360.metfone.com.kh/LiveApp/streams/ntvhd.m3u8
 #EXTINF:-1 tvg-id="ABCCambodia.kh" tvg-name="ABC Cambodia" tvg-logo="https://play-lh.googleusercontent.com/IvenT2cJI-Zd2Rq4YCQilbBjk2byDlnwwPSTm72cKXHcd23y3y7JzYF6IzexmTz0KHA" group-title="kh",ABC Cambodia
 http://217.15.167.95:5080/live/streams/live_2.m3u8
+#EXTINF:-1 tvg-id="SastraFilm.kh" tvg-name="Sastra Film" tvg-logo="https://www.workingna.com/_next/image?url=https:%2F%2Fworkingna-files.s3.ap-southeast-1.amazonaws.com%2F1699679806304-blob&w=3840&q=75" group-title="kh",Sastra Film 
+http://43.252.18.195:5080/LiveApp/streams/sastrafilm.m3u8
