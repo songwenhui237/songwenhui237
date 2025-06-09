@@ -23,3 +23,5 @@ http://88.212.15.19/live/test_minimax/playlist.m3u8
 https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 #EXTINF:-1 tvg-id="Ocko.cz" tvg-name="Ocko" tvg-logo="https://1gr.cz/o/ocko/logo.jpg" group-title="cz",Ocko
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoEXpress.cz"tvg-name="Ocko Express" tvg-logo="https://www.itizaps.net/zapper/logo/b/ocko-expres.png" group-title="cz",Ocko Express
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
