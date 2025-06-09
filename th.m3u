@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="th",News 1 
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://thainews.prd.go.th/images/logo-sm.png" group-title="th",NBT
+#EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/NBT.png" group-title="th",NBT
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m3u8
