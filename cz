@@ -25,3 +25,5 @@ https://5ca49f2417d90.streamlock.net/mnau/livestream/playlist.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="OckoEXpress.cz"tvg-name="Ocko Express" tvg-logo="https://www.itizaps.net/zapper/logo/b/ocko-expres.png" group-title="cz",Ocko Express
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
+#EXTINF:-1 tvg-id="OckoGold.cz" tvg-name="Ocko Gold" tvg-logo="http://1gr.cz/fotky/bulvar/16/043/org/JVB62ee6f_ld_na_web_jak_nasnaladite_1375816278.jpg" group-title="cz",Ocko Gold
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
