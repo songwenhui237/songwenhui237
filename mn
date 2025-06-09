@@ -5,7 +5,7 @@ https://live.mnb.mn/hls/mnb.stream.m3u8
 https://live.mnb.mn/hls/mn2.stream.m3u8
 #EXTINF:-1 tvg-id="MNBSport.mn" tvg-name="MNB Sport" tvg-logo="https://www.mnb.mn/images/front/MNB_Sport.png" group-title="mn",MNB Sport
 https://live.mnb.mn/hls/mnb_sport.stream.m3u8
-#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" tvg-logo="https://www.mnb.mn/images/3.jpg" group-title="mn",MNB World
+#EXTINF:-1 tvg-id="MNBWorld.mn" tvg-name="MNB World" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/MNBWorld.png" group-title="mn",MNB World
 https://live.mnb.mn/hls/mnb_world.stream.m3u8
 #EXTINF:-1 tvg-id="MNBFamily.mn" tvg-name="MNB Family" tvg-logo="https://tvtolive.com/wp-content/uploads/MNB-1-tvtolive.com_.jpg" group-title="mn",MNB Family
 https://live.mnb.mn/hls/mnb_family.stream.m3u8
