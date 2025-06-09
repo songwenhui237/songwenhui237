@@ -39,3 +39,5 @@ https://stream.polar.cz/polar2/polarlive2-1/playlist.m3u8
 https://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1 tvg-id="RTM+.cz" tvg-name="RTM+" tvg-logo="https://www.rtmplus.cz/sablona/5/img/logo.png" group-title="cz",RTM+
 https://www.rtmplus.cz/mux_zaloha/live/1280_video.m3u8
+#EXTINF:-1 tvg-id="TVBrno1.cz" tvg-name="TV Brno1" tvg-logo="https://tvbrno1.cz/images/layout/header/logo.png" group-title="cz",TV Brno1
+https://stream.polar.cz/tvbrno1/tvbrno1live-1/playlist.m3u8
