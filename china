@@ -5,7 +5,7 @@ http://cmsrtmp.todcy.cn/live/167/64df598530b044a68632460c53cffb09/64df598530b044
 http://cmsrtmp.todcy.cn/live/154/c6cc918d93fc47b1ad882de4c80eb496/c6cc918d93fc47b1ad882de4c80eb496.m3u8
 #EXTINF:-1 tvg-id="七星关电视台.china" tvg-name="七星关电视台" tvg-logo="https://bkimg.cdn.bcebos.com/pic/48540923dd54564e9258338b1b8c8b82d158ccbfe17c?x-bce-process=image/resize,m_lfit,h_700,limit_1/quality,Q_80" group-title="china",七星关电视台
 https://p8.vzan.com/slowlive/147077707554082780/live.m3u8
-#EXTINF:-1 tvg-id="威远新闻综合.china" tvg-name="威远新闻综合" tvg-logo="https://wy-img.thecover.cn/03b95307-453c-43db-ab33-ccabd3e379d2.jpeg" group-title="china",威远新闻综合
+#EXTINF:-1 tvg-id="威远新闻综合.china" tvg-name="威远新闻综合" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/%E5%A8%81%E8%BF%9C%E7%BB%BC%E5%90%88%E9%A2%91%E9%81%93.png.jpeg" group-title="china",威远新闻综合
 https://wy-live-pull.thecover.cn/rmtlive/fmzb1710746907096.m3u8
 #EXTINF:-1 tvg-id="青川新闻综合.china" tvg-name="青川新闻综合" tvg-logo="https://qcfile.qcrmt.com/cms/2023-05-22/1764120/37145BA32B1F0D22D76AD943DFED5D4E.png" group-title="china",青川新闻综合
 http://qcfile.qcrmt.com:80/nmip-media/channellive/channel100933/playlist.m3u8
