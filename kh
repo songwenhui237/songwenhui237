@@ -44,3 +44,5 @@ https://live.ams.com.kh/app/stream/playlist.m3u8
 http://clive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
 #EXTINF:-1 tvg-id="PNN.kh" tvg-name="PNN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/People_Nation_Network.png/revision/latest/scale-to-width-down/125?cb=20170424225823" group-title="kh",PNN
 https://live-evg13.tv360.metfone.com.kh/live/pnn.m3u8?
+#EXTINF:-1 tvg-id="HangMeasMelody.kh" tvg-name="Hang Meas Melody" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/HangMeasMelody.png" group-title="kh",Hang Meas Melody
+http://clive.malisresidences.com:1935/hmmel/_definst_/smil:hmmel.smil/chunklist_w815944957_b1800000_sleng.m3u8
