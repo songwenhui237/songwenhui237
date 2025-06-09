@@ -29,3 +29,5 @@ https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8
 https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8
 #EXTINF:-1 tvg-id="OikTV.cz" tvg-name="Oik TV" tvg-logo="https://www.oiktv.cz/wp-content/uploads/2017/04/logo-header.png" group-title="cz",Oik TV
 https://streamer05.low-latency.cz/oiktv/index.m3u8
+#EXTINF:-1 tvg-id="PlzenTV.cz" tvg-name="Plzen TV" tvg-logo="https://www.plzen.cz/wp-content/brands/plzentv-white.svg" group-title="cz",Plzen TV
+https://vysilani.zaktv.cz/broadcast/hls/ptv/index.m3u8
