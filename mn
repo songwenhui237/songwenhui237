@@ -17,7 +17,7 @@ https://cdn2.skygo.mn/live/disk1/TV8HD/HLS-FTA/TV8HD.m3u8
 https://cdn2.skygo.mn/live/disk1/MN25/HLS-FTA/MN25.m3u8
 #EXTINF:-1 tvg-id="UBSHD.mn" tvg-name="UBS HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/UBS_Logo_2022.jpg" group-title="mn",UBS HD
 https://cdn3.skygo.mn/live/disk1/UBSHD/HLS-FTA/UBSHD.m3u8
-#EXTINF:-1 tvg-id="EduTV.mn" tvg-name="Edu TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/EDU2021.png" group-title="mn",Edu TV
+#EXTINF:-1 tvg-id="EduTV.mn" tvg-name="Edu TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/EduTV.png" group-title="mn",Edu TV
 https://cdn3.skygo.mn/live/disk1/Education/HLS-FTA/Education.m3u8
 #EXTINF:-1 tvg-id="SBN.mn" tvg-name="SBN" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/SBN_Mongolia.svg" group-title="mn",SBN
 https://cdn2.skygo.mn/live/disk1/SBN/HLS-FTA/SBN.m3u8
