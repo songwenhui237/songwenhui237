@@ -53,3 +53,5 @@ https://stream-18.mazana.tv/kuryrtv.m3u8s
 https://stream-13.mazana.tv/slagroriginal.m3u8s
 #EXTINF:-1 tvg-id="SlagrMuzika.cz" tvg-name="Slagr Muzika" tvg-logo="https://www.slagrtv.cz/img/slagr-muzika-2-logo.png" group-title="cz",Slagr Muzika
 https://stream-23.mazana.tv/slagrmuzika.m3u8s
+#EXTINF:-1 tvg-id="SlagrPremium.cz" tvg-name="Slagr Premium" tvg-logo="https://www.slagrtv.cz/img/premium-3-logo.png" group-title="cz",Slagr Premium
+https://stream-17.mazana.tv/slagrpremium.m3u8s
