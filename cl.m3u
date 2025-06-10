@@ -17,3 +17,5 @@ https://eu1.servers10.com:8081/8050/index.m3u8
 https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="CDTV.cl" tvg-name="CDTV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/CDTV.png" group-title="cl",CDTV
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
+#EXTINF:-1 tvg-id="UATV.cl" tvg-name="UATV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Universidad-Autonoma-de-Chile-Television-en-vivo-Online.png" group-title="cl",UATV
+https://redirector.dps.live/hls/uatv/playlist.m3u8
