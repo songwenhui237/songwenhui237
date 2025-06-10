@@ -1,7 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WATCTV57.us" tvg-name="WATC TV 57" tvg-logo="https://watc.tv/wp-content/uploads/2023/10/cropped-57-new-logo-wht-bg-blk-text--1536x511.png" group-title="us",WATC TV 57
+#EXTINF:-1 tvg-id="WATCTV57.us" tvg-name="WATC TV 57" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/WATCTV_57.png" group-title="us",WATC TV 57
 https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
 #EXTINF:-1 tvg-id="GreaterloveNetwork.us" tvg-name="Greaterlove Network" tvg-logo="https://greaterlove.tv/wp-content/uploads/2024/11/GLTV-Logo-10-1536x369.png" group-title="us",Greaterlove Network
 https://rpn.bozztv.com/dvrfl03/itv04060/index.m3u8
 #EXTINF:-1 tvg-id="ChannelSTV.us" tvg-name="Channel S TV" tvg-logo="https://www.chsuk.tv/img/cateringcircle.png" group-title="us",Channel S TV
 https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8
+#EXTINF:-1 tvg-id="Al-MahdiTV.us" tvg-name="Al-Mahdi TV" tvg-logo="https://almahditv.com/wp-content/uploads/2022/08/logo.webp" group-title="us",Al-Mahdi TV 
+https://iptv.almahditv.com/almahditv/playlist.m3u8

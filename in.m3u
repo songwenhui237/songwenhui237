@@ -5,3 +5,5 @@ http://live.sanonda.tv/sanonda/index.m3u8
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" tvg-logo="https://www.guaranteenews.com/wp-content/uploads/2025/01/LOGO-WITH-TAG-LINE-k.jpg" group-title="in",Guarantee News
 https://guaranteenews.in:8443/live/gnews/index.m3u8
+#EXTINF:-1 tvg-id="PitaaraTV.in" tvg-name="Pitaara TV" tvg-logo="https://pitaara.tv/wp-content/uploads/2022/04/Pitaara-Logo-Bug-Bioscope-1.gif" group-title="in",Pitaara TV
+https://vg-pitaaratvlive.akamaized.net/ptnr-website/title-PitaaraTV/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-583798/playlist.m3u8

@@ -5,9 +5,9 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" tvg-logo="http://japan.cgntv.net/upload/happy_config/m_main_logo.png" group-title="jp",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/NHK_General_TV_2024.svg" group-title="jp",NHK G
+#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/NHK_G.png" group-title="jp",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
-#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="https://www.shopch.jp/com/images/common/head_logo.gif" group-title="jp",Shop Channel
+#EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Shop_Channel.png" group-title="jp",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
 #EXTINF:-1 tvg-id="NippinTV.jp" tvg-name="Nippon TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Ntv-0tele-logo.svg" group-title="jp",Nippon TV
 https://ntv4.mov3.co/hls/ntv.m3u8
@@ -15,3 +15,5 @@ https://ntv4.mov3.co/hls/ntv.m3u8
 https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59d
 #EXTINF:-1 tvg-id="TVTokyo.jp" tvg-name="TV Tokyo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TVTokyo_2024logo_ja-shortVersion.svg" group-title="jp",TV Tokyo
 http://vthanh.utako.moe/TV_Tokyo/index.m3u8
+#EXTINF:-1 tvg-id="Animax.jp" tvg-name="Animax" tvg-logo="https://www.animax.co.jp/assets/img/common/logo.png" group-title="jp",Animax
+http://vthanh.utako.moe/Animax/index.m3u8
