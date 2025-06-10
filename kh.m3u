@@ -27,7 +27,7 @@ http://217.15.167.95:5080/live/streams/live_2.m3u8
 http://43.252.18.195:5080/LiveApp/streams/sastrafilm.m3u8
 #EXTINF:-1 tvg-id="KhmerDub.kh" tvg-name="Khmer Dub" tvg-logo="http://file.vithyu.com/tv/new/1738917130.png" group-title="kh",Khmer Dub
 https://live-evg17.tv360.metfone.com.kh/LiveApp/streams/AGG.tv360.metfone.com.kh.m3u8
-#EXTINF:-1 tvg-id="E-learning.kh" tvg-name="E-learning" tvg-logo="http://file.vithyu.com/tv/new/1735041784.png" group-title="kh",E-learning
+#EXTINF:-1 tvg-id="E-learning.kh" tvg-name="E-learning" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/E-learning.png" group-title="kh",E-learning
 http://43.252.18.195:5080/live/streams/E-Learning.m3u8
 #EXTINF:-1 tvg-id="CATV.kh" tvg-name="CATV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/CATV.png" group-title="kh",CATV
 http://live.happywatch99.com:80/livehd2/486b48ad9aefcc41bf2e5234d0269c40.sdp/chunks.m3u8
