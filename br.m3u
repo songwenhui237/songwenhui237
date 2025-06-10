@@ -7,7 +7,7 @@ https://tv02.zas.media:1936/redesuper/redesuper/playlist.m3u8
 https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 tvg-id="TendaTV.br" tvg-name="Tenda TV" tvg-logo="https://www.tendatvsp.com.br/wp-content/uploads/sites/59/2023/11/logotipo.png" group-title="br",Tenda TV
 https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8
-#EXTINF:-1 tvg-id="Aparecida.br" tvg-name="Aparecida" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/7aa4d69d868651e45190d52845387434.webp" group-title="br",Aparecida
+#EXTINF:-1 tvg-id="Aparecida.br" tvg-name="Aparecida" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Aparecida.png" group-title="br",Aparecida
 https://cdn.live.br1.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 #EXTINF:-1 tvg-id="TVGuarapari.br" tvg-name="TV Guarapari" tvg-logo="https://tvguarapari.com/wp-content/uploads/2024/08/logoguara.png" group-title="br",TV Guarapari
 https://ikki.hubcloud.tv.br/TVGuarapari/index.m3u8
