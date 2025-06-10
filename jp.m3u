@@ -5,7 +5,7 @@ https://master.nhkworld.jp/nhkworld-tv/playlist/live.m3u8
 https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
 #EXTINF:-1 tvg-id="CGNTVJapan.jp" tvg-name="CGNTV Japan" tvg-logo="http://japan.cgntv.net/upload/happy_config/m_main_logo.png" group-title="jp",CGNTV Japan
 https://d2p4mrcwl6ly4.cloudfront.net/out/v1/8d50f69fdbbf411a8d302743e4263716/CGNWebLiveJP.m3u8
-#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/57/NHK_General_TV_2024.svg" group-title="jp",NHK G
+#EXTINF:-1 tvg-id="NHKG.jp" tvg-name="NHK G" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/NHK_G.png" group-title="jp",NHK G
 https://nhk4.mov3.co/hls/nhk.m3u8
 #EXTINF:-1 tvg-id="ShopChannel.jp" tvg-name="Shop Channel" tvg-logo="https://www.shopch.jp/com/images/common/head_logo.gif" group-title="jp",Shop Channel
 https://stream3.shopch.jp/HLS/master.m3u8
