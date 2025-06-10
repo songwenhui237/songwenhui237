@@ -1,3 +1,3 @@
 #EXTM3U8
-#EXTINF:-1 tvg-id="NhungChannel.th" tvg-name="Nhuang Channel" group-title="Movie",Nhung Channel
+#EXTINF:-1 tvg-id="NhungChannel.th" tvg-name="Nhuang Channel" tvg-logo"https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/NhungChannel.png" group-title="Movie",Nhung Channel
 http://psilive4.sky-cdn.com:1935/psi-74/psi-74.stream/playlist.m3u8?doostreamstarttime=1749512617&doostreamendtime=1749516217&doostreamCustomParameter=psifixit&doostreamhash=31HmeVQkqEdRkR9bAOQwcuAputnNpNO0WHXFUtzJtoE=
