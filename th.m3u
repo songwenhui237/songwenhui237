@@ -1,8 +1,8 @@
 #EXTM3U
-# EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo="https://News1live.com/images/News1-logo.png" group-title="th"，News 1
+#EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo="https://News1live.com/images/News1-logo.png" group-title="th"，News 1
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 http://news1.live14.com/stream/news1.m3u8
-# EXTINF:-1 tvg-id="NBT.th" tvg-name =" NBT " tvg-logo="https://raw . githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/NBT.png" group-title="th",NBT
+#EXTINF:-1 tvg-id="NBT.th" tvg-name =" NBT " tvg-logo="https://raw . githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/NBT.png" group-title="th",NBT
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m3u8
@@ -10,17 +10,17 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m
 https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
-# EXTINF:-1 tvg-id="ALTV4.th" tvg-name="ALTV4" tvg-logo="https://www.altv.TV/images/assets/logo/altv4-logo.png" group-title="th"，ALTV4
+#EXTINF:-1 tvg-id="ALTV4.th" tvg-name="ALTV4" tvg-logo="https://www.altv.TV/images/assets/logo/altv4-logo.png" group-title="th"，ALTV4
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-# EXTINF:-1 tvg-id ="TV5HD.th" tvg-name="TV5 HD" tvg-logo="http://img4.wikia.nocookie.net/_ _ CB 20150716011927/logopedia/images/9/97/TV5logo.png" group-title="th"，TV5 HD
+#EXTINF:-1 tvg-id ="TV5HD.th" tvg-name="TV5 HD" tvg-logo="http://img4.wikia.nocookie.net/_ _ CB 20150716011927/logopedia/images/9/97/TV5logo.png" group-title="th"，TV5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
-# EXTINF:-1 tvg-id="Boom.th" tvg-name="Boom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/boomthailand2025.png" group-title="th",Boom
+#EXTINF:-1 tvg-id="Boom.th" tvg-name="Boom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/boomthailand2025.png" group-title="th",Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-# ext INF:-1 tvg-id = " TSports7 . th " tvg-name = " ts ports 7 " tvg-logo = " https://static . wikia . nocookie . net/logopedia/images/c/ce/T _ Sports _ 7 _ logo . png " group-title = " th "，ts ports 7
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_logo.png" group-title="th",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 # ext INF:-1 tvg-id = " Channel8 . th " tvg-name = " Channel 8 " tvg-logo = " http://Channel 8 Thailand . com/ch8-ci 415-web/public/templates/ch8/img/18378709 _ 1492777084098686 _ 554998105 _ o . png " group-title = " th "，Channel 8
