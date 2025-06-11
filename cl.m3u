@@ -47,3 +47,5 @@ https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
 https://paneltv.online:1936/huasco/huasco/playlist.m3u8
 #EXTINF:-1 tvg-id="TVOSanVicente.cl" tvg-name="TVO San Vicente" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/10/TVO-San-Vicente-en-vivo-Online.png" group-title="cl",TVO San Vicente
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
+#EXTINF:-1 tvg-id="EvaVisionTV.cl" tvg-name="Eva Vision TV" tvg-logo="https://evavision.consorcioeva.cl/wp-content/uploads/2020/03/LogoEvavision.png" group-title="cl",Eva Vision TV
+https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8
