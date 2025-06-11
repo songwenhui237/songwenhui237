@@ -168,11 +168,11 @@ https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_
 https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootbalHD2.th" tvg-name="True Premier Football HD 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/True_Premier_Football_2.png/revision/latest/scale-to-width-down/320?cb=20240416002741&path-prefix=vi" group-title="th",True Premier Football HD 2
 https://219.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-# ext INF:-1 tvg-id = " DLTV1 . th " tvg-name = " dltv 1 " tvg-logo = " https://dltv . AC . th/upload/data/channels/01 _ channel _ logo . png " group-title = " th "，dltv 1
+#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV 1" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png" group-title="th",DLTV 1
 https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w846148712_b3128000_slth.m3u8
-# ext INF:-1 tvg-id = " DLTV2 . th " tvg-name = " dltv 2 " tvg-logo = " https://dltv . AC . th/upload/data/channels/02 _ channel _ logo . png " group-title = " th "，dltv 2
+#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV 2 " tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png" group-title="th",dltv 2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-# ext INF:-1 tvg-id = " VIPATV . th " tvg-name = " VipaTV " tvg-logo = " https://d 198 SF 0 nbhx 18 q . cloudfront . net/web/images/logo/logo . png " group-title = " th "，Vipa TV
+#EXTINF:-1 tvg-id="VipaTV.th" tvg-name="Vipa TV" tvg-logo="https://d198SF0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="th",Vipa TV
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
 # ext INF:-1 tvg-id = " ummtv . th " tvg-name = " UMM电视台" tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/ummtv . png " group-title = " th "，UMM电视台
 http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
