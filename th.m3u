@@ -103,7 +103,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/ffab/pptv/pptv.m3u8
 http://www5.cabletv.co.th/StreamToCTV/cablechannel/playlist.m3u8
 #EXTINF:-1 tvg-id="Thaichaiyo.th" tvg-name="Thaichaiyo" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/cf/Thaichaiyo_2012.png" group-title="th",Thaichaoyo
 https://live.thaichaiyo.tv/tcy/live-transmux.m3u8
-#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/Cool-Channel.png" group-title="th", Cool Channel
+#EXTINF:-1 tvg-id="CoolChannel.th" tvg-name="Cool Channel" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/Cool-Channel.png" group-title="th",Cool Channel
 https://live.cool-channel.com/cool/live-transmux.m3u8
 #EXTINF:-1 tvg-id="ThaiNews.th" tvg-name="Thai News" tvg-logo="https://thaitvstream.com/streaming/thainews/thainews.png" group-title="th",Thai News
 https://live.thaitvstream.com/play/thainews/index.m3u8
@@ -142,7 +142,7 @@ https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
 #EXTINF:-1 tvg-id="Yateemtv.th" tvg-name="Yateem TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/YateemTV.png" group-title="th",Yateem TV
 https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NewTM" tvg-name="New TM" tvg-logo="http://newtm.tv/assets/img/Picture%201.png" group-title="th",New TM
+#EXTINF:-1 tvg-id="NewTM.th" tvg-name="New TM" tvg-logo="http://newtm.tv/assets/img/Picture%201.png" group-title="th",New TM
 https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
 #EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="http://www.r-channel.net/assets/dist/img/vec-logo.png" group-title="th,R Channel
 http://180.180.243.239/streams/3/hls
@@ -178,7 +178,7 @@ https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-south
 http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th" tvg-name="Dopa Channel" tvg-logo="http://202.129.206.26:8081/public/images/dopa_logo.jpg" group-title="th",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-id="LuangPoTaddqiwo.th" tvg-name="Luang Po Taddqiwo" tvg-logo="https://www.dattajeewo.com/logo.jpg" group-title="th", Luang Po Taddqiwo
+#EXTINF:-1 tvg-id="LuangPoTaddqiwo.th" tvg-name="Luang Po Taddqiwo" tvg-logo="https://www.dattajeewo.com/logo.jpg" group-title="th",Luang Po Taddqiwo
 https://live.zoom072.com/ch6/ch6.m3u8
 #EXTINF:-1 tvg-id="MVMallDD.th" tvg-name="MVMall DD" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/MVMallDD.png" group-title="th",MVMall DD
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
