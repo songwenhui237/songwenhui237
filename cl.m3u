@@ -49,3 +49,5 @@ https://paneltv.online:1936/huasco/huasco/playlist.m3u8
 https://5ff3d9babae13.streamlock.net/8014/8014/playlist.m3u8
 #EXTINF:-1 tvg-id="EvaVisionTV.cl" tvg-name="Eva Vision TV" tvg-logo="https://evavision.consorcioeva.cl/wp-content/uploads/2020/03/LogoEvavision.png" group-title="cl",Eva Vision TV
 https://stmv4.voxtvhd.com.br/evavision/evavision/playlist.m3u8
+#EXTINF:-1 tvg-id="HitoCeroTV.cl" tvg-name="Hito Cero TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/HitoCero.png" group-title="cl",Hito Cero TV
+https://5e3483cba9114.streamlock.net/kbwqdhjxtz/kbwqdhjxtz/playlist.m3u8
