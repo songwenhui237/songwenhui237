@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SanandaTV.in" tvg-name="Sananda TV" tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/48/Sananda_TV_logo_(2011).png/revision/latest?cb=20210428083412" group-title="in",Sananda TV 
 http://live.sanonda.tv/sanonda/index.m3u8
-#EXTINF:-1 tvg-id="ZillarbartaTV.in" tvg-name="Zillarbarta TV" tvg-logo="https://www.zillarbarta.com/barta2019/upload/65182_270937255_675947843566961_348635942835701035_n.jpg" group-title="in",Zillarbarta TV
+#EXTINF:-1 tvg-id="ZillarbartaTV.in" tvg-name="Zillarbarta TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Zillar_Barta.png" group-title="in",Zillarbarta TV
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1 tvg-id="GuaranteeNews.in" tvg-name="Guarantee News" tvg-logo="https://www.guaranteenews.com/wp-content/uploads/2025/01/LOGO-WITH-TAG-LINE-k.jpg" group-title="in",Guarantee News
 https://guaranteenews.in:8443/live/gnews/index.m3u8
