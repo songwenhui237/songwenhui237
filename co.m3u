@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ZoomCanal.co" tvg-name="Zoom Canal" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="co",Zoom Canal
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
