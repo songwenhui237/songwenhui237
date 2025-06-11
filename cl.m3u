@@ -33,3 +33,5 @@ https://v2.tustreaming.cl/atacamanoticias/index.m3u8
 https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 #EXTINF:-1 tvg-id="AricaTV.cl" tvg-name="Arica TV" tvg-logo="https://arica.tv/wp-content/uploads/2020/02/aricatv-color_Mesa-de-trabajo-1-1-1200x1200.png" group-title="cl",Arica TV
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
+#EXTINF:-1 tvg-id="MTNATV.cl" tvg-name="MTNATV" tvg-logo="https://www.mtna.tv/img/logo.png" group-title="cl",MTNATV
+https://live.mtna.tv/hls/mtna/mtna.m3u8
