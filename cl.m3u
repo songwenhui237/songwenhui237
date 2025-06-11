@@ -57,3 +57,5 @@ https://v1.tustreaming.cl/tv5linares/index.m3u8
 https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8
 #EXTINF:-1 tvg-id="ITVPatagonia.cl" tvg-name="ITV Patagonia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/ITV_Patagonia.png" group-title="cl",ITV Patagonia
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" tvg-logo="https://www.nativatv.cl/home/wp-content/uploads/2019/08/Color.png" group-title="cl",Nativa TV
+https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
