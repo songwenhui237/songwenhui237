@@ -180,7 +180,7 @@ http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
 http://dopachannel.truegse.com/live/dopatv03.m3u8
 #EXTINF:-1 tvg-id="LuangPoTaddqiwo.th" tvg-name="Luang Po Taddqiwo" tvg-logo="https://www.dattajeewo.com/logo.jpg" group-title="th", Luang Po Taddqiwo
 https://live.zoom072.com/ch6/ch6.m3u8
-#EXTINF:-1 tvg-id="MVMallDD.th" tvg-name="MVMall DD" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZ♠5byXDchKdr9P12QfF.jpg" group-title="th",MVMall DD
+#EXTINF:-1 tvg-id="MVMallDD.th" tvg-name="MVMall DD" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/MVMallDD.png" group-title="th",MVMall DD
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1 tvg-id="AnurakTV.th" tvg-name="Anurak TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/Anurak_TV.png" group-title="th",Anurak TV
 https://vdo.plathong.net/anuraktv/anuraktv/playlist.m3u8
