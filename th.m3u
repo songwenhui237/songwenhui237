@@ -1,33 +1,33 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="News1.th" tvg-name="News 1" tvg-logo="https://news1live.com/images/news1-logo.png" group-title="th",News 1 
+# ext INF:-1 tvg-id = " News1 . th " tvg-name = " News 1 " tvg-logo = " https://News 1 live . com/images/News 1-logo . png " group-title = " th "，News 1
 https://live-us1.thaimomo.com/live-as/chnews1-2/playlist.m3u8
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-id="NBT.th" tvg-name="NBT" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/NBT.png" group-title="th",NBT
+# ext INF:-1 tvg-id = " NBT . th " tvg-name = " NBT " tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/NBT . png " group-title = " th "，NBT
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m3u8
-#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest/scale-to-width-down/200?cb=20240505231211" group-title="th",Thai PBS
+# ext INF:-1 tvg-id = " Thai PBS . th " tvg-name = " Thai PBS " tvg-logo = " https://static . wikia . nocookie . net/logopedia/images/5/5a/Thai _ PBS _ 2011 . SVG/revision/latest/scale-to-width-down/200？CB = 20240505231211 " group-title = " th "，泰国公共广播公司
 https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ALTV4.th" tvg-name="ALTV 4" tvg-logo="https://www.altv.tv/images/assets/logo/altv4-logo.png" group-title="th",ALTV 4
+# ext INF:-1 tvg-id = " alt v4 . th " tvg-name = " ALTV4 " tvg-logo = " https://www . altv . TV/images/assets/logo/alt v4-logo . png " group-title = " th "，ALTV 4
 https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
 https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-name="TV5 HD" tvg-logo="http://img4.wikia.nocookie.net/__cb20150716011927/logopedia/images/9/97/TV5logo.png" group-title="th",TV5 HD
+# ext INF:-1 tvg-id = " TV5HD . th " tvg-name = " TV5 HD " tvg-logo = " http://img 4 . wikia . nocookie . net/_ _ CB 20150716011927/logopedia/images/9/97/TV5 logo . png " group-title = " th "，TV5 HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Boom.th" tvg-name="Boom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/BoomThailand2025.png" group-title="th",Boom
+# ext INF:-1 tvg-id = " Boom . th " tvg-name = " Boom " tvg-logo = " https://static . wikia . nocookie . net/logopedia/images/a/af/boomthailand 2025 . png " group-title = " th "，Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="TSports7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png" group-title="th",TSports7
+# ext INF:-1 tvg-id = " TSports7 . th " tvg-name = " ts ports 7 " tvg-logo = " https://static . wikia . nocookie . net/logopedia/images/c/ce/T _ Sports _ 7 _ logo . png " group-title = " th "，ts ports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title="th",Channel 8
+# ext INF:-1 tvg-id = " Channel8 . th " tvg-name = " Channel 8 " tvg-logo = " http://Channel 8 Thailand . com/ch8-ci 415-web/public/templates/ch8/img/18378709 _ 1492777084098686 _ 554998105 _ o . png " group-title = " th "，Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="ATTV.th" tvg-name="ATTV" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_61.png" group-title="th",ATTV
+# ext INF:-1 tvg-id = " attv . th " tvg-name = " ATTV " tvg-logo = " https://static . thaicom . io/image _ channel/images _ img _ Chn _ big _ Chn _ 61 . png " group-title = " th "，ATTV
 http://161.82.243.133:8089/HDAttv/video.m3u8
-#EXTINF:-1 tvg-id="TPTV.th" tvg-name="TPTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="th",TPTV
+# ext INF:-1 tvg-id = " TPTV . th " tvg-name = " TPTV " tvg-logo = " https://static . wikia . nocookie . net/logopedia/images/0/0b/TPTV _ 2014 . png " group-title = " th "，TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
 #EXTINF:-1 tvg-id="EsanTV.th" tvg-name="Esan TV" tvg-logo="https://media-mvtv.imgix.net/channel/108_y_1ag4BfHbDWT63hVJMuCwGKjIXdYnNv0q.png" group-title="th",Esan TV
 https://psiiptv-b.sky-cdn.com/ttd20-playlist/index.m3u8
@@ -132,29 +132,29 @@ http://161.82.243.133:8089/HDDragon/video.m3u8?token=qp_moaKmgt0xl1
 https://cdn-th-vip.livestreaming.in.th/policetv/policetv/playlist.m3u8
 #EXTINF:-1 tvg-id="MediaTV.th" tvg-name="Media TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/MediaTV.png" group-title="th",Media TV
 http://49.0.87.24:1936/HDMediatv/Mediatv/playlist.m3u8
-#EXTINF:-1 tvg-id="SBTTV.th" tvg-name="SBT TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SBTTV.png" group-title="th",SBT TV
+# ext INF:-1 tvg-id = " SBT TV . th " tvg-name = " SBT电视台" tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/logo/SBT TV . png " group-title = " th "，SBT电视台
 http://122.155.12.107:1935/live/sbt_tv_aac_300/playlist.m3u8
-#EXTINF:-1 tvg-id="SBBTV.th" tvg-name="SBB TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/SBBTV.png" group-title="th",SBB TV
+# ext INF:-1 tvg-id = " sb BTV . th " tvg-name = " SBB电视台" tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/sb BTV . png " group-title = " th "，SBB电视台
 https://cdn-th-vip2.livestreaming.in.th/watsanghathan/watsanghathan/playlist.m3u8
-#EXTINF:-1 tvg-id="WhiteChannel.th" tvg-name="White Channel" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/WhiteChannel.png" group-title="th",White Channel
+# ext INF:-1 tvg-id = " White Channel . th " tvg-name = " White Channel " tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/White Channel . png " group-title = " th "，白色通道
 https://symc-cdn.violin.co.th/tndedge/whitechannel/playlist.m3u8
-#EXTINF:-1 tvg-id="ZabbTV.th" tvg-name="Zabb TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/ZabbTV.png" group-title="th",Zabb TV
+# ext INF:-1 tvg-id = " zabbtv . th " tvg-name = " ZabbTV " tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/zabbtv . png " group-title = " th "，Zabb TV
 https://vdo.plathong.net/flash7057/flash7057/playlist.m3u8
-#EXTINF:-1 tvg-id="YateemTV.th" tvg-name="Yateem TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/YateemTV.png" group-title="th",Yateem TV
+# ext INF:-1 tvg-id = " yateemtv . th " tvg-name = " YateemTV " tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/yateemtv . png " group-title = " th "，Yateem TV
 https://vdo.plathong.net/muslimonair1/live/playlist.m3u8
-#EXTINF:-1 tvg-id="NewTM" tvg-name="New TM" tvg-logo="http://www.newtm.tv/assets/img/Logo%20TMTV.png" group-title="th",New TM
+# ext INF:-1 tvg-id = " NewTM " tvg-name = " New TM " tvg-Logo = " http://www . New TM . TV/assets/img/Logo % 20 tmtv . png " group-title = " th "，New TM
 https://vdo.plathong.net/flash7253/flash7253/playlist.m3u8
-#EXTINF:-1 tvg-id="RChannel.th" tvg-name="R Channel" tvg-logo="http://www.r-channel.net/assets/dist/img/vec-logo.png" group-title="th",R Channel
+# ext INF:-1 tvg-id = " RChannel . th " tvg-name = " R Channel " tvg-logo = " http://www . R-Channel . net/assets/dist/img/vec-logo . png " group-title = " th "，R Channel
 http://180.180.243.239/streams/3/hls
-#EXTINF:-1 tvg-id="RamaChannel.th" tvg-name="Rama Channel" tvg-logo="https://www.rama.mahidol.ac.th/ramachannel/wp-content/uploads/2023/03/logo-rama-topA.png" group-title="th",Rama Channel
+# ext INF:-1 tvg-id = " RamaChannel . th " tvg-name = " Rama Channel " tvg-logo = " https://www . Rama . mahidol . AC . th/Rama Channel/WP-content/uploads/2023/03/logo-Rama-topa . png " group-title = " th "，Rama Channel
 https://ramach.ddns.net/live/ramalive/index.m3u8
 #EXTINF:-1 tvg-id="Suwannabhumi.th" tvg-name="Suwannabhumi" tvg-logo="https://tvtolive.com/wp-content/uploads/Suwannabhumi-TV-tvtolive.com_.jpg" group-title="th",Suwannabhumi
 https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 #EXTINF:-1 tvg-id="MVGoSport.th" tvg-name="MV Go Sport" tvg-logo="https://media-mvtv.imgix.net/channel/110_y_GHkXZ0x2BSTv8Kh9cJnmsiwoEyRYUfOd.png" group-title="th",MV Go Sport
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
-#EXTINF:-1 tvg-id="NBT11South.th" tvg-name="NBT 11 South" tvg-logo="https://nbtsuratthani.prd.go.th/cms/s297/u884/Layer_1_copy.png" group-title="th",NBT 11 South
+#EXTINF:-1 tvg-id="NBT11South.th" tvg-name="NBT 11 South" tvg-logo="https://nbtsuratthani.prd.go.th/cms/s297/u884/Layer_1_copy.png" group-title="th", NBT 11 South
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 tvg-id="NBTCentral.th" tvg-name="NBT Central" tvg-logo="https://www.nbtcentral.com/static/nbtlogpsm.png" group-title="th",NBT Central
+#EXTINF:-1 tvg-id="NBTCentral.th" tvg-name="NBT Central" tvg-logo="https://www.nbtcentral.com/static/nbtlogpsm.png" group-title="th", NBT Central
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w2115520531_b3128000.m3u8
 #EXTINF:-1 tvg-id="KasetChumchon.th" tvg-name="Kaset Chumchon" tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/3b3462bc3e8d1b63419986a9308e185b.png?1749203118" group-title="th",Kaset Chumchon
 http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
@@ -162,25 +162,25 @@ http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
 http://103.120.113.107:80/Saradee/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-id="ThaiBaan83.th" tvg-name="Thai Baan 83" tvg-logo="https://media-mvtv.imgix.net/channel/35_y_V2hcyg7xD4BpCIPSJT0un8zWYL6bAqfi.png" group-title="th",Thai Baan 83
 https://lb1-live-mv.v2h-cdn.com/hls/ffcd/thaibaan/thaibaan.m3u8
-#EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg/revision/latest/scale-to-width-down/250?cb=20250101095350" group-title="th",NBT World
+#EXTINF:-1 tvg-id="NBTWorld.th" tvg-name="NBT World" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/41/NBTWorld2025.svg/revision/latest/scale-to-width-down/250?cb=20250101095350" group-title="th", NBT World
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:2609-b4a6-64b3-1431-5e64/chunklist_w507269531_b2128000.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootballHD1.th" tvg-name="True Premier Football HD 1" tvg-logo="https://static.wikia.nocookie.net/logos/images/b/b1/True_Premier_Football_HD1.png/revision/latest/scale-to-width-down/1609?cb=20240416003052&path-prefix=vi" group-title="th",True Premier Football HD 1
 https://219.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-id="TruePremierFootbalHD2.th" tvg-name="True Premier Football HD 2" tvg-logo="https://static.wikia.nocookie.net/logos/images/d/db/True_Premier_Football_2.png/revision/latest/scale-to-width-down/320?cb=20240416002741&path-prefix=vi" group-title="th",True Premier Football HD 2
 https://219.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://dltv.ac.th/upload/data/channels/01_channel_logo.png" group-title="th",DLTV1
+# ext INF:-1 tvg-id = " DLTV1 . th " tvg-name = " dltv 1 " tvg-logo = " https://dltv . AC . th/upload/data/channels/01 _ channel _ logo . png " group-title = " th "，dltv 1
 https://cdn-live.dltv.ac.th/smil:origin01-dltv-01-adaptive.smil/chunklist_w846148712_b3128000_slth.m3u8
-#EXTINF:-1 tvg-id="DLTV2.th" tvg-name="DLTV2" tvg-logo="https://dltv.ac.th/upload/data/channels/02_channel_logo.png" group-title="th",DLTV2
+# ext INF:-1 tvg-id = " DLTV2 . th " tvg-name = " dltv 2 " tvg-logo = " https://dltv . AC . th/upload/data/channels/02 _ channel _ logo . png " group-title = " th "，dltv 2
 https://cdn-live.dltv.ac.th/dltv02.m3u8
-#EXTINF:-1 tvg-id="VipaTV.th" tvg-name="Vipa TV" tvg-logo="https://d198sf0nbhx18q.cloudfront.net/web/images/logo/logo.png" group-title="th",Vipa TV
+# ext INF:-1 tvg-id = " VIP ATV . th " tvg-name = " VipaTV " tvg-logo = " https://d 198 SF 0 nbhx 18 q . cloudfront . net/web/images/logo/logo . png " group-title = " th "，Vipa TV
 https://thaipbs-ophctt.cdn.byteark.com/0db95d655989436dbd571dcb8f70d98f/ap-southeast-1/6075037809001/playlist.m3u8
-#EXTINF:-1 tvg-id="UMMTV.th" tvg-name="UMM TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/UMMTV.png" group-title="th",UMM TV
+# ext INF:-1 tvg-id = " ummtv . th " tvg-name = " UMM电视台" tvg-logo = " https://raw . githubusercontent . com/song wenhui 237/song wenhui 237/refs/heads/main/ummtv . png " group-title = " th "，UMM电视台
 http://psilive1.sky-cdn.com:1935/psi-62/psi-62.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="DopaChannel.th" tvg-name="Dopa Channel" tvg-logo="http://202.129.206.26:8081/public/images/dopa_logo.jpg" group-title="th",Dopa Channel
 http://dopachannel.truegse.com/live/dopatv03.m3u8
-#EXTINF:-1 tvg-id="LuangPoTaddqiwo.th" tvg-name="Luang Po Taddqiwo" tvg-logo="https://www.dattajeewo.com/logo.jpg" group-title="th",Luang Po Taddqiwo 
+#EXTINF:-1 tvg-id="LuangPoTaddqiwo.th" tvg-name="Luang Po Taddqiwo" tvg-logo="https://www.dattajeewo.com/logo.jpg" group-title="th", Luang Po Taddqiwo
 https://live.zoom072.com/ch6/ch6.m3u8
-#EXTINF:-1 tvg-id="MVMallDD.th" tvg-nane="MVMall DD" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZovn5byXDchKdr9P12QfF.jpg" group-title="th",MVMall DD
+#EXTINF:-1 tvg-id="MVMallDD.th" tvg-name="MVMall DD" tvg-logo="https://media-mvtv.imgix.net/channel/40_y_R3MIzeVEgNlZ♠5byXDchKdr9P12QfF.jpg" group-title="th",MVMall DD
 https://lb1-live-mv.v2h-cdn.com/hls/fdee/mvmalldd/mvmalldd.m3u8
 #EXTINF:-1 tvg-id="AnurakTV.th" tvg-name="Anurak TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/Anurak_TV.png" group-title="th",Anurak TV
 https://vdo.plathong.net/anuraktv/anuraktv/playlist.m3u8
