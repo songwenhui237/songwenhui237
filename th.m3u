@@ -25,7 +25,7 @@ https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-logo="http://Channel8Thailand.com/ch8-ci 415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title ="th"，Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
-#EXTINF:-1 tvg-id="ATTV.th" tvg-name="ATTV" tvg-logo="https://static.thaicom.io/image_channel/images_img_Chn_big_Chn_61.png" group-title="th",ATTV
+#EXTINF:-1 tvg-id="ATTV.th" tvg-name="ATTV" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_61.png" group-title="th",ATTV
 http://161.82.243.133:8089/HDAttv/video.m3u8
 # ext INF:-1 tvg-id = " TPTV . th " tvg-name = " TPTV " tvg-logo = " https://static . wikia . nocookie . net/logopedia/images/0/0b/TPTV _ 2014 . png " group-title = " th "，TPTV
 https://lb1-live-mv.v2h-cdn.com/hls/ffec/tptv/tptv.m3u8
