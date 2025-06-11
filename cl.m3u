@@ -43,3 +43,5 @@ https://v2.tustreaming.cl/catvlive/index.m3u8
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
 #EXTINF:-1 tvg-id="RTC.cl" tvg-name="RTC" tvg-logo="https://rtctelevision.cl/images/logortc.png" group-title="cl",RTC
 https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
+#EXTINF:-1 tvg-id="HuascoTV.cl" tvg-name="Huasco TV" tvg-logo="https://huascotelevisionstreaming.cl/images/logo_superior.png" group-title="cl",Huasco TV 
+https://paneltv.online:1936/huasco/huasco/playlist.m3u8
