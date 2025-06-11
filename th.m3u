@@ -6,7 +6,7 @@ http://news1.live14.com/stream/news1.m3u8
 https://live-us1.thaimomo.com/live-as/chNBT-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:c30f-97f7-c767-ca64-98aa/playlist.m3u8
-#EXTINF:-1 tvg-id ="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.SVG/revision/latest/scale-to-width-down/200CB=20240505231211" group-title="th",Thai PBS
+#EXTINF:-1 tvg-id ="ThaiPBS.th" tvg-name="Thai PBS" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/5a/Thai_PBS_2011.svg/revision/latest/scale-to-width-down/200CB=20240505231211" group-title="th",Thai PBS
 https://live-us1.thaimomo.com/live-as/chThaipbshd-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
 https://thaipbs-mcx0wm.cdn.byteark.com/live/playlist.m3u8
@@ -20,7 +20,7 @@ https://live-us1.thaimomo.com/live-as/ch5hd-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Boom.th" tvg-name="Boom" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/BoomThailand2025.png/revision/latest/scale-to-width-down/250?cb=20250527152055" group-title="th",Boom
 https://live-us1.thaimomo.com/live-as/chboomerang-2/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/t_Sports_7_logo.png" group-title="th",T Sports 7
+#EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png/revision/latest/scale-to-width-down/300?cb=20211129065833" group-title="th",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-logo="http://Channel8Thailand.com/ch8-ci 415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title ="th"，Channel 8
