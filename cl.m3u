@@ -59,3 +59,5 @@ https://panel.tvstream.cl:1936/8030/8030/playlist.m3u8
 https://unlimited1-us.dps.live/itv/itv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="NativaTV.cl" tvg-name="Nativa TV" tvg-logo="https://www.nativatv.cl/home/wp-content/uploads/2019/08/Color.png" group-title="cl",Nativa TV
 https://stmv5.voxtvhd.com.br/nativatv/nativatv/playlist.m3u8
+#EXTINF:-1 tvg-id="HolvoetTV.cl" tvg-name="Holvoet TV" tvg-logo="https://www.pabellon.cl/pabellontv/canales/HOLVOET_TV.png" group-title="cl",Holvoet TV
+https://unlimited1-us.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
