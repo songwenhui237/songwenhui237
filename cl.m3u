@@ -27,3 +27,5 @@ https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
 #EXTINF:-1 tvg-id="AtacamaTV.cl" tvg-name="Atacama TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AtacamaTV.png" group-title="cl",Atacama TV
 https://v2.tustreaming.cl/atacamatv/index.m3u8
+#EXTINF:-1 tvg-id="AtacamaNoticias.cl" tvg-name="Atacama Noticias" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AtacamaNoticias.png" group-title="cl",Atacama Noticias
+https://v2.tustreaming.cl/atacamanoticias/index.m3u8
