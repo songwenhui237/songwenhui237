@@ -7,3 +7,5 @@ http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
 https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
 #EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" tvg-logo="https://huilatv.com/wp-content/uploads/2025/03/LOGO-HUILA-TV.webp" group-title="co",Huila TV
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SuramTV.png" group-title="co",Suram TV
+https://us.streaminghd.cl/suramtv/index.m3u8
