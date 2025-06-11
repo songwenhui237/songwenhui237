@@ -23,3 +23,5 @@ https://redirector.dps.live/hls/uatv/playlist.m3u8
 https://stv4.janus.cl/playlist/stream.m3u8
 #EXTINF:-1 tvg-id="EDTV.cl" tvg-name="EDTV" tvg-logo="https://tv.enfoquedigital.cl/assets/images/LOGO-ED.png" group-title="cl",EDTV
 https://5eaccbab48461.streamlock.net:1936/8074/8074/playlist.m3u8
+#EXTINF:-1 tvg-id="EstacionTV.cl" tvg-name="Estacion TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Radio_Estacion.png" group-title="cl",Estacion TV
+https://5eaccbab48461.streamlock.net:1936/heqhvtgebg/heqhvtgebg/playlist.m3u8
