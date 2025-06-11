@@ -41,3 +41,5 @@ https://teletraktv.janus.cl/playlist/stream.m3u8
 https://v2.tustreaming.cl/catvlive/index.m3u8
 #EXTINF:-1 tvg-id="UmagTV.cl" tvg-name="Umag TV" tvg-logo="https://static.wixstatic.com/media/2daf50_7254a1e75762460fa7212b495182fbdc~mv2.png/v1/fill/w_232,h_96,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/UMAGTV%20logo%20rectangular.png" group-title="cl",Umag TV
 https://tls-cl.cdnz.cl/umag1/ngrp:live_all/playlist.m3u8
+#EXTINF:-1 tvg-id="RTC.cl" tvg-name="RTC" tvg-logo="https://rtctelevision.cl/images/logortc.png" group-title="cl",RTC
+https://scl.edge.grupoz.cl/rtcstreaming/live/playlist.m3u8
