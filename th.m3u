@@ -23,7 +23,7 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-id="TSports7.th" tvg-name="T Sports 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png/revision/latest/scale-to-width-down/300?cb=20211129065833" group-title="th",T Sports 7
 https://live-us1.thaimomo.com/live-as/chtsport-1/playlist.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-logo="http://Channel8Thailand.com/ch8-ci 415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title ="th"，Channel 8
+#EXTINF:-1 tvg-id="Channel8.th" tvg-name="Channel 8" tvg-logo="http://channel8thailand.com/ch8-ci415-web/public/templates/ch8/img/18378709_1492777084098686_554998105_o.png" group-title="th",Channel 8
 https://cdn-th-vip.login.in.th:443/ch8/ch8/chunklist.m3u8
 #EXTINF:-1 tvg-id="ATTV.th" tvg-name="ATTV" tvg-logo="https://static.thaicom.io/image_channel/images_img_chn_big_Chn_61.png" group-title="th",ATTV
 http://161.82.243.133:8089/HDAttv/video.m3u8
@@ -154,7 +154,7 @@ https://live.bangkokstream.com:19360/suwannabhumi/suwannabhumi.m3u8
 https://psiiptv-b.sky-cdn.com/ttd24-playlist/index.m3u8
 #EXTINF:-1 tvg-id="NBT11South.th" tvg-name="NBT 11 South" tvg-logo="https://nbtsuratthani.prd.go.th/cms/s297/u884/Layer_1_copy.png" group-title="th", NBT 11 South
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:406a-211e-df39-045c-4048.smil/chunklist_w1186889088_b2128000.m3u8
-#EXTINF:-1 tvg-id="NBTCentral.th" tvg-name="NBT Central" tvg-logo="https://www.nbtcentral.com/static/nbtlogpsm.png" group-title="th", NBT Central
+#EXTINF:-1 tvg-id="NBTCentral.th" tvg-name="NBT Central" tvg-logo="https://www.nbtcentral.com/static/nbtlogpsm.png" group-title="th",NBT Central
 https://cdn-edge-ott.prd.go.th/live_vlc/smil:01f1-8b4b-971e-aa35-d5fa.smil/chunklist_w2115520531_b3128000.m3u8
 #EXTINF:-1 tvg-id="KasetChumchon.th" tvg-name="Kaset Chumchon" tvg-logo="http://apiservice.psisat.com/uploaded/tv/logo/3b3462bc3e8d1b63419986a9308e185b.png?1749203118" group-title="th",Kaset Chumchon
 http://103.120.113.107:80/Kasat70/tracks-v1a1/mono.ts.m3u8
