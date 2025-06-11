@@ -55,7 +55,7 @@ https://flus.moinestifm.ro/ro.moinesti/index.m3u8
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Realitatea_Plus.png" group-title="ro",Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Realitatea_Star_2021.jpg" group-title="ro",Realitatea Star
+#EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/RealitateaStar.png" group-title="ro",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="TeleStar1.ro" tvg-name="Tele Star1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Telestar_1.png" group-title="ro",Tele Star1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
