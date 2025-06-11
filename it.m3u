@@ -9,7 +9,7 @@ https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/InterTV.png" group-title="it",Inter TV 
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" tvg-logo="https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg" group-title="it",Telecity Lombardia
+#EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Telecity_Lombardia.png" group-title="it",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8 
 #EXTINF:-1 tvg-id="A2iTV.it" tvg-name="A2i TV" tvg-logo="https://a2itv.com/wp-content/uploads/2024/09/cropped-a2ilog-1.png" group-title="it",A2i TV 
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
