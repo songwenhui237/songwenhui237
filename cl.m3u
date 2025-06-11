@@ -35,3 +35,5 @@ https://tv.arkeo.cl:1936/enlacetv1/enlacetv1/playlist.m3u8
 https://5eaccbab48461.streamlock.net:1936/8002/8002/playlist.m3u8
 #EXTINF:-1 tvg-id="MTNATV.cl" tvg-name="MTNATV" tvg-logo="https://www.mtna.tv/img/logo.png" group-title="cl",MTNATV
 https://live.mtna.tv/hls/mtna/mtna.m3u8
+#EXTINF:-1 tvg-id="TeletrakTV.cl" tvg-name="Teletrak TV" tvg-logo="http://www.teletraktv.cl/wp-content/uploads/2019/04/cropped-MOSCA-TELETRAK-DIAGONAL_00300-3-1600x730.png" group-title="cl",Teletrak TV
+https://teletraktv.janus.cl/playlist/stream.m3u8
