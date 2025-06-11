@@ -19,3 +19,5 @@ https://unlimited1-us.dps.live/isb/isb.smil/playlist.m3u8
 http://camara.03.cl.cdnz.cl/camara19/live/playlist.m3u8
 #EXTINF:-1 tvg-id="UATV.cl" tvg-name="UATV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Universidad-Autonoma-de-Chile-Television-en-vivo-Online.png" group-title="cl",UATV
 https://redirector.dps.live/hls/uatv/playlist.m3u8
+#EXTINF:-1 tvg-id="SantiagoTV.cl" tvg-name="Santiago TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SantiagoTV_cl.png" group-title="cl",Santiago TV
+https://stv4.janus.cl/playlist/stream.m3u8
