@@ -27,5 +27,5 @@ https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="http://www.canalmastelevision.com.co/AAS.png" group-title="co",Canal Mas Television
 https://movil.ejeserver.com/live/teledoradahd.m3u8
-#EXTINF:-1 tvg-id="Canal8TV+.co" tvg-name="Canal 8 TV+" tvg-logo="https://canalescolombianos.live/template/images/tv/canal8tvplus.co.jpg" group-title="co",Canal 8 TV+
+#EXTINF:-1 tvg-id="Canal8TV+.co" tvg-name="Canal 8 TV+" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Canal8TVPlus.png" group-title="co",Canal 8 TV+
 https://movil.ejeserver.com/live/canal8tv.m3u8
