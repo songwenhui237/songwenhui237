@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="DelfiTV.dj" tvg-name="Delfi TV" tvg-logo="https://g.delfi.lt/glt/c/delfi-logo/delfi_ua.svg" group-title="dj",Delfi TV
+https://s1.dcdn.lt/live/televizija/playlist.m3u8
