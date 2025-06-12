@@ -19,3 +19,5 @@ https://movil.ejeserver.com/live/nets.m3u8
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSanJorge.co" tvg-name="TV San Jorge" tvg-logo="https://tvsanjorge.tv/wp-content/uploads/2024/07/logo-asucap-sin-tv-HD-272x90-1.png" group-title="co",TV San Jorge
 https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="TeleIslas.co" tvg-name="Tele Islas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo-768x219.png" group-title="co",Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
