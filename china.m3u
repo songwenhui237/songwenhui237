@@ -23,3 +23,5 @@ https://pull.luojiangrongmei.com/ljds/ljtv.m3u8
 https://play.jaxrm.cn/live/10001802.m3u8?auth_key=1763106038-0-0-8f2fc3fca68e64ba2d28df22f9cda424
 #EXTINF:-1 tvg-id="剑阁综合频道.china" tvg-name="剑阁综合频道" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/JiangeTV.png" group-title="china",剑阁综合频道
 https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8
+#EXTINF:-1 tvg-id="百色综合频道.china" tvg-name="百色综合频道" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/BaiseTV.jpeg" group-title="china",百色综合频道
+http://43.138.216.144:80/live/livestream.m3u8
