@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-name="Mindanow Network TV" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="ph",Mindanow Network TV
+https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
