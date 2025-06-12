@@ -11,3 +11,5 @@ https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 https://us.streaminghd.cl/suramtv/index.m3u8
 #EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Teleantioquia.png" group-title="co",Teleantioquia
 https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="CTVBarranquilla.co" tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online.png" group-title="co",CTV Barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
