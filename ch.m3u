@@ -3,3 +3,5 @@
 https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
 #EXTINF:-1 tvg-id="RTS3.ch" tvg-name="RTS3" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/RTS3.png" group-title="ch",RTS3
 https://rtsc3video.akamaized.net/hls/live/2042837/c3video/3/playlist.m3u8
+#EXTINF:-1 tvg-id="Carac4.ch" tvg-name="Carac 4" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Carac4.png" group-title="ch",Carac 4
+https://edge17.vedge.infomaniak.com/livecast/ik:compack_media_1/playlist.m3u8
