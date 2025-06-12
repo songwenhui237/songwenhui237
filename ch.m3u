@@ -1,1 +1,3 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="DritaTV.ch" tvg-name="Drita TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/DritaTV.png" group-title="ch",Drita TV
+https://dritatv.protokolldns.xyz/dritaweb5587989/index.m3u8
