@@ -25,3 +25,5 @@ https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
 #EXTINF:-1 tvg-id="BumTelevision.co" tvg-name="Bum Television" tvg-logo="https://www.bumtelevision.com.co/wp-content/uploads/2024/05/Logo-BUMTV_ok-164x62.png" group-title="co",Bum Television
 https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="http://www.canalmastelevision.com.co/AAS.png" group-title="co",Canal Mas Television
+https://movil.ejeserver.com/live/teledoradahd.m3u8
