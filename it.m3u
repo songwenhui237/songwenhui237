@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://www.upmagazinearezzo.it/atladv/wp-content/uploads/2017/07/atlantide-adv-logo-italian-fishing-tv.jpg" group-title="it",Italian Fishing TV
+#EXTINF:-1 tvg-id="ItalianFishingTV.it" tvg-name="Italian Fishing TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Italian_FishingTV.png" group-title="it",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVCampiFlegrei.it" tvg-name="TV Campi Flegrei" tvg-logo="https://www.tvcampiflegrei.it/wp-content/uploads/2023/06/logo-campi-flegrei-1.png" group-title="it",TV Campi Flegrei
 https://rst2.saiuzwebnetwork.it:8081/campiflegreitv/index.m3u8
@@ -9,13 +9,13 @@ https://streaming.softwarecreation.it/Italia7/Italia7/playlist.m3u8
 https://ilglobotv-live.akamaized.net/channels/La7Italia/Live.m3u8
 #EXTINF:-1 tvg-id="InterTV.it" tvg-name="Inter TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/InterTV.png" group-title="it",Inter TV 
 https://ilglobotv-live.akamaized.net/channels/InterTV/Live.m3u8
-#EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" tvg-logo="https://www.telecity.it/wp-content/uploads/2024/01/canale_lombardia.jpg" group-title="it",Telecity Lombardia
+#EXTINF:-1 tvg-id="TelecityLombardia.it" tvg-name="Telecity Lombardia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Telecity_Lombardia.png" group-title="it",Telecity Lombardia
 https://64b16f23efbee.streamlock.net/telecitylombardia/telecitylombardia/playlist.m3u8 
 #EXTINF:-1 tvg-id="A2iTV.it" tvg-name="A2i TV" tvg-logo="https://a2itv.com/wp-content/uploads/2024/09/cropped-a2ilog-1.png" group-title="it",A2i TV 
 https://stream.sen-gt.com/A2itv/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TRSport.it" tvg-name="TR Sport" tvg-logo="https://teleromagna.it/Images/logo-tr-sport.jpg" group-title="it",TR Sport
 https://livetr.teleromagna.it/mia/live/playlist.m3u8
-#EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" tvg-logo="https://play-lh.googleusercontent.com/VbFSMk-yCf9lxplU3GTzFpP6BVIieWck_O03h2DFy2WiFxUePp-nhPHSV_Bm9JOSpg" group-title="it",Rete Biella TV
+#EXTINF:-1 tvg-id="ReteBiellaTV.it" tvg-name="Rete Biella TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/ReteBiellaTV.png" group-title="it",Rete Biella TV
 https://sb.top-ix.org/retebiella/streaming/playlist.m3u8
 #EXTINF:-1 tvg-id="CafeTV24.it" tvg-name="Cafe TV 24" tvg-logo="https://www.cafetv24.it/wp-content/uploads/2021/05/logo-cafe-trasmissione_ARROTONDATO1.png" group-title="it",Cafe TV 24
 https://srvx1.selftv.video/cafe/smil:live/playlist.m3u8
@@ -49,9 +49,9 @@ https://5926fc9c7c5b2.streamlock.net/9332/9332/playlist.m3u8
 https://5f22d76e220e1.streamlock.net/primafree/primafree/playlist.m3u8
 #EXTINF:-1 tvg-id="RTV38.it" tvg-name="RTV 38" tvg-logo="https://www.tg38.it/rtv38/wp-content/uploads/2023/10/light-rtv38-logo-1.png" group-title="it",RTV 38
 https://845d8509d2cb4f249dd0b2ae5755b6c2.msvdn.net/rtv38/rtv38_live_main/mainabr/playlist_dvr.m3u8
-#EXTINF:-1 tvg-id="TeleNord.it" tvg-name="Tele Nord" tvg-logo="https://www.donasport.com/slike/tele-nord-tv-italy.jpg" group-title="it",Tele Nord
+#EXTINF:-1 tvg-id="TeleNord.it" tvg-name="Tele Nord" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Tele_Nord.png" group-title="it",Tele Nord
 https://64b16f23efbee.streamlock.net/telenord/telenord/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleOne16.it" tvg-name="Tele One 16" tvg-logo="https://www.tvdream.net/img/teleone-cover.jpg" group-title="it",Tele One 16
+#EXTINF:-1 tvg-id="TeleOne16.it" tvg-name="Tele One 16" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Tele_One_16.png" group-title="it",Tele One 16
 https://648026e87a75e.streamlock.net/teleone/teleone/playlist.m3u8
 #EXTINF:-1 tvg-id="GoldTVNetwork.it" tvg-name="Gold TV Network" tvg-logo="https://www.canclan.com/wp-content/uploads/2015/05/LOGOGOLDTV-800-600-copia.png" group-title="it",Gold TV Network
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8

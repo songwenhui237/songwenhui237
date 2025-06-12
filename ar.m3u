@@ -1,3 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SenilosaTV.ar" tvg-name="Senilosa TV" tvg-logo="https://www.senillosatv.com.ar/Graficos/Logo%20Senillosa.jpg" group-title="ar",Senilosa TV
+#EXTINF:-1 tvg-id="SenilosaTV.ar" tvg-name="Senilosa TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SenilosaTV.png" group-title="ar",Senilosa TV
 https://stmv1.liveplushd.com.br/senillosatv/senillosatv/playlist.m3u8
+#EXTINF:-1 tvg-id="QuanticaTV.ar" tvg-name="Quantica TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/QuanticaTV.png" group-title="ar",Quantica TV
+https://videostream.shockmedia.com.ar:19360/quanticatv/quanticatv.m3u8

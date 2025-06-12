@@ -1,0 +1,31 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="ZoomCanal.co" tvg-name="Zoom Canal" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Canal-Zoom-TV-en-vivo-Online.png" group-title="co",Zoom Canal
+https://canalzoom.smoothcloud.co:3027/live/canalzoombr1live.m3u8
+#EXTINF:-1 tvg-id="ViveTVColombia.co" tvg-name="Vive TV Colombia"tvg-logo="https://static.wixstatic.com/media/178329_1bec007cc5914e4497450b9ba5befda9~mv2.png/v1/fit/w_2500,h_1330,al_c/178329_1bec007cc5914e4497450b9ba5befda9~mv2.png" group-title="co",Vive TV Colombia
+http://192.144.113.132:1935/live/ViveTV/playlist.m3u8
+#EXTINF:-1 tvg-id="EurekaTV.co" tvg-name="Eureka TV" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2022/09/Eureka-tu-canal-en-vivo-Online.png" group-title="co",Eureka TV
+https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
+#EXTINF:-1 tvg-id="HuilaTV.co" tvg-name="Huila TV" tvg-logo="https://huilatv.com/wp-content/uploads/2025/03/LOGO-HUILA-TV.webp" group-title="co",Huila TV
+https://server.asilivehd.com:3333/live/huilatvlive.m3u8
+#EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SuramTV.png" group-title="co",Suram TV
+https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Teleantioquia.png" group-title="co",Teleantioquia
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
+#EXTINF:-1 tvg-id="CTVBarranquilla.co" tvg-name="CTV Barranquilla" tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/07/CTV-Barranquilla-en-vivo-Online.png" group-title="co",CTV Barranquilla
+https://59a564764e2b6.streamlock.net/ctvbarranquilla/_definst_/ctv/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalNets.co" tvg-name="Canal Nets" tvg-logo="https://canalnets.com/wp-content/uploads/2022/05/netslogo.png" group-title="co",Canal Nets
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-id="TVPenol.co" tvg-name="TV Penol" tvg-logo="https://static.wixstatic.com/media/ddf45e_5d497329920543eea64b6b710967480c~mv2.png/v1/fit/w_2500,h_1330,al_c/ddf45e_5d497329920543eea64b6b710967480c~mv2.png" group-title="co",TV Penol
+https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
+#EXTINF:-1 tvg-id="TVSanJorge.co" tvg-name="TV San Jorge" tvg-logo="https://tvsanjorge.tv/wp-content/uploads/2024/07/logo-asucap-sin-tv-HD-272x90-1.png" group-title="co",TV San Jorge
+https://asucap.com/livestream/asucap_envivo.m3u8
+#EXTINF:-1 tvg-id="TeleIslas.co" tvg-name="Tele Islas" tvg-logo="https://teleislas.gov.co/wp-content/uploads/2019/07/cropped-Teleislas_Logo-768x219.png" group-title="co",Tele Islas
+https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
+#EXTINF:-1 tvg-id="CanalCaliTV.co" tvg-name="Canal Cali TV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="co",Canal Cali TV
+https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="BumTelevision.co" tvg-name="Bum Television" tvg-logo="https://www.bumtelevision.com.co/wp-content/uploads/2024/05/Logo-BUMTV_ok-164x62.png" group-title="co",Bum Television
+https://movil.ejeserver.com/live/visiondorada.m3u8
+#EXTINF:-1 tvg-id="CanalMasTelevision.co" tvg-name="Canal Mas Television" tvg-logo="http://www.canalmastelevision.com.co/AAS.png" group-title="co",Canal Mas Television
+https://movil.ejeserver.com/live/teledoradahd.m3u8
+#EXTINF:-1 tvg-id="Canal8TV+.co" tvg-name="Canal 8 TV+" tvg-logo="https://canalescolombianos.live/template/images/tv/canal8tvplus.co.jpg" group-title="co",Canal 8 TV+
+https://movil.ejeserver.com/live/canal8tv.m3u8

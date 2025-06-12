@@ -25,7 +25,7 @@ https://jobtvserver.eu/hls/stream.m3u8
 https://www.livemetropolatv.ro/MetropolaTV/Metro/playlist.m3u8
 #EXTINF:-1 tvg-id="Hunedoara1.ro" tvg-name="Hunedoara 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Hunedoara_1.png" group-title="ro",Hunedoara 1
 https://netstreaming.eu/hd1.m3u8
-#EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/88/Informatia_TV.png" group-title="ro",Informatia TV
+#EXTINF:-1 tvg-id="InformatiaTV.ro" tvg-name="Informatia TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/InformatiaTV.png" group-title="ro",Informatia TV
 https://informatia.streamnet.ro/mobile_tv/informatiatv.m3u8
 #EXTINF:-1 tvg-id="IntermediaTV.ro" tvg-name="Intermedia TV" tvg-logo="https://intermediatv.ro/wp-content/uploads/2023/01/televiziunea-intermedia-logo-1.png" group-title="ro",Intermedia TV
 http://83.103.150.208:8080/stream/ram/playlist.m3u8
@@ -51,11 +51,11 @@ http://78.96.33.89:8080/
 http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="MoinestiTV.ro" tvg-name="Moinesti TV" tvg-logo="https://moinestifm.ro/images/moinesti_tv.png" group-title="ro",Moinesti TV
 https://flus.moinestifm.ro/ro.moinesti/index.m3u8
-#EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/44/Realitatea_Sportiva_2021.png" group-title="ro",Realitatea Sportiva
+#EXTINF:-1 tvg-id="RealitateaSportiva.ro" tvg-name="Realitatea Sportiva" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/RealitateaSportiva.png" group-title="ro",Realitatea Sportiva
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ea/Realitatea_Plus_%282020-present%29.png" group-title="ro",Realitatea Plus
+#EXTINF:-1 tvg-id="RealitateaPlus.ro" tvg-name="Realitatea Plus" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Realitatea_Plus.png" group-title="ro",Realitatea Plus
 https://stream.realitatea.net/realitatea/plus_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c6/Realitatea_Star_2021.jpg" group-title="ro",Realitatea Star
+#EXTINF:-1 tvg-id="RealitateaStar.ro" tvg-name="Realitatea Star" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/RealitateaStar.png" group-title="ro",Realitatea Star
 https://stream.realitatea.net/realitatea/star_md/ts:playlist.m3u8
 #EXTINF:-1 tvg-id="TeleStar1.ro" tvg-name="Tele Star1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/59/Telestar_1.png" group-title="ro",Tele Star1
 https://dvb.tennet.ro/mobile_tv/telestar.m3u8
