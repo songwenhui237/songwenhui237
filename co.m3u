@@ -23,3 +23,5 @@ https://asucap.com/livestream/asucap_envivo.m3u8
 https://5ab772334c39c.streamlock.net/live-teleislas/_definst_/teleislas/playlist.m3u8
 #EXTINF:-1 tvg-id="CanalCaliTV.co" tvg-name="Canal Cali TV" tvg-logo="https://www.canalcalitv.com/wp-content/uploads/2017/10/Logo_CaliTV.png" group-title="co",Canal Cali TV
 https://5ab772334c39c.streamlock.net/live-calitv/_definst_/calitv1/playlist.m3u8
+#EXTINF:-1 tvg-id="BumTelevision.co" tvg-name="Bum Television" tvg-logo="https://www.bumtelevision.com.co/wp-content/uploads/2024/05/Logo-BUMTV_ok-164x62.png" group-title="co",Bum Television
+https://movil.ejeserver.com/live/visiondorada.m3u8
