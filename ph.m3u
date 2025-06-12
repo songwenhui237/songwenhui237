@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="MindanowNetworkTV.ph" tvg-name="Mindanow Network TV" tvg-logo="https://ml02dtnc01wc.i.optimole.com/w:945/h:945/q:mauto/ig:avif/https://mindanownetwork.com/wp-content/uploads/2024/11/Mindanow-Network-Logo-Vertical.png" group-title="ph",Mindanow Network TV
 https://streams1.comclark.com/overlay/mindanow/playlist.m3u8
+#EXTINF:-1 tvg-id="CCTN47.ph" tvg-name="CCTN47" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/CCTN47.png" grouo-title="ph",CCTN47 
+http://122.55.252.134:8443/live/bba5b536faeacb9b56a3239f1ee8e3b3/1.m3u8
