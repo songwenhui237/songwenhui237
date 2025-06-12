@@ -9,3 +9,5 @@ https://cdns.livewave.co:19360/eurekatv/eurekatv.m3u8
 https://server.asilivehd.com:3333/live/huilatvlive.m3u8
 #EXTINF:-1 tvg-id="SuramTV.co" tvg-name="Suram TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SuramTV.png" group-title="co",Suram TV
 https://us.streaminghd.cl/suramtv/index.m3u8
+#EXTINF:-1 tvg-id="Teleantioquia.co" tvg-name="Teleantioquia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/Teleantioquia.png" group-title="co",Teleantioquia
+https://liveingesta118.cdnmedia.tv/teleantioquialive/smil:dvrlive.smil/playlist.m3u8?DVR
