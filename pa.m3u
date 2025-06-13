@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CaritasTV.pa" tvg-name="Caritas TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/CaritasTV.png" group-title="pa",Caritas TV
 https://tigocloudgen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
+#EXTINF:-1 tvg-id="TVChaquena.pa" tvg-name="TV Chaquena" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/TV_Chaquena.png" group-title="pa",TV Chaquena
+https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
