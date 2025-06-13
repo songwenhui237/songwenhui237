@@ -9,3 +9,5 @@ https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
 #EXTINF:-1 tvg-id="JordanTV.jo" tvg-name="Jordan TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/JordanTV.png" group-title="jo",Jordan TV
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
+#EXTINF:-1 tvg-id="JordanTourism.jo" tvg-name="Jordan Tourism" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/JordanTourism.png" group-title="jo",Jordan Tourism
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
