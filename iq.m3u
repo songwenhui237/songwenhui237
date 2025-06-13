@@ -7,3 +7,5 @@ https://live.bradosti.net/live/AlSamara/index.m3u8
 https://mediaserver.abnvideos.com/streams/abnsat.m3u8
 #EXTINF:-1 tvg-id="AlaimmaTV.iq" tvg-name="Alaimma TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AlaimmaTV.png" group-title="iq",Alaimma TV
 http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
+#EXTINF:-1 tvg-id="AlJanoub.iq" tvg-name="Al Janoub" tvg-logo="https://aljanoub.tv/wp-content/uploads/2024/05/screenshot.png.webp" group-title="iq",Al Janoub
+https://s1.ettehadlive.com/live/18/playlist.m3u8
