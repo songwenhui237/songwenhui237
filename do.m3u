@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="TeleUnion.do" tvg-name="Tele Union" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/TeleUnion.png" group-title="do",Tele Union
+http://server2grupocam.com:1945/teleunion/TU/playlist.m3u8
