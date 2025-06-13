@@ -11,3 +11,5 @@ https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
 https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
 #EXTINF:-1 tvg-id="JordanTourism.jo" tvg-name="Jordan Tourism" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/T/MO/24797/Poster.png?v=638410894446076163" group-title="jo",Jordan Tourism
 https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Tourism/playlist.m3u8
+#EXTINF:-1 tvg-id="JordanArshif.jo" tvg-name="Jordan Arshif" tvg-logo="https://static.jrtv.gov.jo/resize-width/380/content/r/1N/35661/Poster.png?v=638410894018385931" group-title="jo",Jordan Arshif
+https://playlist.fasttvcdn.com/pl/cc0blorawy1ibohhrupraa/Archive/playlist.m3u8
