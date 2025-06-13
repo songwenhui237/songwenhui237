@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="AvaSeries.ir" tvg-name="Ava Series" tvg-logo="https://www.aparatchi.com/images/TV/ava-ser.png" group-title="ir",Ava Series
+#EXTINF:-1 tvg-id="AvaSeries.ir" tvg-name="Ava Series" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AvaSeries.png" group-title="ir",Ava Series
 https://avaserieshls.wns.live:443/hls/stream.m3u8
