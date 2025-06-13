@@ -3,3 +3,5 @@
 https://tigocloudgen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
 #EXTINF:-1 tvg-id="TVChaquena.pa" tvg-name="TV Chaquena" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/TV_Chaquena.png" group-title="pa",TV Chaquena
 https://rds3gen.desdeparaguay.net/tvchaquena/tvchaquena/playlist.m3u8
+#EXTINF:-1 tvg-id="ProductivaTV.pa" tvg-name="Productiva TV" tvg-logo="https://productiva.tv/wp-content/uploads/2020/04/icotv.png" group-title="pa",Productiva TV
+https://tigocloudgen.desdeparaguay.net/productivatv/productivatv_baja/playlist.m3u8
