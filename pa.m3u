@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CaritasTV.pa" tvg-name="Caritas TV" tvg-logo="https://www.caritas.com.py/wp-content/uploads/2022/04/l2.jpg" group-title="pa",Caritas TV
+#EXTINF:-1 tvg-id="CaritasTV.pa" tvg-name="Caritas TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/CaritasTV.png" group-title="pa",Caritas TV
 https://tigocloudgen.desdeparaguay.net/caritastv/caritastv/playlist.m3u8
