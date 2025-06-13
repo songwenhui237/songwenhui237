@@ -7,3 +7,5 @@ https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
 #EXTINF:-1 tvg-id="AlhaqiqaTV.jo" tvg-name="Al Haqiqa TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AlhaqiqaTV.jpg" group-title="jo",Al Haqiqa TV
 https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
+#EXTINF:-1 tvg-id="JordanTV.jo" tvg-name="Jordan TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/main/JordanTV.png" group-title="jo",Jordan TV
+https://jrtv-live.ercdn.net/jordanhd/jordanhd.m3u8
