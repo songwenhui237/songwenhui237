@@ -3,3 +3,5 @@
 https://avaserieshls.wns.live:443/hls/stream.m3u8
 #EXTINF:-1 tvg-id="Al-Samara.iq" tvg-name="Al-Samara" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AlSamara.png" group-title="iq",Al-Samara
 https://live.bradosti.net/live/AlSamara/index.m3u8
+#EXTINF:-1 tvg-id="ABNsat.iq" tvg-name="ABNsat" tvg-logo="https://static.wixstatic.com/media/175e85_0263a0f068284c25a735e197aef4fe63~mv2_d_1637_1662_s_2.png/v1/fill/w_92,h_84,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/175e85_0263a0f068284c25a735e197aef4fe63~mv2_d_1637_1662_s_2.png" group-title="iq",ABNsat
+https://mediaserver.abnvideos.com/streams/abnsat.m3u8
