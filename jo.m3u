@@ -5,3 +5,5 @@ https://playlist.fasttvcdn.com/pl/ptllxjd03j6g9oxxjdfapg/roya-kids/playlist.m3u8
 https://playlist.fasttvcdn.com/pl/a2le4pbpa6rpzv147haf4w/drama/playlist/3.m3u8
 #EXTINF:-1 tvg-id="RoyaTV.jo" tvg-name="Roya TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/RoyaTV.png" group-title="jo",Roya TV
 https://royatv-live.daioncdn.net/royatv/royatv.m3u8
+#EXTINF:-1 tvg-id="AlhaqiqaTV.jo" tvg-name="Al Haqiqa TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AlhaqiqaTV.jpg" group-title="jo",Al Haqiqa TV
+https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8
