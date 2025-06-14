@@ -11,3 +11,5 @@ http://stream.alaimma.tv/hls/alaimma/h3b1rd584cpq8p60okoj01rnfigdcnia.m3u8
 https://s1.ettehadlive.com/live/18/playlist.m3u8
 #EXTINF:-1 tvg-id="AlEsharqTV.iq" tvg-name="Al Esharq TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AlEsharqTV.png" group-title="iq",Al Esharq TV
 https://s1.ettehadlive.com/live/19/chunklist.m3u8
+#EXTINF:-1 tvg-id="AlIraqia.iq" tvg-name="Al Iraqia" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/AlIraqia.png" group-title="iq",Al Iraqia
+https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
