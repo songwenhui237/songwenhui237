@@ -27,3 +27,5 @@ https://tvfile.scjgtv.cn/nmip-media/channellive/channel104126/playlist.m3u8
 http://43.138.216.144:80/live/livestream.m3u8
 #EXTINF:-1 tvg-id="平鲁综合频道.china" tvg-name="平鲁综合频道" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/PingluTV.png" group-title="china",平鲁综合频道
 http://player4.juyun.tv:80/tv/167019161.m3u8
+#EXTINF:-1 tvg-id="洪雅综合频道.china" tvg-name="洪雅综合频道" tvg-logo="https://imgcdn.kangyanghongya.com/newscontent-5449a0e3-0c02-414a-ac59-c607bef74606-1750064529123.png" group-title="china",洪雅综合频道
+https://dg1sy-livehls.migucloud.com/live/TIMV9AKA_C0/playlist.m3u8
