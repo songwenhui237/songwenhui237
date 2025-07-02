@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="SamTV.gh" tvg-name="Sam TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/SamTV.png" group-title="gh",Sam TV
 https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_009/Stream/playlist.m3u8
-#EXTINF:-1 tvg-id="GEyeTV.gh" tvg-name="G Eye TV" tvg-logo="https://online.geyetv.com/logo" group-title="gh",G Eye TV
+#EXTINF:-1 tvg-id="GEyeTV.gh" tvg-name="G Eye TV" tvg-logo="https://raw.githubusercontent.com/songwenhui237/songwenhui237/refs/heads/logo/G-EyeTV.jpeg" group-title="gh",G Eye TV
 https://online.geyetv.com/hls/stream.m3u8
